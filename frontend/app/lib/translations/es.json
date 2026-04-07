@@ -1,0 +1,920 @@
+{
+  "_meta": {
+    "locale": "es",
+    "updatedAt": "2026-04-07T03:07:04.546Z"
+  },
+  "strings": {
+    "title:bf647454e360": {
+      "_src": "Getting Started",
+      "text": "Empezando"
+    },
+    "title:4186b263f282": {
+      "_src": "What is CCTools?",
+      "text": "¿Qué es CCTools?"
+    },
+    "title:fd63bada388d": {
+      "_src": "Creating Your Account",
+      "text": "Creando tu cuenta"
+    },
+    "title:6dcbbba0ceb2": {
+      "_src": "Navigating the Platform",
+      "text": "Navegando por la plataforma"
+    },
+    "title:d4f859a96c13": {
+      "_src": "Portfolio",
+      "text": "Cartera"
+    },
+    "title:9f9959c4c26a": {
+      "_src": "Adding Wallets",
+      "text": "Agregar billeteras"
+    },
+    "title:8a530ee81bc8": {
+      "_src": "Understanding P&L",
+      "text": "Entendiendo las pérdidas y ganancias"
+    },
+    "title:430cfc97502d": {
+      "_src": "Rewards Tracking",
+      "text": "Seguimiento de recompensas"
+    },
+    "title:47e3170ffb3d": {
+      "_src": "Ecosystem",
+      "text": "Ecosistema"
+    },
+    "title:a47195cbf962": {
+      "_src": "Browsing Projects",
+      "text": "Explorando proyectos"
+    },
+    "title:2791d6982ad4": {
+      "_src": "Compare Tool",
+      "text": "Herramienta de comparación"
+    },
+    "title:7dea59dff983": {
+      "_src": "Sponsored Listings",
+      "text": "Anuncios patrocinados"
+    },
+    "title:dabb69e2d82f": {
+      "_src": "Earn & XP",
+      "text": "Gana y XP"
+    },
+    "title:a44b28c69772": {
+      "_src": "Earn Opportunities",
+      "text": "Gana oportunidades"
+    },
+    "title:6fe74b815c31": {
+      "_src": "How the XP System Works",
+      "text": "Cómo funciona el sistema XP"
+    },
+    "title:65cda8a2074c": {
+      "_src": "Badges & Achievements",
+      "text": "Insignias y logros"
+    },
+    "title:6540b502e953": {
+      "_src": "Referral Program",
+      "text": "Programa de referencia"
+    },
+    "title:e02b89857b91": {
+      "_src": "Leaderboard",
+      "text": "Tabla de clasificación"
+    },
+    "title:b6e7561ac3f1": {
+      "_src": "Account & Settings",
+      "text": "Configuraciones de la cuenta"
+    },
+    "title:ce1b1d88c4ca": {
+      "_src": "Profile Settings",
+      "text": "Configuración de perfil"
+    },
+    "title:d51fb99271c4": {
+      "_src": "Security Best Practices",
+      "text": "Mejores prácticas de seguridad"
+    },
+    "title:6fed8b2615ec": {
+      "_src": "CCTools Pro",
+      "text": "CCTools Pro"
+    },
+    "title:8a3ae9cf95ac": {
+      "_src": "Canton Network",
+      "text": "Red Cantonal"
+    },
+    "title:52709d23162a": {
+      "_src": "What is Canton Network?",
+      "text": "¿Qué es la Red Cantón?"
+    },
+    "title:d581742e9be5": {
+      "_src": "The CC Token",
+      "text": "La ficha CC"
+    },
+    "title:b01b50ad57e7": {
+      "_src": "Rewards Calculator",
+      "text": "Calculadora de recompensas"
+    },
+    "title:71964fe421dc": {
+      "_src": "Validators & Governance",
+      "text": "Validadores y Gobernanza"
+    },
+    "title:504894b22ecc": {
+      "_src": "Campaigns",
+      "text": "Campañas"
+    },
+    "title:850250b52954": {
+      "_src": "How Campaigns Work",
+      "text": "Cómo funcionan las campañas"
+    },
+    "title:a83dca079889": {
+      "_src": "Sponsored & Banners",
+      "text": "Patrocinado y pancartas"
+    },
+    "title:71c6b868a2da": {
+      "_src": "Network & Data",
+      "text": "Red y datos"
+    },
+    "title:78695766e5b3": {
+      "_src": "Network Stats",
+      "text": "Estadísticas de red"
+    },
+    "title:0f69dc5fad0a": {
+      "_src": "Data Sources & APIs",
+      "text": "Fuentes de datos y API"
+    },
+    "title:7d61983c34ed": {
+      "_src": "Community",
+      "text": "Comunidad"
+    },
+    "title:b45048d6730b": {
+      "_src": "Community Rules",
+      "text": "Reglas de la comunidad"
+    },
+    "title:ae5c60c2ff8f": {
+      "_src": "How to Contribute",
+      "text": "Cómo contribuir"
+    },
+    "title:5405d8a903c8": {
+      "_src": "Frequently Asked Questions",
+      "text": "Preguntas frecuentes"
+    },
+    "title:231cf4c70d86": {
+      "_src": "Troubleshooting",
+      "text": "Solución de problemas"
+    },
+    "title:190194f155d6": {
+      "_src": "Login Issues",
+      "text": "Problemas de inicio de sesión"
+    },
+    "title:f0cdc00ae68a": {
+      "_src": "Portfolio Not Loading",
+      "text": "Portafolio no cargando"
+    },
+    "title:c08c272bc564": {
+      "_src": "Contact Support",
+      "text": "Contactar con soporte"
+    },
+    "desc:bde9c50d0ce8": {
+      "_src": "New to CCTools? Start here. Learn how to create your account and explore the platform.",
+      "text": "¿Nuevo en CCTools? Empiece aquí. Aprenda cómo crear su cuenta y explorar la plataforma."
+    },
+    "desc:c62c42495797": {
+      "_src": "Track your Canton Network holdings, P&L, and transaction history.",
+      "text": "Realice un seguimiento de sus tenencias, pérdidas y ganancias y del historial de transacciones de Canton Network."
+    },
+    "desc:e927a8b00d74": {
+      "_src": "Discover projects building on Canton Network. Explore DeFi, RWA, infrastructure, and more.",
+      "text": "Descubra proyectos que se basan en Canton Network. Explore DeFi, RWA, infraestructura y más."
+    },
+    "desc:51a9e11867a6": {
+      "_src": "Complete quests, earn XP, climb the leaderboard, and unlock badges.",
+      "text": "Completa misiones, gana XP, sube en la clasificación y desbloquea insignias."
+    },
+    "desc:367f34dfe312": {
+      "_src": "Manage your profile, security settings, notifications, and preferences.",
+      "text": "Administre su perfil, configuración de seguridad, notificaciones y preferencias."
+    },
+    "desc:309f72861bf9": {
+      "_src": "Learn about Canton Network, the CC token, validators, and governance.",
+      "text": "Obtenga información sobre Canton Network, el token CC, los validadores y la gobernanza."
+    },
+    "desc:87f2371f3569": {
+      "_src": "Join partner campaigns, complete tasks, and earn rewards from Canton ecosystem projects.",
+      "text": "Únase a campañas de socios, complete tareas y obtenga recompensas de los proyectos del ecosistema de Canton."
+    },
+    "desc:11d196f0b3c5": {
+      "_src": "Understand where CCTools data comes from and how network stats are tracked.",
+      "text": "Comprenda de dónde provienen los datos de CCTools y cómo se rastrean las estadísticas de la red."
+    },
+    "desc:e594de84cacb": {
+      "_src": "Community rules, how to contribute, and frequently asked questions.",
+      "text": "Normas comunitarias, cómo contribuir y preguntas frecuentes."
+    },
+    "desc:647512a6437d": {
+      "_src": "Common issues and how to fix them. Can't find your answer? Contact support.",
+      "text": "Problemas comunes y cómo solucionarlos. ¿No encuentras tu respuesta? Póngase en contacto con el soporte."
+    },
+    "summary:b5fbe1206cc7": {
+      "_src": "Learn what CCTools is and how it helps you navigate the Canton Network ecosystem.",
+      "text": "Descubra qué es CCTools y cómo le ayuda a navegar por el ecosistema de Canton Network."
+    },
+    "summary:ab814be0d0b3": {
+      "_src": "Step-by-step guide to creating your CCTools account and connecting your wallet.",
+      "text": "Guía paso a paso para crear su cuenta CCTools y conectar su billetera."
+    },
+    "summary:c56371439af1": {
+      "_src": "Learn how to use the sidebar, search, and navigate between CCTools features.",
+      "text": "Aprenda a usar la barra lateral, buscar y navegar entre las funciones de CCTools."
+    },
+    "summary:acf9adbc2a2d": {
+      "_src": "How to add and manage multiple wallet addresses in your portfolio.",
+      "text": "Cómo agregar y administrar múltiples direcciones de billetera en su cartera."
+    },
+    "summary:45ffab86ecbb": {
+      "_src": "How CCTools calculates your profit and loss across your portfolio.",
+      "text": "Cómo CCTools calcula sus pérdidas y ganancias en toda su cartera."
+    },
+    "summary:84da09adbd12": {
+      "_src": "Track validator rewards, staking yields, and other Canton Network rewards.",
+      "text": "Realice un seguimiento de las recompensas del validador, los rendimientos de las apuestas y otras recompensas de Canton Network."
+    },
+    "summary:1e520b089880": {
+      "_src": "How to discover and explore projects in the Canton ecosystem.",
+      "text": "Cómo descubrir y explorar proyectos en el ecosistema de Cantón."
+    },
+    "summary:1425e09cffa6": {
+      "_src": "How to compare projects or validators side by side.",
+      "text": "Cómo comparar proyectos o validadores uno al lado del otro."
+    },
+    "summary:6da7b1e75835": {
+      "_src": "How sponsored ecosystem listings work and how to get one for your project.",
+      "text": "Cómo funcionan los listados de ecosistemas patrocinados y cómo conseguir uno para su proyecto."
+    },
+    "summary:7d3c04323696": {
+      "_src": "Browse and discover earning opportunities across the Canton ecosystem.",
+      "text": "Explore y descubra oportunidades de ingresos en todo el ecosistema de Canton."
+    },
+    "summary:45899e1960e4": {
+      "_src": "Understand how XP is earned, daily resets, and how levels are calculated.",
+      "text": "Comprenda cómo se obtienen XP, los reinicios diarios y cómo se calculan los niveles."
+    },
+    "summary:4864e15bac28": {
+      "_src": "Learn about the badge system, rarity tiers, and how to earn them.",
+      "text": "Obtenga más información sobre el sistema de insignias, los niveles de rareza y cómo obtenerlos."
+    },
+    "summary:f0552df2deed": {
+      "_src": "How to invite friends and earn rewards through the referral program.",
+      "text": "Cómo invitar amigos y ganar recompensas a través del programa de referencias."
+    },
+    "summary:f903a02e5543": {
+      "_src": "How the leaderboard ranks users and what determines your position.",
+      "text": "Cómo clasifica la tabla de clasificación a los usuarios y qué determina su posición."
+    },
+    "summary:441ee59670ea": {
+      "_src": "How to update your display name, avatar, and connected accounts.",
+      "text": "Cómo actualizar su nombre para mostrar, avatar y cuentas conectadas."
+    },
+    "summary:c440302a03ca": {
+      "_src": "Keep your CCTools account secure with these recommended practices.",
+      "text": "Mantenga segura su cuenta de CCTools con estas prácticas recomendadas."
+    },
+    "summary:1f9a84fa8575": {
+      "_src": "Learn about Pro features, pricing, and how to subscribe.",
+      "text": "Obtenga más información sobre las funciones Pro, los precios y cómo suscribirse."
+    },
+    "summary:2452ddd5e4cf": {
+      "_src": "An introduction to Canton Network and its unique architecture.",
+      "text": "Una introducción a Canton Network y su arquitectura única."
+    },
+    "summary:5156d728798b": {
+      "_src": "Understand CC token economics, supply, burns, and halving schedule.",
+      "text": "Comprenda la economía, el suministro, las quemas y el cronograma de reducción a la mitad de los tokens CC."
+    },
+    "summary:7c99f518cdea": {
+      "_src": "Estimate your potential Canton Network rewards as a builder, validator, or holder.",
+      "text": "Calcule sus posibles recompensas de Canton Network como constructor, validador o titular."
+    },
+    "summary:4cebe88ba651": {
+      "_src": "Browse validators, understand Super Validators, and track governance proposals.",
+      "text": "Explore los validadores, comprenda los supervalidadores y realice un seguimiento de las propuestas de gobernanza."
+    },
+    "summary:63353216c5af": {
+      "_src": "Learn how partner campaigns work and how to earn rewards by completing tasks.",
+      "text": "Descubra cómo funcionan las campañas de socios y cómo ganar recompensas al completar tareas."
+    },
+    "summary:d65471dfe539": {
+      "_src": "How sponsored listings and banner placements work on CCTools.",
+      "text": "Cómo funcionan los listados patrocinados y la colocación de banners en CCTools."
+    },
+    "summary:d9e1b08f6129": {
+      "_src": "What data is shown on the Network Stats page and how it is collected.",
+      "text": "Qué datos se muestran en la página de Estadísticas de red y cómo se recopilan."
+    },
+    "summary:bf39df6761d4": {
+      "_src": "Where CCTools gets its data and how often it is updated.",
+      "text": "De dónde obtiene CCTools sus datos y con qué frecuencia los actualiza."
+    },
+    "summary:c6acaa5be608": {
+      "_src": "The rules all community members must follow in CCTools channels.",
+      "text": "Las reglas que todos los miembros de la comunidad deben seguir en los canales de CCTools."
+    },
+    "summary:72c223841580": {
+      "_src": "Ways you can contribute to the CCTools ecosystem and earn recognition.",
+      "text": "Formas en que puede contribuir al ecosistema CCTools y obtener reconocimiento."
+    },
+    "summary:dc4ad0adeac8": {
+      "_src": "Answers to the most common questions about CCTools.",
+      "text": "Respuestas a las preguntas más comunes sobre CCTools."
+    },
+    "summary:1f08044f096e": {
+      "_src": "Can't log in? Here are the most common causes and fixes.",
+      "text": "¿No puedes iniciar sesión? Estas son las causas y soluciones más comunes."
+    },
+    "summary:f15e8a6ba0dd": {
+      "_src": "Troubleshoot issues with portfolio data not showing correctly.",
+      "text": "Solucione problemas relacionados con los datos de la cartera que no se muestran correctamente."
+    },
+    "summary:40ef878dae54": {
+      "_src": "How to reach the CCTools team for help.",
+      "text": "Cómo comunicarse con el equipo de CCTools para obtener ayuda."
+    },
+    "heading:3b878279a04d": {
+      "_src": "Overview",
+      "text": "Descripción general"
+    },
+    "heading:219927b224df": {
+      "_src": "Key Features",
+      "text": "Características clave"
+    },
+    "heading:b71fe31f4704": {
+      "_src": "Who is it for?",
+      "text": "¿Para quién es?"
+    },
+    "heading:d67850bd126f": {
+      "_src": "Sign Up",
+      "text": "Inscribirse"
+    },
+    "heading:dc39991cefb5": {
+      "_src": "Connect Your Wallet",
+      "text": "Conecte su billetera"
+    },
+    "heading:b62f0b9e8181": {
+      "_src": "Complete Your Profile",
+      "text": "Completa tu perfil"
+    },
+    "heading:795614697a17": {
+      "_src": "Sidebar Navigation",
+      "text": "Navegación de la barra lateral"
+    },
+    "heading:bb93431f20b6": {
+      "_src": "Global Search",
+      "text": "Búsqueda global"
+    },
+    "heading:5e86aeff6a72": {
+      "_src": "Add a Wallet",
+      "text": "Agregar una billetera"
+    },
+    "heading:ccf711de46b3": {
+      "_src": "Multiple Wallets",
+      "text": "Múltiples carteras"
+    },
+    "heading:733a9cc2f004": {
+      "_src": "Removing a Wallet",
+      "text": "Quitar una billetera"
+    },
+    "heading:2079ffd22397": {
+      "_src": "How P&L Works",
+      "text": "Cómo funcionan las pérdidas y ganancias"
+    },
+    "heading:7542d40cc585": {
+      "_src": "Export Options",
+      "text": "Opciones de exportación"
+    },
+    "heading:ad7b529c3908": {
+      "_src": "Rewards Dashboard",
+      "text": "Panel de recompensas"
+    },
+    "heading:73c2371a19c6": {
+      "_src": "Historical Rewards",
+      "text": "Recompensas históricas"
+    },
+    "heading:2ef2b523af87": {
+      "_src": "Ecosystem Directory",
+      "text": "Directorio de ecosistemas"
+    },
+    "heading:2614c2f5f114": {
+      "_src": "Filtering & Sorting",
+      "text": "Filtrado y clasificación"
+    },
+    "heading:bc529d2bbde3": {
+      "_src": "Upvoting Projects",
+      "text": "Proyectos de votación a favor"
+    },
+    "heading:0c8d8e58fad3": {
+      "_src": "Comparing Projects",
+      "text": "Comparando proyectos"
+    },
+    "heading:1e740099bc19": {
+      "_src": "Comparing Validators",
+      "text": "Comparación de validadores"
+    },
+    "heading:d35d146a0826": {
+      "_src": "What are Sponsored Listings?",
+      "text": "¿Qué son los listados patrocinados?"
+    },
+    "heading:bfe72f18052c": {
+      "_src": "How to Apply",
+      "text": "Cómo aplicar"
+    },
+    "heading:0ed15ebb16eb": {
+      "_src": "What are Opportunities?",
+      "text": "¿Qué son las oportunidades?"
+    },
+    "heading:1bc550b7bb0c": {
+      "_src": "Filtering Opportunities",
+      "text": "Filtrar oportunidades"
+    },
+    "heading:eb23d8e46997": {
+      "_src": "Showing Interest",
+      "text": "Mostrando interés"
+    },
+    "heading:ac2611d03f71": {
+      "_src": "Earning XP",
+      "text": "Ganar XP"
+    },
+    "heading:3a687f855fff": {
+      "_src": "Daily Resets & Streaks",
+      "text": "Reinicios y rachas diarias"
+    },
+    "heading:91aedca00492": {
+      "_src": "Levels",
+      "text": "Niveles"
+    },
+    "heading:740b51cf8ccb": {
+      "_src": "Badge Types",
+      "text": "Tipos de insignias"
+    },
+    "heading:75a99002848c": {
+      "_src": "Badge Showcase",
+      "text": "Exhibición de insignias"
+    },
+    "heading:54ef23bca0d2": {
+      "_src": "How Referrals Work",
+      "text": "Cómo funcionan las referencias"
+    },
+    "heading:94a7caae93ae": {
+      "_src": "XP Rewards",
+      "text": "Recompensas de XP"
+    },
+    "heading:1f4da964f8ea": {
+      "_src": "Rules",
+      "text": "Normas"
+    },
+    "heading:7fef7f939111": {
+      "_src": "How Rankings Work",
+      "text": "Cómo funcionan las clasificaciones"
+    },
+    "heading:5338fd6955e5": {
+      "_src": "Seasons (Coming Soon)",
+      "text": "Temporadas (próximamente)"
+    },
+    "heading:9e3c9fd00601": {
+      "_src": "Update Your Profile",
+      "text": "Actualiza tu perfil"
+    },
+    "heading:75c13c5619c7": {
+      "_src": "Connected Accounts",
+      "text": "Cuentas conectadas"
+    },
+    "heading:2b19de9e61f1": {
+      "_src": "Public Profile",
+      "text": "Perfil público"
+    },
+    "heading:03562a105058": {
+      "_src": "Password Security",
+      "text": "Seguridad de contraseña"
+    },
+    "heading:25fece61c1fa": {
+      "_src": "Two-Factor Authentication (2FA)",
+      "text": "Autenticación de dos factores (2FA)"
+    },
+    "heading:aa5b7dfd3b16": {
+      "_src": "General Tips",
+      "text": "Consejos generales"
+    },
+    "heading:5cf8117f05f1": {
+      "_src": "What is CCTools Pro?",
+      "text": "¿Qué es CCTools Pro?"
+    },
+    "heading:245bf65a6648": {
+      "_src": "How to Subscribe",
+      "text": "Cómo suscribirse"
+    },
+    "heading:190ee2c52b42": {
+      "_src": "Who Built Canton?",
+      "text": "¿Quién construyó Cantón?"
+    },
+    "heading:56888d29a14c": {
+      "_src": "Token Economics",
+      "text": "Economía de tokens"
+    },
+    "heading:9239e6659cc1": {
+      "_src": "Where to Track CC",
+      "text": "Dónde realizar el seguimiento de CC"
+    },
+    "heading:42b8736e6d9d": {
+      "_src": "Three Calculators",
+      "text": "Tres calculadoras"
+    },
+    "heading:feedcee6461f": {
+      "_src": "How Calculations Work",
+      "text": "Cómo funcionan los cálculos"
+    },
+    "heading:f7e45df1f66f": {
+      "_src": "Validators Page",
+      "text": "Página de validadores"
+    },
+    "heading:6161fa2a54c3": {
+      "_src": "Super Validators",
+      "text": "Súper validadores"
+    },
+    "heading:5a935787d6f0": {
+      "_src": "Governance",
+      "text": "Gobernancia"
+    },
+    "heading:46147b378cf0": {
+      "_src": "What are Campaigns?",
+      "text": "¿Qué son las campañas?"
+    },
+    "heading:dc8a1254898e": {
+      "_src": "Joining a Campaign",
+      "text": "Unirse a una campaña"
+    },
+    "heading:65238926daff": {
+      "_src": "Task Types",
+      "text": "Tipos de tareas"
+    },
+    "heading:d719adee2b49": {
+      "_src": "Types of Sponsorship",
+      "text": "Tipos de patrocinio"
+    },
+    "heading:4eef5abf4307": {
+      "_src": "For Projects",
+      "text": "Para proyectos"
+    },
+    "heading:5f92e21081d1": {
+      "_src": "Burn vs Mint",
+      "text": "Quemar vs menta"
+    },
+    "heading:257f987709b4": {
+      "_src": "Price Data",
+      "text": "Datos de precios"
+    },
+    "heading:64933225a5fc": {
+      "_src": "Network Data",
+      "text": "Datos de red"
+    },
+    "heading:43b2636aac20": {
+      "_src": "Portfolio Data",
+      "text": "Datos de la cartera"
+    },
+    "heading:97e2bc42bb78": {
+      "_src": "General Rules",
+      "text": "Reglas generales"
+    },
+    "heading:61438c8d2463": {
+      "_src": "Enforcement",
+      "text": "Aplicación"
+    },
+    "heading:0beceb39b99c": {
+      "_src": "Suggest Opportunities",
+      "text": "Sugerir oportunidades"
+    },
+    "heading:3d29a42ed239": {
+      "_src": "Submit a Project",
+      "text": "Enviar un proyecto"
+    },
+    "heading:6104c2439ee1": {
+      "_src": "Suggest Edits",
+      "text": "Sugerir ediciones"
+    },
+    "heading:0db377921f4c": {
+      "_src": "General",
+      "text": "General"
+    },
+    "heading:55c25fc644ef": {
+      "_src": "Account & XP",
+      "text": "Cuenta y XP"
+    },
+    "heading:d4f859a96c13": {
+      "_src": "Portfolio",
+      "text": "Cartera"
+    },
+    "heading:b34551a00d39": {
+      "_src": "Common Issues",
+      "text": "Problemas comunes"
+    },
+    "heading:15690b87294a": {
+      "_src": "Still Can't Log In?",
+      "text": "¿Aún no puedes iniciar sesión?"
+    },
+    "heading:5d06e87d1555": {
+      "_src": "Data Not Showing",
+      "text": "Datos que no se muestran"
+    },
+    "heading:1428d0d1e9ef": {
+      "_src": "Contact Channels",
+      "text": "Canales de contacto"
+    },
+    "body:7967f49921a7": {
+      "_src": "CCTools is the leading multi-tool platform for the Canton Network ecosystem. It provides everything you need to track your portfolio, discover projects, earn rewards, monitor network stats, and stay up to date with the Canton ecosystem.\n\nWhether you're a DeFi user, a validator, or just getting started with Canton, CCTools gives you a single dashboard to manage it all.",
+      "text": "CCTools es la plataforma multiherramienta líder para el ecosistema de Canton Network. Proporciona todo lo que necesita para realizar un seguimiento de su cartera, descubrir proyectos, ganar recompensas, monitorear las estadísticas de la red y mantenerse actualizado con el ecosistema de Canton.\n\nYa sea que sea un usuario de DeFi, un validador o recién esté comenzando con Canton, CCTools le brinda un panel único para administrarlo todo."
+    },
+    "body:0c5de0647f6e": {
+      "_src": "**Portfolio Tracker** — Connect your wallets and see your full Canton portfolio with real-time prices, P&L, rewards, and transfer history.\n\n**Ecosystem Directory** — Browse hundreds of projects building on Canton Network, filterable by category, role, and status. Upvote your favorites.\n\n**Compare** — Compare up to 4 projects (Pro) or validators side by side.\n\n**Earn** — Complete tasks, discover opportunities, and join campaigns to earn XP and climb the leaderboard.\n\n**Rewards Calculator** — Calculate potential rewards as an App Builder, Validator, or CC Holder.\n\n**Network Stats** — Real-time Canton Network metrics with TradingView integration.\n\n**Governance** — Track Super Validator votes and governance proposals.\n\n**Leaderboard** — See where you rank among other CCTools users with standard, weekly, and bracket views.\n\n**Learn** — Educational content about Canton Network.",
+      "text": "**Portfolio Tracker**: conecte sus billeteras y vea su cartera completa de Canton con precios, pérdidas y ganancias, recompensas e historial de transferencias en tiempo real.\n\n**Directorio de ecosistemas**: explore cientos de proyectos creados en Canton Network, filtrables por categoría, función y estado. Vota a tus favoritos.\n\n**Comparar**: compara hasta 4 proyectos (Pro) o validadores uno al lado del otro.\n\n**Gane**: complete tareas, descubra oportunidades y únase a campañas para ganar XP y ascender en la clasificación.\n\n**Calculadora de recompensas**: calcule recompensas potenciales como creador de aplicaciones, validador o titular de CC.\n\n**Estadísticas de red**: métricas de Canton Network en tiempo real con integración de TradingView.\n\n**Gobernanza**: realice un seguimiento de los votos del Super Validador y de las propuestas de gobernanza.\n\n**Tabla de clasificación**: vea su clasificación entre otros usuarios de CCTools con vistas estándar, semanal y por categorías.\n\n**Aprende**: contenido educativo sobre Canton Network."
+    },
+    "body:4f6c963707f5": {
+      "_src": "CCTools is designed for:\n\n- **New users** exploring the Canton Network for the first time\n- **DeFi users** tracking portfolio performance across Canton apps\n- **Community members** earning XP and badges through engagement\n- **Project teams** looking for visibility through sponsored listings\n- **Researchers** analyzing Canton Network on-chain data",
+      "text": "CCTools está diseñado para:\n\n- **Nuevos usuarios** explorando Canton Network por primera vez\n- **Usuarios de DeFi** seguimiento del rendimiento de la cartera en las aplicaciones de Canton\n- **Miembros de la comunidad** obtienen XP e insignias a través de la participación\n- **Equipos de proyecto** que buscan visibilidad a través de listados patrocinados\n- **Investigadores** analizando los datos en cadena de Canton Network"
+    },
+    "body:fea4bc5ff54f": {
+      "_src": "Go to **cctools.network** and click **Sign Up** in the top right corner. You can create an account using:\n\n- **Email + Password** — Standard email registration with email verification\n- **Google** — One-click signup with your Google account\n- **Twitter/X** — Connect your X account directly\n- **Discord** — Sign up with your Discord account\n\nAfter signing up, verify your email to activate your account.",
+      "text": "Vaya a **cctools.network** y haga clic en **Registrarse** en la esquina superior derecha. Puede crear una cuenta usando:\n\n- **Correo electrónico + Contraseña**: registro de correo electrónico estándar con verificación por correo electrónico\n- **Google**: registro con un clic con su cuenta de Google\n- **Twitter/X** — Conecta tu cuenta X directamente\n- **Discord** — Regístrate con tu cuenta de Discord\n\nDespués de registrarse, verifique su correo electrónico para activar su cuenta."
+    },
+    "body:8db5bb986d30": {
+      "_src": "Once logged in, go to **Portfolio** and click **Connect Wallet**. CCTools supports:\n\n- Any Canton Network compatible wallet address\n- You can add multiple wallets to track your full portfolio\n\nSimply paste your wallet address and CCTools will automatically scan and display your holdings.",
+      "text": "Una vez que haya iniciado sesión, vaya a **Cartera** y haga clic en **Conectar billetera**. CCTools soporta:\n\n- Cualquier dirección de billetera compatible con Canton Network\n- Puede agregar varias billeteras para realizar un seguimiento de su cartera completa\n\nSimplemente pegue la dirección de su billetera y CCTools escaneará y mostrará automáticamente sus tenencias."
+    },
+    "body:0721f3faa264": {
+      "_src": "Head to **Settings** to complete your profile:\n\n- Add a display name\n- Set your avatar\n- Add your Twitter/X handle (optional, helps with community features)\n- Enable notifications for the features you care about",
+      "text": "Dirígete a **Configuración** para completar tu perfil:\n\n- Agregar un nombre para mostrar\n- Configura tu avatar\n- Añade tu cuenta de Twitter/X (opcional, ayuda con las funciones de la comunidad)\n- Habilite notificaciones para las funciones que le interesan"
+    },
+    "body:b82b02633def": {
+      "_src": "The left sidebar is your main navigation hub. It contains links to all major sections:\n\n- **Overview** — Your personalized dashboard\n- **Portfolio** — Wallet tracking and P&L\n- **Ecosystem** — Project directory with hundreds of projects\n- **Earn** — Quests, campaigns, and opportunities\n- **Governance** — Super Validator votes and proposals\n- **Network Stats** — On-chain analytics and TradingView charts\n- **Leaderboard** — Community rankings (standard, weekly, bracket)\n- **$CC Token** — Token info, burn/mint charts\n- **Learn** — Educational content about Canton\n- **Validators** — Validator list and performance\n- **Compare** — Side-by-side project comparison (2 free, 4 Pro)\n- **Rewards Calculator** — App Builder, Validator, and CC Holder calculators\n\nYou can collapse the sidebar by clicking the collapse icon at the bottom.",
+      "text": "La barra lateral izquierda es su centro de navegación principal. Contiene enlaces a todas las secciones principales:\n\n- **Descripción general**: su panel personalizado\n- **Cartera**: seguimiento de billetera y pérdidas y ganancias\n- **Ecosistema** — Directorio de proyectos con cientos de proyectos\n- **Gana**: misiones, campañas y oportunidades\n- **Gobernanza** — Votos y propuestas del Super Validador\n- **Estadísticas de red**: análisis en cadena y gráficos de TradingView\n- **Tabla de clasificación**: clasificaciones de la comunidad (estándar, semanal, grupo)\n- **$CC Token** — Información del token, gráficos de quemado/acuñación\n- **Aprende** — Contenido educativo sobre Cantón\n- **Validadores**: lista de validadores y rendimiento\n- **Comparar**: comparación de proyectos en paralelo (2 gratuitos, 4 Pro)\n- **Calculadora de recompensas**: calculadoras de creador de aplicaciones, validador y titular de CC\n\nPuede contraer la barra lateral haciendo clic en el icono de contraer en la parte inferior."
+    },
+    "body:cf8bf5c9a2d9": {
+      "_src": "Press `Cmd+K` (Mac) or `Ctrl+K` (Windows) to open the global search. You can search for:\n\n- Projects in the ecosystem\n- Specific pages and features\n- Help articles and documentation\n\nSearch is the fastest way to find anything on CCTools.",
+      "text": "Presione `Cmd+K` (Mac) o `Ctrl+K` (Windows) para abrir la búsqueda global. Puedes buscar:\n\n- Proyectos en el ecosistema\n- Páginas y características específicas.\n- Artículos de ayuda y documentación.\n\nLa búsqueda es la forma más rápida de encontrar cualquier cosa en CCTools."
+    },
+    "body:145874686981": {
+      "_src": "Navigate to **Portfolio** and click the **Add Wallet** button. Paste your Canton wallet address and give it a label (e.g., \"Main Wallet\", \"DeFi Wallet\").\n\nCCTools will automatically scan your wallet and display:\n\n- Token balances\n- Current value in USD\n- 24h change\n- Historical performance",
+      "text": "Navegue hasta **Cartera** y haga clic en el botón **Agregar billetera**. Pegue la dirección de su billetera Canton y asígnele una etiqueta (por ejemplo, \"Monedero principal\", \"Monedero DeFi\").\n\nCCTools escaneará automáticamente su billetera y mostrará:\n\n- Saldos de tokens\n- Valor actual en USD\n- cambio 24h\n- Rendimiento histórico"
+    },
+    "body:36e4290c02c7": {
+      "_src": "You can add multiple wallet addresses to track your full portfolio:\n\n- **Free plan**: Up to 3 wallets\n- **Pro plan**: Up to 10 wallets\n\nThe portfolio view aggregates all wallets into a single view, so you can see your total holdings across all wallets. Each wallet can be individually labeled (up to 50 characters) and supports CNS names.",
+      "text": "Puede agregar varias direcciones de billetera para realizar un seguimiento de su cartera completa:\n\n- **Plan gratuito**: hasta 3 billeteras\n- **Plan Pro**: hasta 10 billeteras\n\nLa vista de cartera agrega todas las carteras en una sola vista, para que pueda ver el total de sus tenencias en todas las carteras. Cada billetera se puede etiquetar individualmente (hasta 50 caracteres) y admite nombres CNS."
+    },
+    "body:c052fb26733d": {
+      "_src": "To remove a wallet, go to **Portfolio > Settings** (gear icon) and click the remove button next to the wallet you want to delete. This only removes tracking — it does not affect your actual wallet.",
+      "text": "Para eliminar una billetera, vaya a **Cartera > Configuración** (icono de engranaje) y haga clic en el botón eliminar al lado de la billetera que desea eliminar. Esto solo elimina el seguimiento; no afecta su billetera real."
+    },
+    "body:97d19a4c6e30": {
+      "_src": "CCTools calculates your Profit & Loss based on your transaction history. For each token:\n\n- **Cost basis** is calculated using the average acquisition price\n- **Current value** uses real-time market prices\n- **P&L** = Current Value - Cost Basis\n\nP&L is shown both in absolute USD terms and as a percentage.",
+      "text": "CCTools calcula sus pérdidas y ganancias en función de su historial de transacciones. Para cada ficha:\n\n- **Base de costo** se calcula utilizando el precio de adquisición promedio\n- **Valor actual** utiliza precios de mercado en tiempo real\n- **P&L** = Valor actual - Base de costo\n\nLas pérdidas y ganancias se muestran tanto en términos absolutos de USD como en porcentaje."
+    },
+    "body:5cfe95b50f6f": {
+      "_src": "You can export your portfolio data in CSV format for:\n\n- Tax reporting (compatible with Koinly and other tax tools)\n- Personal record keeping\n- Spreadsheet analysis\n\nGo to **Portfolio** and click the **Export** button in the top right.\n\n**Note:** Full history and tax report export are Pro features. Free users get 7-day balance history, Pro users get 30-day history.",
+      "text": "Puede exportar los datos de su cartera en formato CSV para:\n\n- Informes de impuestos (compatible con Koinly y otras herramientas fiscales)\n- Mantenimiento de registros personales\n- Análisis de hojas de cálculo\n\nVaya a **Portafolio** y haga clic en el botón **Exportar** en la parte superior derecha.\n\n**Nota:** El historial completo y la exportación de informes de impuestos son funciones Pro. Los usuarios gratuitos obtienen un historial de saldo de 7 días, los usuarios Pro obtienen un historial de 30 días."
+    },
+    "body:1608e92f68cb": {
+      "_src": "The Rewards section in your Portfolio shows all rewards earned from:\n\n- **Validator staking** — CC tokens earned from delegating to validators\n- **Protocol rewards** — Any rewards from DeFi protocols on Canton\n\nRewards are tracked automatically once your wallet is connected.",
+      "text": "La sección Recompensas de su Portafolio muestra todas las recompensas obtenidas de:\n\n- **Apuesta del validador**: tokens CC obtenidos al delegar en validadores\n- **Recompensas de protocolo**: cualquier recompensa de los protocolos DeFi en Canton\n\nLas recompensas se rastrean automáticamente una vez que su billetera está conectada."
+    },
+    "body:de1434216b92": {
+      "_src": "View your rewards history over time with the rewards chart. You can filter by:\n\n- Time period (7d, 30d, 90d, all time)\n- Reward type (staking, protocol, etc.)\n- Specific wallet",
+      "text": "Vea su historial de recompensas a lo largo del tiempo con la tabla de recompensas. Puedes filtrar por:\n\n- Período de tiempo (7d, 30d, 90d, todos los tiempos)\n- Tipo de recompensa (stake, protocolo, etc.)\n- Cartera específica"
+    },
+    "body:e5af42a34412": {
+      "_src": "The Ecosystem page is a curated directory of all projects building on Canton Network. Each project listing includes:\n\n- Project name, logo, and description\n- Category (DeFi, RWA, Infrastructure, Wallet, Bridge, etc.)\n- Links to website, Twitter, and docs\n- Community ratings and upvotes\n- CCTools score based on activity and engagement",
+      "text": "La página Ecosystem es un directorio seleccionado de todos los proyectos que se basan en Canton Network. Cada listado de proyectos incluye:\n\n- Nombre del proyecto, logotipo y descripción.\n- Categoría (DeFi, RWA, Infraestructura, Wallet, Bridge, etc.)\n- Enlaces a sitios web, Twitter y documentos.\n- Calificaciones de la comunidad y votos positivos.\n- Puntuación de CCTools basada en la actividad y el compromiso."
+    },
+    "body:9adf4a8f4ab7": {
+      "_src": "Use the filter bar at the top to narrow down projects:\n\n- **Category** — DeFi, Stablecoin, Exchange, Tokenized Assets, Payments, Wallet, Bridge, Infrastructure, Gaming, Social, Analytics, Compliance, Security, Custody, and more\n- **Status** — Live, Building, Announced\n- **Role** — Super Validator, Validator, Builder, Featured App, Foundation Member, and others\n- **Sort** — By score, newest, most upvoted, alphabetical\n\nYou can also use the search bar to find specific projects by name.",
+      "text": "Utilice la barra de filtros en la parte superior para limitar los proyectos:\n\n- **Categoría**: DeFi, Stablecoin, Exchange, activos tokenizados, pagos, billetera, puente, infraestructura, juegos, redes sociales, análisis, cumplimiento, seguridad, custodia y más\n- **Estado**: en vivo, en construcción, anunciado\n- **Rol**: Súper validador, validador, creador, aplicación destacada, miembro fundador y otros\n- **Ordenar**: por puntuación, más reciente, más votada, alfabéticamente\n\nTambién puedes utilizar la barra de búsqueda para buscar proyectos específicos por nombre."
+    },
+    "body:71056b77b6de": {
+      "_src": "If you find a project interesting, upvote it to help others discover it.\n\n- Upvoting requires **Level 4** on CCTools\n- There is a daily limit on upvotes to keep engagement organic\n- Each upvote earns you XP\n\nUpvotes contribute to the project's visibility and ranking in the directory.",
+      "text": "Si encuentra interesante un proyecto, votelo para ayudar a otros a descubrirlo.\n\n- La votación a favor requiere **Nivel 4** en CCTools\n- Hay un límite diario de votos a favor para mantener la participación orgánica.\n- Cada voto positivo te otorga XP\n\nLos votos positivos contribuyen a la visibilidad y clasificación del proyecto en el directorio."
+    },
+    "body:4e76e315e4d9": {
+      "_src": "The Compare tool lets you put projects side by side to evaluate them:\n\n1. Go to **Ecosystem > Compare** or click **Compare** in the sidebar\n2. Select 2 projects (free) or up to 4 projects (Pro)\n3. View a detailed comparison including category, role, status, social metrics, token data, and community scores\n\nThis is especially useful when researching which projects to engage with or invest in.",
+      "text": "La herramienta Comparar le permite poner proyectos uno al lado del otro para evaluarlos:\n\n1. Vaya a **Ecosistema > Comparar** o haga clic en **Comparar** en la barra lateral.\n2. Seleccione 2 proyectos (gratis) o hasta 4 proyectos (Pro)\n3. Vea una comparación detallada que incluye categoría, función, estado, métricas sociales, datos de tokens y puntuaciones de la comunidad.\n\nEsto es especialmente útil al investigar en qué proyectos participar o en qué proyectos invertir."
+    },
+    "body:ed990a701693": {
+      "_src": "You can also compare validators using the same tool:\n\n1. Switch to the **Validators** tab in Compare\n2. Select validators to compare\n3. View performance metrics, uptime, rewards, and other data side by side\n\nThis helps you make informed decisions about validator delegation.",
+      "text": "También puedes comparar validadores usando la misma herramienta:\n\n1. Cambie a la pestaña **Validadores** en Comparar\n2. Seleccione validadores para comparar\n3. Vea métricas de rendimiento, tiempo de actividad, recompensas y otros datos en paralelo\n\nEsto le ayuda a tomar decisiones informadas sobre la delegación del validador."
+    },
+    "body:1b888eece32d": {
+      "_src": "Sponsored listings give projects premium visibility in the ecosystem directory. Sponsored projects appear at the top of their category with a **Sponsored** badge.\n\nThis is a great way for new or launching projects to get visibility in front of active Canton Network users.",
+      "text": "Los listados patrocinados brindan a los proyectos una visibilidad superior en el directorio del ecosistema. Los proyectos patrocinados aparecen en la parte superior de su categoría con una insignia **Patrocinado**.\n\nEsta es una excelente manera para que proyectos nuevos o en lanzamiento obtengan visibilidad frente a los usuarios activos de Canton Network."
+    },
+    "body:95554ad0b1a6": {
+      "_src": "If you're a project team looking for a sponsored listing, fill out the form at **cctools.network/contact** with:\n\n- Project name and description\n- Category\n- Desired campaign duration\n- Links (website, Twitter, docs)\n\nWe'll review your application and get back to you within 48 hours.",
+      "text": "Si es un equipo de proyecto que busca un listado patrocinado, complete el formulario en **cctools.network/contact** con:\n\n- Nombre y descripción del proyecto.\n- Categoría\n- Duración deseada de la campaña\n- Enlaces (sitio web, Twitter, documentos)\n\nRevisaremos su solicitud y nos comunicaremos con usted dentro de las 48 horas."
+    },
+    "body:bdf276b9dd00": {
+      "_src": "The **Earn** page lists earning opportunities from across the Canton ecosystem. These can include:\n\n- **App Rewards** — Rewards from using Canton applications\n- **Validator Rewards** — Staking and delegation rewards\n- **Staking** — Token staking opportunities\n- **Exchange Campaigns** — Promotions from exchanges listing Canton tokens\n- **Grants** — Funding opportunities for builders\n- **Community** — Community-driven reward programs\n- **Learn & Earn** — Educational quests with rewards\n\nEach opportunity shows the provider, difficulty level (easy/medium/hard), estimated value, and status.",
+      "text": "La página **Ganar** enumera oportunidades de ganar dinero en todo el ecosistema de Canton. Estos pueden incluir:\n\n- **Recompensas de aplicaciones**: recompensas por usar aplicaciones de Canton\n- **Recompensas del validador**: recompensas por participación y delegación\n- **Apuesta**: oportunidades de apuesta de tokens\n- **Campañas de intercambio**: promociones de intercambios que enumeran tokens de Cantón\n- **Subvenciones** — Oportunidades de financiación para constructores\n- **Comunidad**: programas de recompensas impulsados por la comunidad\n- **Aprende y gana**: misiones educativas con recompensas\n\nCada oportunidad muestra el proveedor, el nivel de dificultad (fácil/medio/difícil), el valor estimado y el estado."
+    },
+    "body:88e0dd87777d": {
+      "_src": "Use the tabs at the top to filter opportunities:\n\n- **All** — Everything available\n- **Active** — Currently available to participate\n- **Upcoming** — Coming soon\n- **Ending Soon** — Last chance to participate\n- **Permanent** — Always available\n\nVerified opportunities are marked with a badge. Sponsored opportunities appear at the top.",
+      "text": "Utilice las pestañas en la parte superior para filtrar oportunidades:\n\n- **Todos** — Todo disponible\n- **Activo** — Actualmente disponible para participar\n- **Próximamente** — Próximamente\n- **Termina pronto** — Última oportunidad para participar\n- **Permanente** — Siempre disponible\n\nLas oportunidades verificadas están marcadas con una insignia. Las oportunidades patrocinadas aparecen en la parte superior."
+    },
+    "body:6c31555e41b7": {
+      "_src": "Click the interest button on any opportunity to save it and show your engagement. Showing interest:\n\n- Requires **Level 4**\n- Helps the community see which opportunities are popular\n- Counts toward your referral tasks (3 interests needed)\n- Earns XP",
+      "text": "Haga clic en el botón de interés en cualquier oportunidad para guardarla y mostrar su participación. Mostrando interés:\n\n- Requiere **Nivel 4**\n- Ayuda a la comunidad a ver qué oportunidades son populares.\n- Cuenta para tus tareas de referencia (se necesitan 3 intereses)\n- Gana XP"
+    },
+    "body:13ae06db1e1b": {
+      "_src": "XP (Experience Points) is the core engagement metric on CCTools. You earn XP by:\n\n- **Daily check-in** — Log in every day to earn streak XP with milestone bonuses\n- **Upvoting projects** — Earn XP for voting on ecosystem projects (daily limit applies)\n- **Viewing projects** — Earn XP for exploring the ecosystem\n- **Following @cantontools on X** — One-time XP reward\n- **Adding a wallet** — XP for connecting your portfolio\n- **Referring friends** — XP when your referral completes all tasks and reaches Level 4\n- **Completing campaigns** — XP varies by campaign\n\n**Pro users** receive an **XP multiplier** on all actions.",
+      "text": "XP (Puntos de experiencia) es la métrica de participación principal en CCTools. Obtienes XP al:\n\n- **Registro diario**: inicie sesión todos los días para ganar XP por racha con bonificaciones por hitos.\n- **Proyectos de votación positiva**: gane XP por votar en proyectos del ecosistema (se aplica un límite diario)\n- **Ver proyectos**: gana XP por explorar el ecosistema\n- **Siguiendo a @cantontools en X**: recompensa única de XP\n- **Agregar una billetera** — XP para conectar tu cartera\n- **Recomienda amigos**: XP cuando tu recomendado completa todas las tareas y alcanza el nivel 4.\n- **Completar campañas**: los XP varían según la campaña.\n\n**Los usuarios Pro** reciben un **multiplicador de XP** en todas las acciones."
+    },
+    "body:18f7335f23f2": {
+      "_src": "Some XP actions reset daily at midnight UTC:\n\n- **Daily check-in** — Earns base XP + streak bonus\n- **Upvotes** — Limited number of upvotes per day\n- **Project views** — View XP resets daily\n\n**Streak milestones** reward bonus XP and exclusive badges at key intervals (7, 14, 30, 60, 90, 100, 180, and 365 days). The longer your streak, the bigger the rewards.\n\nMissing a day resets your streak, so consistency is key!",
+      "text": "Algunas acciones de XP se reinician diariamente a la medianoche UTC:\n\n- **Registro diario**: obtiene XP base + bonificación por racha\n- **Votos positivos**: número limitado de votos positivos por día\n- **Vistas de proyectos** — Ver reinicios de XP diariamente\n\n**Racha de hitos** recompensa XP adicional e insignias exclusivas en intervalos clave (7, 14, 30, 60, 90, 100, 180 y 365 días). Cuanto más larga sea tu racha, mayores serán las recompensas.\n\nFaltar un día restablece tu racha, ¡así que la constancia es clave!"
+    },
+    "body:86550d17e22a": {
+      "_src": "Your total XP determines your level (max Level 50). Each level has a title:\n\n- **Level 1-5** — Newcomer\n- **Level 6-10** — Explorer\n- **Level 11-15** — Analyst\n- **Level 16-20** — Strategist\n- **Level 21-25** — Operator\n- **Level 26-30** — Architect\n- **Level 31-35** — Validator\n- **Level 36-40** — Governor\n- **Level 41-45** — Syndicate\n- **Level 46-50** — Canton OG\n\n**Level 4** is the key milestone: it unlocks upvoting, referrals, and badge eligibility. XP required per level increases progressively.",
+      "text": "Tu XP total determina tu nivel (nivel máximo 50). Cada nivel tiene un título:\n\n- **Nivel 1-5** — Recién llegado\n- **Nivel 6-10** — Explorador\n- **Nivel 11-15** — Analista\n- **Nivel 16-20** — Estratega\n- **Nivel 21-25** — Operador\n- **Nivel 26-30** — Arquitecto\n- **Nivel 31-35** — Validador\n- **Nivel 36-40** — Gobernador\n- **Nivel 41-45** — Sindicato\n- **Nivel 46-50** — Cantón OG\n\n**Nivel 4** es el hito clave: desbloquea la votación a favor, las referencias y la elegibilidad para insignias. La XP requerida por nivel aumenta progresivamente."
+    },
+    "body:1fca7fffed0a": {
+      "_src": "Badges are collectible achievements that showcase your engagement. There are several categories:\n\n**Adopter Badges** (limited supply, all require Level 4 with organic XP):\n- **OG Adopter** — First 500 users (fully claimed)\n- **Early Adopter** — First 2,000 users\n- **Pioneer** — First 10,000 users\n- **Day One** — Accounts created before May 2026\n\n**Level-Up Badges** (earned automatically at milestones):\n- Level 5 — First Steps\n- Level 10 — Rising Star\n- Level 20 — Power User\n- Level 35 — Whale Status\n- Level 50 — Canton OG\n\n**Streak Badges** (earned for consecutive daily check-ins):\n- 7, 14, 30, 60, 90, 100, 180, and 365 day streaks\n\n**Activity Badges** (earned through platform engagement):\n- **X Follower** — Follow @cantontools on X\n- **Eco Explorer** — View multiple different projects\n- **Deep Diver** — Visit all major sections of the platform\n- **Comparator** — Use the compare feature multiple times\n- **Opp Hunter** — Show interest in multiple opportunities\n- **Opp Scout** — Suggest an opportunity\n- **Verified Scout** — Get multiple opportunity suggestions approved\n\n**Referral Badges** — Awarded at referral milestones as you invite more users.",
+      "text": "Las insignias son logros coleccionables que muestran su compromiso. Hay varias categorías:\n\n**Insignias de adoptante** (suministro limitado, todas requieren nivel 4 con XP orgánica):\n- **OG Adopter**: primeros 500 usuarios (completamente reclamados)\n- **Early Adopter**: primeros 2000 usuarios\n- **Pionero**: primeros 10 000 usuarios\n- **Día uno**: cuentas creadas antes de mayo de 2026\n\n**Insignias para subir de nivel** (se obtienen automáticamente en los hitos):\n- Nivel 5: Primeros pasos\n- Nivel 10: Estrella en ascenso\n- Nivel 20: Usuario avanzado\n- Nivel 35 - Estado de la ballena\n- Nivel 50 - Cantón OG\n\n**Insignias de racha** (obtenidas por registros diarios consecutivos):\n- Rachas de 7, 14, 30, 60, 90, 100, 180 y 365 días\n\n**Insignias de actividad** (obtenidas a través de la participación en la plataforma):\n- **X seguidor** — Sigue a @cantontools en X\n- **Eco Explorer** — Ver múltiples proyectos diferentes\n- **Deep Diver**: visita todas las secciones principales de la plataforma\n- **Comparador**: utiliza la función de comparación varias veces\n- **Opp Hunter**: muestra interés en múltiples oportunidades\n- **Opp Scout**: sugiere una oportunidad\n- **Explorador verificado**: obtenga varias sugerencias de oportunidades aprobadas\n\n**Insignias de recomendación**: se otorgan en hitos de referencia a medida que invitas a más usuarios."
+    },
+    "body:54d8eacd8bca": {
+      "_src": "You can showcase your favorite badges on your profile:\n\n- **Free users**: Up to 3 badges on display\n- **Pro users**: Up to 6 badges on display\n\nBadges are displayed with their rarity color on your profile and leaderboard entry.",
+      "text": "Puedes mostrar tus insignias favoritas en tu perfil:\n\n- **Usuarios gratuitos**: hasta 3 insignias en exhibición\n- **Usuarios Pro**: hasta 6 insignias en exhibición\n\nLas insignias se muestran con su color de rareza en su perfil y en la entrada de la tabla de clasificación."
+    },
+    "body:83cd43f39776": {
+      "_src": "Share your unique referral code (format: `CC-XXXXXX`) with friends. When they sign up using your code, the referral enters **pending** status.\n\nThe referred user must then complete **all 5 required tasks** to confirm the referral:\n\n1. **Follow @cantontools** on X\n2. **Maintain a 2-day daily streak**\n3. **Add a wallet** to their portfolio\n4. **Upvote 3 ecosystem projects**\n5. **Show interest in 3 Earn opportunities**\n\nEach task awards XP. Once all tasks are complete and the referred user reaches **Level 4**, the referral is confirmed.",
+      "text": "Comparta su código de referencia único (formato: `CC-XXXXXX`) con amigos. Cuando se registran usando su código, la referencia ingresa al estado **pendiente**.\n\nLuego, el usuario recomendado debe completar **las 5 tareas requeridas** para confirmar la recomendación:\n\n1. **Sigue a @cantontools** en X\n2. **Mantenga una racha diaria de 2 días**\n3. **Agregar una billetera** a su cartera\n4. **Vota a favor de 3 proyectos de ecosistema**\n5. **Muestre interés en 3 oportunidades de ganar**\n\nCada tarea otorga XP. Una vez que se completan todas las tareas y el usuario recomendado alcanza el **Nivel 4**, se confirma la recomendación."
+    },
+    "body:513bd740b425": {
+      "_src": "- **Referred user** receives bonus XP immediately when signing up with a code\n- **Referrer** receives XP when the referral is fully confirmed (all tasks done + Level 4)\n\nReferral badges are awarded as you reach referral milestones.",
+      "text": "- **El usuario recomendado** recibe XP adicional inmediatamente al registrarse con un código\n- **Recomendador** recibe XP cuando la recomendación está completamente confirmada (todas las tareas realizadas + Nivel 4)\n\nLas insignias de recomendación se otorgan a medida que alcanzas hitos de recomendación."
+    },
+    "body:e20c3cbf0577": {
+      "_src": "- You must be **Level 4** or higher to have an active referral code\n- The referred user must complete **all 5 tasks** (not just one)\n- No self-referrals or fake accounts\n- Referral codes cannot be reused by another user\n\nWe have anti-abuse systems in place to ensure fair referrals.",
+      "text": "- Debes tener **Nivel 4** o superior para tener un código de referencia activo\n- El usuario recomendado debe completar **las 5 tareas** (no solo una)\n- No hay autorreferencias ni cuentas falsas.\n- Los códigos de referencia no pueden ser reutilizados por otro usuario\n\nContamos con sistemas antiabuso para garantizar referencias justas."
+    },
+    "body:7c4efe0afbef": {
+      "_src": "The leaderboard ranks users by total XP earned. Your position is updated in real-time.\n\nThe leaderboard displays:\n\n- Your current rank\n- Display name and avatar\n- Level and level title\n- Total XP\n- Current streak\n- Top 5 rarest badges\n- Confirmed referral count\n\nThere are multiple leaderboard views:\n\n- **Standard** — All-time total XP\n- **Weekly** — XP earned in the last 7 days\n- **Bracket** — XP earned in the last 30 days",
+      "text": "La tabla de clasificación clasifica a los usuarios según el total de XP obtenido. Su posición se actualiza en tiempo real.\n\nLa tabla de clasificación muestra:\n\n- Tu rango actual\n- Nombre para mostrar y avatar\n- Nivel y título de nivel.\n- XP total\n- Racha actual\n- Las 5 insignias más raras\n- Recuento de referencias confirmadas\n\nHay varias vistas de clasificación:\n\n- **Estándar**: XP total de todos los tiempos\n- **Semanal**: XP obtenido en los últimos 7 días\n- **Grupo**: XP obtenida en los últimos 30 días"
+    },
+    "body:1cea347c2863": {
+      "_src": "In the future, CCTools will introduce seasonal leaderboards that reset periodically. This gives everyone a fresh start and rewards consistent engagement over time.\n\nSeason rewards may include exclusive badges, early access features, and more.",
+      "text": "En el futuro, CCTools introducirá tablas de clasificación estacionales que se restablecerán periódicamente. Esto les brinda a todos un nuevo comienzo y recompensa el compromiso constante a lo largo del tiempo.\n\nLas recompensas de la temporada pueden incluir insignias exclusivas, funciones de acceso anticipado y más."
+    },
+    "body:8da105b617d1": {
+      "_src": "Go to **Settings** from the sidebar. Here you can:\n\n- Change your display name\n- Upload an avatar\n- View your account email\n- See your account creation date and stats",
+      "text": "Vaya a **Configuración** desde la barra lateral. Aquí puedes:\n\n- Cambia tu nombre para mostrar\n- Sube un avatar\n- Ver el correo electrónico de su cuenta\n- Vea la fecha de creación de su cuenta y las estadísticas."
+    },
+    "body:e6aad00401e6": {
+      "_src": "You can connect social accounts to your CCTools profile:\n\n- **Twitter/X** — Required for the X Follower badge and campaign tasks like follow/retweet\n- **Discord** — Used for campaign integrations\n- **Google** — Alternative login method\n\nManage your connected accounts in **Settings > Profile**. You must always have at least one login method active (you can't disconnect your only identity).",
+      "text": "Puede conectar cuentas sociales a su perfil de CCTools:\n\n- **Twitter/X**: obligatorio para la insignia de seguidor X y tareas de campaña como seguir/retwittear\n- **Discord**: se utiliza para integraciones de campañas\n- **Google** — Método de inicio de sesión alternativo\n\nAdministre sus cuentas conectadas en **Configuración > Perfil**. Siempre debes tener al menos un método de inicio de sesión activo (no puedes desconectar tu única identidad)."
+    },
+    "body:1f27d501d459": {
+      "_src": "Every CCTools user has a public profile at **cctools.network/u/your-username**. Your public profile shows:\n\n- Display name and avatar\n- Level and level title\n- Badge showcase (3 free, 6 Pro)\n- Current streak\n\nYou can share your profile link on social media to showcase your Canton ecosystem engagement.",
+      "text": "Cada usuario de CCTools tiene un perfil público en **cctools.network/u/your-username**. Tu perfil público muestra:\n\n- Nombre para mostrar y avatar\n- Nivel y título de nivel.\n- Exhibición de insignias (3 gratis, 6 Pro)\n- Racha actual\n\nPuede compartir el enlace de su perfil en las redes sociales para mostrar su participación en el ecosistema de Canton."
+    },
+    "body:28a943ebd460": {
+      "_src": "Use a strong, unique password for your CCTools account. We recommend:\n\n- At least 12 characters\n- Mix of uppercase, lowercase, numbers, and symbols\n- Don't reuse passwords from other sites\n- Use a password manager (1Password, Bitwarden, etc.)",
+      "text": "Utilice una contraseña segura y única para su cuenta CCTools. Recomendamos:\n\n- Al menos 12 caracteres\n- Mezcla de mayúsculas, minúsculas, números y símbolos.\n- No reutilices contraseñas de otros sitios\n- Utilice un administrador de contraseñas (1Password, Bitwarden, etc.)"
+    },
+    "body:bb2683ebe0c8": {
+      "_src": "CCTools supports 2FA for extra account security:\n\n- **Email 2FA** — Receive a verification code via email on login\n- **TOTP** — Use an authenticator app (Google Authenticator, Authy, etc.)\n\nWe strongly recommend enabling 2FA in **Settings > Security**.",
+      "text": "CCTools admite 2FA para mayor seguridad de la cuenta:\n\n- **Correo electrónico 2FA**: reciba un código de verificación por correo electrónico al iniciar sesión\n- **TOTP**: utilice una aplicación de autenticación (Google Authenticator, Authy, etc.)\n\nRecomendamos encarecidamente habilitar 2FA en **Configuración > Seguridad**."
+    },
+    "body:3181ef42eeca": {
+      "_src": "- Never share your account credentials with anyone\n- CCTools will never ask for your password via email or DM\n- Be wary of phishing sites — always check the URL is **cctools.network**\n- Report suspicious activity via the contact form at **cctools.network/contact**",
+      "text": "- Nunca compartas las credenciales de tu cuenta con nadie\n- CCTools nunca le pedirá su contraseña por correo electrónico o DM\n- Tenga cuidado con los sitios de phishing: compruebe siempre que la URL sea **cctools.network**\n- Informar actividad sospechosa a través del formulario de contacto en **cctools.network/contact**"
+    },
+    "body:0df5a9e6893b": {
+      "_src": "CCTools Pro is a premium subscription that unlocks advanced features:\n\n- **10 wallets** (vs 3 on free plan)\n- **30-day balance history** (vs 7-day on free)\n- **Tax report export** — CSV format compatible with Koinly\n- **Validator performance dashboard**\n- **Network historical charts**\n- **Compare up to 4 projects** (vs 2 on free)\n- **6 badge showcase slots** (vs 3 on free)\n- **1.25x XP multiplier** on all actions\n- **Priority support**\n\nVisit the **Pro** page on CCTools to see current pricing. Subscriptions can be cancelled anytime.",
+      "text": "CCTools Pro es una suscripción premium que desbloquea funciones avanzadas:\n\n- **10 billeteras** (frente a 3 en el plan gratuito)\n- **Historial de saldo de 30 días** (frente a 7 días gratis)\n- **Exportación de informes de impuestos** — Formato CSV compatible con Koinly\n- **Panel de rendimiento del validador**\n- **Gráficos históricos de la red**\n- **Compara hasta 4 proyectos** (frente a 2 gratis)\n- **6 espacios para exhibición de insignias** (frente a 3 gratis)\n- **Multiplicador de XP de 1,25x** en todas las acciones\n- **Soporte prioritario**\n\nVisite la página **Pro** en CCTools para ver los precios actuales. Las suscripciones se pueden cancelar en cualquier momento."
+    },
+    "body:837e3f036090": {
+      "_src": "Go to **Settings > Subscription** and click **Upgrade to Pro**. Payment is processed securely via Stripe.\n\nYou can cancel anytime from the same page. Your Pro features remain active until the end of your billing period.",
+      "text": "Vaya a **Configuración > Suscripción** y haga clic en **Actualizar a Pro**. El pago se procesa de forma segura a través de Stripe.\n\nPuedes cancelar en cualquier momento desde la misma página. Sus funciones Pro permanecen activas hasta el final de su período de facturación."
+    },
+    "body:17da90ce4ed5": {
+      "_src": "Canton Network is a privacy-enabled interoperable blockchain network designed for institutional use. Unlike traditional blockchains, Canton uses **DAML smart contracts** and supports atomic transactions across multiple applications.\n\nKey differentiators:\n\n- **Privacy by design** — Transaction data is only visible to participants\n- **Interoperability** — Applications can transact atomically across the network\n- **Institutional grade** — Built by and for major financial institutions\n- **DAML** — Uses the DAML smart contract language (by Digital Asset)",
+      "text": "Canton Network es una red blockchain interoperable con privacidad diseñada para uso institucional. A diferencia de las cadenas de bloques tradicionales, Canton utiliza **contratos inteligentes DAML** y admite transacciones atómicas en múltiples aplicaciones.\n\nDiferenciadores clave:\n\n- **Privacidad por diseño**: los datos de la transacción solo son visibles para los participantes\n- **Interoperabilidad**: las aplicaciones pueden realizar transacciones de forma atómica a través de la red.\n- **Grado institucional**: creado por y para las principales instituciones financieras\n- **DAML**: utiliza el lenguaje de contrato inteligente DAML (por Digital Asset)"
+    },
+    "body:965e4e8aea7d": {
+      "_src": "Canton Network was created by **Digital Asset** and is governed by a consortium of major financial institutions acting as Super Validators. The network is designed to bring institutional finance on-chain while maintaining the privacy and compliance requirements that regulated entities need.",
+      "text": "Canton Network fue creada por **Digital Asset** y está gobernada por un consorcio de importantes instituciones financieras que actúan como Súper Validadores. La red está diseñada para incorporar las finanzas institucionales a la cadena manteniendo los requisitos de privacidad y cumplimiento que necesitan las entidades reguladas."
+    },
+    "body:022162671428": {
+      "_src": "The **CC token** is the native currency of Canton Network.\n\n- **Max supply**: 1 billion CC tokens\n- **Mechanism**: Burn/mint model — tokens are burned for transaction fees and minted as validator rewards\n- **Halving**: Minting rewards are reduced periodically following a halving schedule\n\nThe deflationary mechanism means that as network usage increases, more CC is burned while minting rewards decrease over time.",
+      "text": "El **token CC** es la moneda nativa de Canton Network.\n\n- **Suministro máximo**: mil millones de tokens CC\n- **Mecanismo**: modelo Burn/mint: los tokens se queman para pagar las tarifas de transacción y se acuñan como recompensas del validador.\n- **Reducción a la mitad**: las recompensas de acuñación se reducen periódicamente siguiendo un cronograma de reducción a la mitad\n\nEl mecanismo deflacionario significa que a medida que aumenta el uso de la red, se quema más CC mientras que las recompensas disminuyen con el tiempo."
+    },
+    "body:9506fa842b69": {
+      "_src": "CCTools provides real-time CC token data on the **$CC Token** page:\n\n- Current price and 24h change\n- Market cap and circulating supply\n- Historical price charts\n- Burn and mint rates\n- Halving countdown",
+      "text": "CCTools proporciona datos del token CC en tiempo real en la página **$CC Token**:\n\n- Precio actual y cambio de 24h.\n- Capitalización de mercado y oferta circulante\n- Gráficos de precios históricos\n- Tasas de quemado y acuñación.\n- Reducir a la mitad la cuenta regresiva"
+    },
+    "body:a6594e3a0538": {
+      "_src": "CCTools provides three rewards calculators to help you estimate potential earnings:\n\n- **App Builder Calculator** — Estimate rewards for building applications on Canton Network based on app coupon issuance rates\n- **Validator Calculator** — Calculate potential validator rewards based on delegation amount and validator coupon rates\n- **CC Holder Calculator** — Estimate holding rewards based on your CC token balance\n\nAccess the calculator from the sidebar under **Calculator** or from the **Rewards** page.",
+      "text": "CCTools proporciona tres calculadoras de recompensas para ayudarle a estimar sus ganancias potenciales:\n\n- **Calculadora de creación de aplicaciones**: calcule las recompensas por crear aplicaciones en Canton Network en función de las tasas de emisión de cupones de aplicaciones\n- **Calculadora del validador**: calcula las posibles recompensas del validador en función del monto de la delegación y las tasas de los cupones del validador.\n- **Calculadora de titulares de CC**: calcule las recompensas por tenencia en función de su saldo de tokens CC\n\nAcceda a la calculadora desde la barra lateral en **Calculadora** o desde la página **Recompensas**."
+    },
+    "body:2415da191e43": {
+      "_src": "The calculators use real-time network data including:\n\n- Current issuance rates per round (Super Validator, Validator, App coupons)\n- Number of halvings completed\n- Current CC price\n\nResults are estimates based on current network conditions and may vary as the network parameters change over time.",
+      "text": "Las calculadoras utilizan datos de red en tiempo real, incluidos:\n\n- Tasas de emisión actuales por ronda (Super Validador, Validador, Cupones de Aplicación)\n- Número de mitades completadas\n- Precio CC actual\n\nLos resultados son estimaciones basadas en las condiciones actuales de la red y pueden variar a medida que los parámetros de la red cambian con el tiempo."
+    },
+    "body:605cfc991db4": {
+      "_src": "The **Validators** page lists all active validators on the Canton Network. For each validator you can see:\n\n- Validator name and identity\n- Role (Super Validator or regular Validator)\n- Performance metrics and rewards data\n\n**Pro users** get access to additional validator data and export options.",
+      "text": "La página **Validadores** enumera todos los validadores activos en Canton Network. Para cada validador puedes ver:\n\n- Nombre e identidad del validador.\n- Rol (Super Validador o Validador regular)\n- Métricas de rendimiento y datos de recompensas.\n\n**Los usuarios Pro** obtienen acceso a datos adicionales del validador y opciones de exportación."
+    },
+    "body:23f004ad0ee7": {
+      "_src": "Super Validators are major financial institutions that validate transactions and have additional governance rights:\n\n- Voting on protocol changes and network parameters\n- Proposing network upgrades\n- Setting fee structures\n\nExamples include major banks and financial institutions that participate in the Canton Network consortium.",
+      "text": "Los Super Validadores son importantes instituciones financieras que validan transacciones y tienen derechos de gobernanza adicionales:\n\n- Votación sobre cambios de protocolo y parámetros de red.\n- Proponer actualizaciones de red.\n- Establecer estructuras de tarifas\n\nLos ejemplos incluyen los principales bancos e instituciones financieras que participan en el consorcio Canton Network."
+    },
+    "body:8b60235d328b": {
+      "_src": "CCTools tracks all governance activity on the **Governance** page:\n\n- Active and past proposals\n- Voting status and results\n- Super Validator participation\n- Approval rate and execution status\n- Network parameter changes\n\nThis gives the community full transparency into how the network is governed.",
+      "text": "CCTools realiza un seguimiento de toda la actividad de gobernanza en la página **Gobernanza**:\n\n- Propuestas activas y pasadas.\n- Estado de la votación y resultados.\n- Participación del Súper Validador\n- Tasa de aprobación y estado de ejecución.\n- Cambios de parámetros de red.\n\nEsto le da a la comunidad total transparencia sobre cómo se gobierna la red."
+    },
+    "body:85e36fbe49d7": {
+      "_src": "Campaigns are sponsored quests created in partnership with Canton ecosystem projects. Each campaign has a set of tasks to complete, and finishing all tasks earns you XP, badges, and sometimes exclusive rewards (redemption codes, links, etc.).\n\nCampaigns appear on the **Earn** page and are marked with the partner project's branding.",
+      "text": "Las campañas son misiones patrocinadas creadas en asociación con proyectos del ecosistema de Canton. Cada campaña tiene un conjunto de tareas que completar y, al completarlas, obtendrás XP, insignias y, a veces, recompensas exclusivas (códigos de canje, enlaces, etc.).\n\nLas campañas aparecen en la página **Ganar** y están marcadas con la marca del proyecto asociado."
+    },
+    "body:995d6dbd9a09": {
+      "_src": "To participate in a campaign:\n\n1. Go to the **Earn** page and find an active campaign\n2. Click **Join** to enter the campaign\n3. Complete each task in the campaign (they can be done in any order)\n4. Once all tasks are done, your reward is automatically claimed\n\nSome campaigns have a **participant limit**, so join early to secure your spot.",
+      "text": "Para participar en una campaña:\n\n1. Vaya a la página **Gane** y busque una campaña activa.\n2. Haga clic en **Unirse** para ingresar a la campaña.\n3. Completa cada tarea de la campaña (se pueden realizar en cualquier orden)\n4. Una vez realizadas todas las tareas, tu recompensa se reclama automáticamente.\n\nAlgunas campañas tienen un **límite de participantes**, así que únete temprano para asegurar tu lugar."
+    },
+    "body:4ee7fa3eb1cd": {
+      "_src": "Campaigns can include different types of tasks:\n\n- **Follow on X** — Follow the partner project's Twitter/X account (requires X connection)\n- **Retweet** — Retweet a specific post\n- **Upvote project** — Upvote the partner project in the Ecosystem directory\n- **Show interest in Earn** — Show interest in the partner's Earn opportunity\n- **Visit URL** — Visit a specific page or website\n- **Text submission** — Submit text (e.g., your Discord ID, email, etc.)\n- **Custom tasks** — Other tasks defined by the partner\n\nEach completed task earns XP. Completing **all tasks** in a campaign may also award a special badge.",
+      "text": "Las campañas pueden incluir diferentes tipos de tareas:\n\n- **Seguir en X**: siga la cuenta Twitter/X del proyecto asociado (requiere conexión X)\n- **Retuitear**: retuitea una publicación específica\n- **Proyecto Upvote**: vota a favor del proyecto del socio en el directorio del ecosistema.\n- **Mostrar interés en Ganar**: mostrar interés en la oportunidad de Ganar del socio.\n- **Visitar URL**: visite una página o sitio web específico\n- **Envío de texto**: envíe texto (por ejemplo, su ID de Discord, correo electrónico, etc.)\n- **Tareas personalizadas**: otras tareas definidas por el socio\n\nCada tarea completada gana XP. Completar **todas las tareas** en una campaña también puede otorgar una insignia especial."
+    },
+    "body:f45e34dcbe67": {
+      "_src": "CCTools offers several ways for projects to gain visibility:\n\n- **Banner** — Prominent placement at the top of the platform, visible across all pages\n- **Sponsored Ecosystem Listing** — Your project appears highlighted in the Ecosystem directory with a \"Sponsored\" badge\n- **Sponsored Earn Listing** — Your opportunity appears highlighted in the Earn section\n- **Campaign with Tasks** — A fully custom campaign with tasks, badges, and rewards for users\n\nAll sponsored content is clearly labeled so users know what is organic and what is promoted.",
+      "text": "CCTools ofrece varias formas para que los proyectos ganen visibilidad:\n\n- **Banner**: ubicación destacada en la parte superior de la plataforma, visible en todas las páginas.\n- **Listado de ecosistemas patrocinados**: su proyecto aparece resaltado en el directorio de ecosistemas con una insignia de \"Patrocinado\".\n- **Listado de ganancias patrocinadas**: su oportunidad aparece resaltada en la sección Ganancias\n- **Campaña con Tareas**: una campaña totalmente personalizada con tareas, insignias y recompensas para los usuarios.\n\nTodo el contenido patrocinado está claramente etiquetado para que los usuarios sepan qué es orgánico y qué se promociona."
+    },
+    "body:2d54abb5ee8c": {
+      "_src": "If you're a project team looking for visibility in the Canton ecosystem, visit **cctools.network/contact** and select \"Sponsored Listing\" or \"Partnership\" as the subject.\n\nInclude:\n\n- Your project name and description\n- Which type of sponsorship interests you\n- Desired duration\n- Links (website, Twitter, docs)\n\nWe'll get back to you to discuss details and pricing.",
+      "text": "Si es un equipo de proyecto que busca visibilidad en el ecosistema de Canton, visite **cctools.network/contact** y seleccione \"Listado patrocinado\" o \"Asociación\" como tema.\n\nIncluye:\n\n- Nombre y descripción de tu proyecto.\n- ¿Qué tipo de patrocinio te interesa?\n- Duración deseada\n- Enlaces (sitio web, Twitter, documentos)\n\nNos comunicaremos con usted para discutir los detalles y los precios."
+    },
+    "body:a22c2a1e1a1c": {
+      "_src": "The **Network Stats** page shows real-time and historical data about the Canton Network:\n\n- **CC Price** — Current price, 24h change, market cap, and volume\n- **Validators** — Total number of Super Validators and regular validators\n- **Burn/Mint Ratio** — Whether the network is currently deflationary (more burns than mints)\n- **Daily Transactions** — Transaction volume on the network\n- **Governance** — Total proposals, approval rate, executed vs rejected\n- **Issuance Rates** — Per Super Validator, Validator, and App coupon rates\n- **TradingView Chart** — Live KRAKEN:CCUSD price chart with full TradingView integration",
+      "text": "La página **Estadísticas de la red** muestra datos históricos y en tiempo real sobre Canton Network:\n\n- **Precio CC**: precio actual, cambio de 24 horas, capitalización de mercado y volumen\n- **Validadores**: número total de supervalidadores y validadores regulares\n- **Ratio Burn/Mint**: si la red es actualmente deflacionaria (más quemaduras que acuñaciones)\n- **Transacciones diarias** — Volumen de transacciones en la red\n- **Gobernanza** — Propuestas totales, tasa de aprobación, ejecutadas versus rechazadas\n- **Tasas de emisión**: tasas de cupón por supervalidador, validador y aplicación\n- **Gráfico de TradingView** — Gráfico de precios de KRAKEN:CCUSD en vivo con integración completa de TradingView"
+    },
+    "body:22540fd2417e": {
+      "_src": "CCTools tracks hourly burn and mint data for the CC token:\n\n- **Burns** — CC tokens burned as transaction fees\n- **Mints** — CC tokens minted as validator rewards\n- **Ratio** — When the ratio is above 1.0, more CC is being burned than minted (deflationary)\n\nThis data is shown in a dual bar chart covering the last 24-72 hours, helping you understand the token's supply dynamics in real-time.",
+      "text": "CCTools rastrea los datos de grabación y acuñación por hora para el token CC:\n\n- **Burns** — Tokens CC quemados como tarifas de transacción\n- **Mints**: tokens CC acuñados como recompensas del validador\n- **Proporción**: cuando la proporción es superior a 1,0, se queman más CC de los que se acuñan (deflacionario).\n\nEstos datos se muestran en un gráfico de barras dual que cubre las últimas 24 a 72 horas, lo que le ayuda a comprender la dinámica de suministro del token en tiempo real."
+    },
+    "body:8f35925db464": {
+      "_src": "We aggregate CC token price data from trusted market data providers to show price, market cap, 24h volume, and circulating supply.\n\nPrice data is updated frequently to ensure accuracy.",
+      "text": "Agregamos datos de precios de tokens CC de proveedores confiables de datos de mercado para mostrar el precio, la capitalización de mercado, el volumen de 24 horas y la oferta circulante.\n\nLos datos de precios se actualizan con frecuencia para garantizar la precisión."
+    },
+    "body:e74d9a0aee3d": {
+      "_src": "On-chain network data is sourced directly from the Canton Network:\n\n- Validator and Super Validator counts\n- Daily transaction volume\n- Burn and mint amounts per round\n- Featured app count\n- Total network parties\n\nNetwork stats are synced regularly to ensure accuracy.",
+      "text": "Los datos de la red en cadena se obtienen directamente de Canton Network:\n\n- Recuentos de Validador y Super Validador\n- Volumen de transacciones diarias\n- Quemar y acuñar cantidades por ronda.\n- Recuento de aplicaciones destacadas\n- Fiestas totales de la red.\n\nLas estadísticas de la red se sincronizan periódicamente para garantizar la precisión."
+    },
+    "body:aa0c92da1d55": {
+      "_src": "Wallet balances and rewards are fetched directly from the Canton Network. When you add a wallet, CCTools queries your holdings to display:\n\n- Token balances\n- Rewards history\n- Transfer records",
+      "text": "Los saldos de Wallet y las recompensas se obtienen directamente de Canton Network. Cuando agrega una billetera, CCTools consulta sus tenencias para mostrar:\n\n- Saldos de tokens\n- Historial de recompensas\n- Transferir registros"
+    },
+    "body:e6619019a60c": {
+      "_src": "1. **Be respectful** — No harassment, hate speech, or personal attacks\n2. **No spam** — Don't post repetitive messages, advertisements, or scam links\n3. **No impersonation** — Don't pretend to be CCTools team or other users\n4. **English only** — Main channels are English only (local channels may vary)\n5. **No price speculation** — Avoid pure price discussion and \"wen pump\" posts\n6. **No exploit sharing** — Don't share or discuss XP exploits or manipulation tactics",
+      "text": "1. **Sea respetuoso**: no se permite el acoso, el discurso de odio ni los ataques personales.\n2. **Sin spam**: no publique mensajes, anuncios ni enlaces fraudulentos repetitivos\n3. **Sin suplantación**: no pretenda ser el equipo de CCTools ni otros usuarios.\n4. **Solo en inglés**: los canales principales son solo en inglés (los canales locales pueden variar)\n5. **Sin especulación de precios**: evite discusiones puras sobre precios y publicaciones tipo \"wen pump\"\n6. **No compartir exploits**: no compartas ni hables sobre exploits o tácticas de manipulación de XP."
+    },
+    "body:4b0ff044b474": {
+      "_src": "Rule violations are handled progressively:\n\n1. **Warning** — First offense gets a verbal warning\n2. **Mute** — Repeated offenses result in temporary mute (1-24h)\n3. **Ban** — Severe or continued violations result in a permanent ban\n\nModerators have discretion to skip steps for severe violations (e.g., scam links = immediate ban).",
+      "text": "Las violaciones de las reglas se manejan progresivamente:\n\n1. **Advertencia**: la primera infracción recibe una advertencia verbal.\n2. **Silenciar**: las infracciones repetidas provocan un silencio temporal (1-24 h)\n3. **Prohibición**: las infracciones graves o continuadas dan lugar a una prohibición permanente.\n\nLos moderadores tienen discreción para omitir pasos en caso de infracciones graves (por ejemplo, enlaces fraudulentos = prohibición inmediata)."
+    },
+    "body:89de00ca1a03": {
+      "_src": "Found an interesting earn opportunity in the Canton ecosystem? You can suggest it directly on CCTools:\n\n1. Go to **Earn** and click **Submit Opportunity**\n2. Fill in the details: title, URL, type, description, provider, estimated value\n3. Submit for review\n\nEach suggestion earns you XP, and approved suggestions earn you the **Opp Scout** badge. Get multiple suggestions approved for the **Verified Scout** badge.\n\nThere is a daily limit on suggestions to maintain quality.",
+      "text": "¿Encontró una oportunidad interesante de ganar dinero en el ecosistema de Cantón? Puedes sugerirlo directamente en CCTools:\n\n1. Vaya a **Ganar** y haga clic en **Enviar oportunidad**\n2. Complete los detalles: título, URL, tipo, descripción, proveedor, valor estimado\n3. Enviar para revisión\n\nCada sugerencia te otorga XP y las sugerencias aprobadas te otorgan la insignia **Opp Scout**. Obtenga múltiples sugerencias aprobadas para la insignia **Scout verificado**.\n\nHay un límite diario de sugerencias para mantener la calidad."
+    },
+    "body:2ffe3c11251f": {
+      "_src": "Know a project building on Canton that's not in our directory? Submit it:\n\n1. Go to **Ecosystem** and click **Submit Project**\n2. Fill in the multi-step form (project info, team, features, FAQ)\n3. Submit for review\n\nApproved submissions help grow the ecosystem directory for everyone.",
+      "text": "¿Conoce algún proyecto construido en Canton que no esté en nuestro directorio? Envíalo:\n\n1. Vaya a **Ecosistema** y haga clic en **Enviar proyecto**\n2. Complete el formulario de varios pasos (información del proyecto, equipo, características, preguntas frecuentes)\n3. Enviar para revisión\n\nLos envíos aprobados ayudan a hacer crecer el directorio del ecosistema para todos."
+    },
+    "body:16b51dea86f4": {
+      "_src": "If you notice outdated or incorrect information on a project listing, you can suggest edits:\n\n1. Go to the project's page in the Ecosystem\n2. Click **Suggest Edit**\n3. Update the fields that need correction\n4. Submit for review\n\nThis helps keep the directory accurate and up to date.",
+      "text": "Si observa información desactualizada o incorrecta en la lista de un proyecto, puede sugerir modificaciones:\n\n1. Vaya a la página del proyecto en el Ecosistema.\n2. Haga clic en **Sugerir edición**\n3. Actualice los campos que necesitan corrección.\n4. Enviar para revisión\n\nEsto ayuda a mantener el directorio preciso y actualizado."
+    },
+    "body:1a1246d6a72a": {
+      "_src": "**Is CCTools free?**\nYes! CCTools is free to use. We offer a Pro tier for advanced features, but all core features are free.\n\n**Is CCTools official?**\nCCTools is a community-built tool. We are not officially affiliated with Digital Asset or Canton Network, but we are applying for a Canton Protocol Development Fund grant.\n\n**How do I report a bug?**\nUse the contact form at **cctools.network/contact** with a description of the bug, screenshots if possible, and your browser/device info.",
+      "text": "**¿CCTools es gratuito?**\n¡Sí! CCTools es de uso gratuito. Ofrecemos un nivel Pro para funciones avanzadas, pero todas las funciones principales son gratuitas.\n\n**¿CCTools es oficial?**\nCCTools es una herramienta creada por la comunidad. No estamos afiliados oficialmente a Digital Asset o Canton Network, pero estamos solicitando una subvención del Fondo de Desarrollo del Protocolo de Canton.\n\n**¿Cómo informo de un error?**\nUtilice el formulario de contacto en **cctools.network/contact** con una descripción del error, capturas de pantalla si es posible y la información de su navegador/dispositivo."
+    },
+    "body:7f1c6eec9346": {
+      "_src": "**Why did my XP drop?**\nSome XP is tied to daily actions that reset. Also, if you un-upvote a project, the XP from that action is reversed.\n\n**How do I get Level 4?**\nKeep logging in daily to build your streak, upvote projects, follow @cantontools on X, and add a wallet. Level 4 typically takes a few days of active use.\n\n**Can I reset my account?**\nUse the contact form at **cctools.network/contact** if you need an account reset. Note that this will erase all XP and badges.",
+      "text": "**¿Por qué bajó mi XP?**\nAlgunos XP están vinculados a acciones diarias que se reinician. Además, si cancelas la votación de un proyecto, el XP de esa acción se revierte.\n\n**¿Cómo consigo el nivel 4?**\nContinúe iniciando sesión diariamente para aumentar su racha, votar proyectos, seguir a @cantontools en X y agregar una billetera. El nivel 4 normalmente requiere unos días de uso activo.\n\n**¿Puedo restablecer mi cuenta?**\nUtilice el formulario de contacto en **cctools.network/contact** si necesita restablecer su cuenta. Tenga en cuenta que esto borrará todos los XP e insignias."
+    },
+    "body:22f401e36484": {
+      "_src": "**Is my wallet safe?**\nCCTools only requires your public wallet address for read-only tracking. We never ask for private keys or seed phrases. Your wallet is never at risk.\n\n**Why are my balances wrong?**\nToken prices are updated in near real-time but may have slight delays. If balances seem significantly wrong, try refreshing or removing and re-adding your wallet.\n\n**Can I track wallets on other chains?**\nCurrently, CCTools only supports Canton Network wallets. Multi-chain support may come in the future.",
+      "text": "**¿Está segura mi billetera?**\nCCTools solo requiere la dirección de su billetera pública para realizar un seguimiento de solo lectura. Nunca solicitamos claves privadas o frases iniciales. Tu billetera nunca está en riesgo.\n\n**¿Por qué mis saldos son incorrectos?**\nLos precios de los tokens se actualizan casi en tiempo real, pero pueden tener ligeros retrasos. Si los saldos parecen significativamente incorrectos, intente actualizar o eliminar y volver a agregar su billetera.\n\n**¿Puedo rastrear billeteras en otras cadenas?**\nActualmente, CCTools solo admite carteras de Canton Network. El soporte de múltiples cadenas puede llegar en el futuro."
+    },
+    "body:7196e24cace8": {
+      "_src": "**\"Invalid credentials\" error**\n- Double-check your email and password\n- Try the \"Forgot Password\" link to reset\n- Make sure you're using the correct login method (Email, Google, Twitter/X, or Discord)\n\n**\"Email not verified\" error**\n- Check your inbox (and spam folder) for the verification email\n- Click the verification link in the email\n- If you didn't receive it, click \"Resend verification email\" on the login page\n\n**2FA issues**\n- If you enabled 2FA and lost access to your authenticator app, reach out via the contact form\n- Email 2FA codes may land in spam\n\n**Page loads but nothing happens**\n- Clear your browser cache and cookies\n- Try a different browser\n- Disable browser extensions that might interfere",
+      "text": "**Error \"credenciales no válidas\"**\n- Vuelva a verificar su correo electrónico y contraseña\n- Pruebe el enlace \"Olvidé mi contraseña\" para restablecerla\n- Asegúrate de estar utilizando el método de inicio de sesión correcto (correo electrónico, Google, Twitter/X o Discord)\n\n**Error \"Correo electrónico no verificado\"**\n- Revisa tu bandeja de entrada (y tu carpeta de spam) para ver el correo electrónico de verificación.\n- Haga clic en el enlace de verificación en el correo electrónico.\n- Si no lo recibió, haga clic en \"Reenviar correo electrónico de verificación\" en la página de inicio de sesión\n\n**Problemas de 2FA**\n- Si habilitó 2FA y perdió el acceso a su aplicación de autenticación, comuníquese a través del formulario de contacto\n- Los códigos 2FA de correo electrónico pueden llegar a ser spam\n\n**La página se carga pero no pasa nada**\n- Borra la memoria caché y las cookies de tu navegador\n- Pruebe con un navegador diferente\n- Desactivar extensiones del navegador que puedan interferir"
+    },
+    "body:1f40858b4c2e": {
+      "_src": "If none of the above works, reach out via the contact form at **cctools.network/contact** with:\n\n- The email you're trying to log in with\n- What error message you see\n- Your browser and device info\n- Screenshots if possible",
+      "text": "Si nada de lo anterior funciona, comuníquese a través del formulario de contacto en **cctools.network/contact** con:\n\n- El correo electrónico con el que estás intentando iniciar sesión.\n- ¿Qué mensaje de error ves?\n- La información de su navegador y dispositivo\n- Capturas de pantalla si es posible"
+    },
+    "body:74988ac0079e": {
+      "_src": "**Wallet just added?**\nIt may take a few minutes for your wallet data to fully load. Wait 2-3 minutes and refresh the page.\n\n**Showing zero balance?**\n- Verify your wallet address is correct\n- Make sure the wallet has Canton Network tokens (not other chains)\n- Try removing and re-adding the wallet\n\n**Historical data missing?**\nHistorical data depends on indexer availability. Some older transactions may not be reflected.",
+      "text": "**¿Se acaba de agregar billetera?**\nEs posible que los datos de su billetera tarden unos minutos en cargarse por completo. Espere 2-3 minutos y actualice la página.\n\n**¿Mostrando saldo cero?**\n- Verifique que la dirección de su billetera sea correcta\n- Asegúrese de que la billetera tenga tokens de Canton Network (no otras cadenas)\n- Intente quitar y volver a agregar la billetera\n\n**¿Faltan datos históricos?**\nLos datos históricos dependen de la disponibilidad del indexador. Es posible que algunas transacciones anteriores no se reflejen."
+    },
+    "body:66c6a930d674": {
+      "_src": "**Contact Form**: The best way to reach us is through the contact form at **cctools.network/contact**. Select a subject (Sponsored Listing, Partnership, General Inquiry, etc.) and describe your issue.\n\n**Twitter/X**: @cantontools (DMs open for quick questions)\n\n**Community**: Join our Telegram for community-powered support\n\nWhen contacting support, include:\n- Your CCTools email/username\n- Description of the issue\n- Screenshots or screen recordings\n- Browser and device info",
+      "text": "**Formulario de contacto**: La mejor manera de comunicarse con nosotros es a través del formulario de contacto en **cctools.network/contact**. Seleccione un tema (Listado patrocinado, Asociación, Consulta general, etc.) y describa su problema.\n\n**Twitter/X**: @cantontools (DM abiertos para preguntas rápidas)\n\n**Comunidad**: Únase a nuestro Telegram para obtener asistencia impulsada por la comunidad\n\nCuando se comunique con el soporte, incluya:\n- Su correo electrónico/nombre de usuario de CCTools\n- Descripción del problema\n- Capturas de pantalla o grabaciones de pantalla.\n- Información del navegador y del dispositivo"
+    }
+  }
+}

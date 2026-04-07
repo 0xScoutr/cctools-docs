@@ -1,0 +1,920 @@
+{
+  "_meta": {
+    "locale": "zh",
+    "updatedAt": "2026-04-07T03:07:52.504Z"
+  },
+  "strings": {
+    "title:bf647454e360": {
+      "_src": "Getting Started",
+      "text": "入门"
+    },
+    "title:4186b263f282": {
+      "_src": "What is CCTools?",
+      "text": "CCTools是什么？"
+    },
+    "title:fd63bada388d": {
+      "_src": "Creating Your Account",
+      "text": "创建您的帐户"
+    },
+    "title:6dcbbba0ceb2": {
+      "_src": "Navigating the Platform",
+      "text": "平台导航"
+    },
+    "title:d4f859a96c13": {
+      "_src": "Portfolio",
+      "text": "文件夹"
+    },
+    "title:9f9959c4c26a": {
+      "_src": "Adding Wallets",
+      "text": "添加钱包"
+    },
+    "title:8a530ee81bc8": {
+      "_src": "Understanding P&L",
+      "text": "了解损益表"
+    },
+    "title:430cfc97502d": {
+      "_src": "Rewards Tracking",
+      "text": "奖励追踪"
+    },
+    "title:47e3170ffb3d": {
+      "_src": "Ecosystem",
+      "text": "生态系统"
+    },
+    "title:a47195cbf962": {
+      "_src": "Browsing Projects",
+      "text": "浏览项目"
+    },
+    "title:2791d6982ad4": {
+      "_src": "Compare Tool",
+      "text": "比较工具"
+    },
+    "title:7dea59dff983": {
+      "_src": "Sponsored Listings",
+      "text": "赞助商列表"
+    },
+    "title:dabb69e2d82f": {
+      "_src": "Earn & XP",
+      "text": "赚取和经验值"
+    },
+    "title:a44b28c69772": {
+      "_src": "Earn Opportunities",
+      "text": "赢得机会"
+    },
+    "title:6fe74b815c31": {
+      "_src": "How the XP System Works",
+      "text": "XP系统的工作原理"
+    },
+    "title:65cda8a2074c": {
+      "_src": "Badges & Achievements",
+      "text": "徽章和成就"
+    },
+    "title:6540b502e953": {
+      "_src": "Referral Program",
+      "text": "推荐计划"
+    },
+    "title:e02b89857b91": {
+      "_src": "Leaderboard",
+      "text": "排行榜"
+    },
+    "title:b6e7561ac3f1": {
+      "_src": "Account & Settings",
+      "text": "账户与设置"
+    },
+    "title:ce1b1d88c4ca": {
+      "_src": "Profile Settings",
+      "text": "配置文件设置"
+    },
+    "title:d51fb99271c4": {
+      "_src": "Security Best Practices",
+      "text": "安全最佳实践"
+    },
+    "title:6fed8b2615ec": {
+      "_src": "CCTools Pro",
+      "text": "CC工具专业版"
+    },
+    "title:8a3ae9cf95ac": {
+      "_src": "Canton Network",
+      "text": "广州网"
+    },
+    "title:52709d23162a": {
+      "_src": "What is Canton Network?",
+      "text": "什么是广州网？"
+    },
+    "title:d581742e9be5": {
+      "_src": "The CC Token",
+      "text": "CC代币"
+    },
+    "title:b01b50ad57e7": {
+      "_src": "Rewards Calculator",
+      "text": "奖励计算器"
+    },
+    "title:71964fe421dc": {
+      "_src": "Validators & Governance",
+      "text": "验证者和治理"
+    },
+    "title:504894b22ecc": {
+      "_src": "Campaigns",
+      "text": "活动"
+    },
+    "title:850250b52954": {
+      "_src": "How Campaigns Work",
+      "text": "活动如何运作"
+    },
+    "title:a83dca079889": {
+      "_src": "Sponsored & Banners",
+      "text": "赞助和横幅"
+    },
+    "title:71c6b868a2da": {
+      "_src": "Network & Data",
+      "text": "网络与数据"
+    },
+    "title:78695766e5b3": {
+      "_src": "Network Stats",
+      "text": "网络统计"
+    },
+    "title:0f69dc5fad0a": {
+      "_src": "Data Sources & APIs",
+      "text": "数据源和API"
+    },
+    "title:7d61983c34ed": {
+      "_src": "Community",
+      "text": "社区"
+    },
+    "title:b45048d6730b": {
+      "_src": "Community Rules",
+      "text": "社区规则"
+    },
+    "title:ae5c60c2ff8f": {
+      "_src": "How to Contribute",
+      "text": "如何贡献"
+    },
+    "title:5405d8a903c8": {
+      "_src": "Frequently Asked Questions",
+      "text": "常见问题解答"
+    },
+    "title:231cf4c70d86": {
+      "_src": "Troubleshooting",
+      "text": "故障排除"
+    },
+    "title:190194f155d6": {
+      "_src": "Login Issues",
+      "text": "登录问题"
+    },
+    "title:f0cdc00ae68a": {
+      "_src": "Portfolio Not Loading",
+      "text": "投资组合未加载"
+    },
+    "title:c08c272bc564": {
+      "_src": "Contact Support",
+      "text": "联系支持人员"
+    },
+    "desc:bde9c50d0ce8": {
+      "_src": "New to CCTools? Start here. Learn how to create your account and explore the platform.",
+      "text": "CCTools 新手？从这里开始。了解如何创建帐户并探索该平台。"
+    },
+    "desc:c62c42495797": {
+      "_src": "Track your Canton Network holdings, P&L, and transaction history.",
+      "text": "跟踪您的 Canton Network 持股、损益和交易历史记录。"
+    },
+    "desc:e927a8b00d74": {
+      "_src": "Discover projects building on Canton Network. Explore DeFi, RWA, infrastructure, and more.",
+      "text": "发现在 Canton Network 上构建的项目。探索 DeFi、RWA、基础设施等。"
+    },
+    "desc:51a9e11867a6": {
+      "_src": "Complete quests, earn XP, climb the leaderboard, and unlock badges.",
+      "text": "完成任务、赚取 XP、攀登排行榜并解锁徽章。"
+    },
+    "desc:367f34dfe312": {
+      "_src": "Manage your profile, security settings, notifications, and preferences.",
+      "text": "管理您的个人资料、安全设置、通知和首选项。"
+    },
+    "desc:309f72861bf9": {
+      "_src": "Learn about Canton Network, the CC token, validators, and governance.",
+      "text": "了解 Canton Network、CC 代币、验证器和治理。"
+    },
+    "desc:87f2371f3569": {
+      "_src": "Join partner campaigns, complete tasks, and earn rewards from Canton ecosystem projects.",
+      "text": "加入合作伙伴活动、完成任务并从 Canton 生态系统项目中获得奖励。"
+    },
+    "desc:11d196f0b3c5": {
+      "_src": "Understand where CCTools data comes from and how network stats are tracked.",
+      "text": "了解 CCTools 数据的来源以及如何跟踪网络统计数据。"
+    },
+    "desc:e594de84cacb": {
+      "_src": "Community rules, how to contribute, and frequently asked questions.",
+      "text": "社区规则、如何贡​​献以及常见问题。"
+    },
+    "desc:647512a6437d": {
+      "_src": "Common issues and how to fix them. Can't find your answer? Contact support.",
+      "text": "常见问题以及如何解决它们。找不到您的答案？联系支持人员。"
+    },
+    "summary:b5fbe1206cc7": {
+      "_src": "Learn what CCTools is and how it helps you navigate the Canton Network ecosystem.",
+      "text": "了解 CCTools 是什么以及它如何帮助您驾驭 Canton Network 生态系统。"
+    },
+    "summary:ab814be0d0b3": {
+      "_src": "Step-by-step guide to creating your CCTools account and connecting your wallet.",
+      "text": "创建 CCTools 帐户并连接钱包的分步指南。"
+    },
+    "summary:c56371439af1": {
+      "_src": "Learn how to use the sidebar, search, and navigate between CCTools features.",
+      "text": "了解如何使用侧边栏、搜索以及在 CCTools 功能之间导航。"
+    },
+    "summary:acf9adbc2a2d": {
+      "_src": "How to add and manage multiple wallet addresses in your portfolio.",
+      "text": "如何在您的投资组合中添加和管理多个钱包地址。"
+    },
+    "summary:45ffab86ecbb": {
+      "_src": "How CCTools calculates your profit and loss across your portfolio.",
+      "text": "CCTools 如何计算您的投资组合的损益。"
+    },
+    "summary:84da09adbd12": {
+      "_src": "Track validator rewards, staking yields, and other Canton Network rewards.",
+      "text": "跟踪验证者奖励、质押收益和其他 Canton 网络奖励。"
+    },
+    "summary:1e520b089880": {
+      "_src": "How to discover and explore projects in the Canton ecosystem.",
+      "text": "如何发现和探索 Canton 生态系统中的项目。"
+    },
+    "summary:1425e09cffa6": {
+      "_src": "How to compare projects or validators side by side.",
+      "text": "如何并排比较项目或验证器。"
+    },
+    "summary:6da7b1e75835": {
+      "_src": "How sponsored ecosystem listings work and how to get one for your project.",
+      "text": "赞助生态系统列表如何运作以及如何为您的项目获取一个列表。"
+    },
+    "summary:7d3c04323696": {
+      "_src": "Browse and discover earning opportunities across the Canton ecosystem.",
+      "text": "浏览并发现整个 Canton 生态系统的赚钱机会。"
+    },
+    "summary:45899e1960e4": {
+      "_src": "Understand how XP is earned, daily resets, and how levels are calculated.",
+      "text": "了解 XP 的获取方式、每日重置以及级别的计算方式。"
+    },
+    "summary:4864e15bac28": {
+      "_src": "Learn about the badge system, rarity tiers, and how to earn them.",
+      "text": "了解徽章系统、稀有度等级以及如何获得它们。"
+    },
+    "summary:f0552df2deed": {
+      "_src": "How to invite friends and earn rewards through the referral program.",
+      "text": "如何通过推荐计划邀请朋友并赚取奖励。"
+    },
+    "summary:f903a02e5543": {
+      "_src": "How the leaderboard ranks users and what determines your position.",
+      "text": "排行榜如何对用户进行排名以及什么决定了您的位置。"
+    },
+    "summary:441ee59670ea": {
+      "_src": "How to update your display name, avatar, and connected accounts.",
+      "text": "如何更新您的显示名称、头像和连接的帐户。"
+    },
+    "summary:c440302a03ca": {
+      "_src": "Keep your CCTools account secure with these recommended practices.",
+      "text": "通过这些推荐的做法来确保您的 CCTools 帐户安全。"
+    },
+    "summary:1f9a84fa8575": {
+      "_src": "Learn about Pro features, pricing, and how to subscribe.",
+      "text": "了解 Pro 功能、定价以及如何订阅。"
+    },
+    "summary:2452ddd5e4cf": {
+      "_src": "An introduction to Canton Network and its unique architecture.",
+      "text": "介绍 Canton Network 及其独特的架构。"
+    },
+    "summary:5156d728798b": {
+      "_src": "Understand CC token economics, supply, burns, and halving schedule.",
+      "text": "了解 CC 代币的经济、供应、销毁和减半时间表。"
+    },
+    "summary:7c99f518cdea": {
+      "_src": "Estimate your potential Canton Network rewards as a builder, validator, or holder.",
+      "text": "估算您作为构建者、验证者或持有者的 Canton Network 潜在奖励。"
+    },
+    "summary:4cebe88ba651": {
+      "_src": "Browse validators, understand Super Validators, and track governance proposals.",
+      "text": "浏览验证器、了解超级验证器并跟踪治理提案。"
+    },
+    "summary:63353216c5af": {
+      "_src": "Learn how partner campaigns work and how to earn rewards by completing tasks.",
+      "text": "了解合作伙伴活动的运作方式以及如何通过完成任务来赚取奖励。"
+    },
+    "summary:d65471dfe539": {
+      "_src": "How sponsored listings and banner placements work on CCTools.",
+      "text": "赞助商列表和横幅广告投放如何在 CCTools 上发挥作用。"
+    },
+    "summary:d9e1b08f6129": {
+      "_src": "What data is shown on the Network Stats page and how it is collected.",
+      "text": "网络统计页面上显示哪些数据以及如何收集这些数据。"
+    },
+    "summary:bf39df6761d4": {
+      "_src": "Where CCTools gets its data and how often it is updated.",
+      "text": "CCTools 从何处获取数据以及更新频率。"
+    },
+    "summary:c6acaa5be608": {
+      "_src": "The rules all community members must follow in CCTools channels.",
+      "text": "所有社区成员在 CCTools 频道中必须遵守的规则。"
+    },
+    "summary:72c223841580": {
+      "_src": "Ways you can contribute to the CCTools ecosystem and earn recognition.",
+      "text": "您可以为 CCTools 生态系统做出贡献并获得认可的方式。"
+    },
+    "summary:dc4ad0adeac8": {
+      "_src": "Answers to the most common questions about CCTools.",
+      "text": "有关 CCTools 的最常见问题的解答。"
+    },
+    "summary:1f08044f096e": {
+      "_src": "Can't log in? Here are the most common causes and fixes.",
+      "text": "无法登录？以下是最常见的原因和修复方法。"
+    },
+    "summary:f15e8a6ba0dd": {
+      "_src": "Troubleshoot issues with portfolio data not showing correctly.",
+      "text": "解决投资组合数据未正确显示的问题。"
+    },
+    "summary:40ef878dae54": {
+      "_src": "How to reach the CCTools team for help.",
+      "text": "如何联系 CCTools 团队寻求帮助。"
+    },
+    "heading:3b878279a04d": {
+      "_src": "Overview",
+      "text": "概述"
+    },
+    "heading:219927b224df": {
+      "_src": "Key Features",
+      "text": "主要特点"
+    },
+    "heading:b71fe31f4704": {
+      "_src": "Who is it for?",
+      "text": "它是给谁用的？"
+    },
+    "heading:d67850bd126f": {
+      "_src": "Sign Up",
+      "text": "报名"
+    },
+    "heading:dc39991cefb5": {
+      "_src": "Connect Your Wallet",
+      "text": "连接您的钱包"
+    },
+    "heading:b62f0b9e8181": {
+      "_src": "Complete Your Profile",
+      "text": "填写您的个​​人资料"
+    },
+    "heading:795614697a17": {
+      "_src": "Sidebar Navigation",
+      "text": "侧边栏导航"
+    },
+    "heading:bb93431f20b6": {
+      "_src": "Global Search",
+      "text": "全球搜索"
+    },
+    "heading:5e86aeff6a72": {
+      "_src": "Add a Wallet",
+      "text": "添加钱包"
+    },
+    "heading:ccf711de46b3": {
+      "_src": "Multiple Wallets",
+      "text": "多个钱包"
+    },
+    "heading:733a9cc2f004": {
+      "_src": "Removing a Wallet",
+      "text": "移除钱包"
+    },
+    "heading:2079ffd22397": {
+      "_src": "How P&L Works",
+      "text": "损益表如何运作"
+    },
+    "heading:7542d40cc585": {
+      "_src": "Export Options",
+      "text": "导出选项"
+    },
+    "heading:ad7b529c3908": {
+      "_src": "Rewards Dashboard",
+      "text": "奖励仪表板"
+    },
+    "heading:73c2371a19c6": {
+      "_src": "Historical Rewards",
+      "text": "历史奖励"
+    },
+    "heading:2ef2b523af87": {
+      "_src": "Ecosystem Directory",
+      "text": "生态系统目录"
+    },
+    "heading:2614c2f5f114": {
+      "_src": "Filtering & Sorting",
+      "text": "过滤和排序"
+    },
+    "heading:bc529d2bbde3": {
+      "_src": "Upvoting Projects",
+      "text": "投票项目"
+    },
+    "heading:0c8d8e58fad3": {
+      "_src": "Comparing Projects",
+      "text": "项目比较"
+    },
+    "heading:1e740099bc19": {
+      "_src": "Comparing Validators",
+      "text": "比较验证器"
+    },
+    "heading:d35d146a0826": {
+      "_src": "What are Sponsored Listings?",
+      "text": "什么是赞助商列表？"
+    },
+    "heading:bfe72f18052c": {
+      "_src": "How to Apply",
+      "text": "如何申请"
+    },
+    "heading:0ed15ebb16eb": {
+      "_src": "What are Opportunities?",
+      "text": "什么是机会？"
+    },
+    "heading:1bc550b7bb0c": {
+      "_src": "Filtering Opportunities",
+      "text": "过滤机会"
+    },
+    "heading:eb23d8e46997": {
+      "_src": "Showing Interest",
+      "text": "表现出兴趣"
+    },
+    "heading:ac2611d03f71": {
+      "_src": "Earning XP",
+      "text": "赚取 XP"
+    },
+    "heading:3a687f855fff": {
+      "_src": "Daily Resets & Streaks",
+      "text": "每日重置和连胜"
+    },
+    "heading:91aedca00492": {
+      "_src": "Levels",
+      "text": "级别"
+    },
+    "heading:740b51cf8ccb": {
+      "_src": "Badge Types",
+      "text": "徽章类型"
+    },
+    "heading:75a99002848c": {
+      "_src": "Badge Showcase",
+      "text": "徽章展示"
+    },
+    "heading:54ef23bca0d2": {
+      "_src": "How Referrals Work",
+      "text": "推荐如何运作"
+    },
+    "heading:94a7caae93ae": {
+      "_src": "XP Rewards",
+      "text": "经验值奖励"
+    },
+    "heading:1f4da964f8ea": {
+      "_src": "Rules",
+      "text": "规则"
+    },
+    "heading:7fef7f939111": {
+      "_src": "How Rankings Work",
+      "text": "排名如何运作"
+    },
+    "heading:5338fd6955e5": {
+      "_src": "Seasons (Coming Soon)",
+      "text": "季节（即将推出）"
+    },
+    "heading:9e3c9fd00601": {
+      "_src": "Update Your Profile",
+      "text": "更新您的个人资料"
+    },
+    "heading:75c13c5619c7": {
+      "_src": "Connected Accounts",
+      "text": "关联账户"
+    },
+    "heading:2b19de9e61f1": {
+      "_src": "Public Profile",
+      "text": "公开资料"
+    },
+    "heading:03562a105058": {
+      "_src": "Password Security",
+      "text": "密码安全"
+    },
+    "heading:25fece61c1fa": {
+      "_src": "Two-Factor Authentication (2FA)",
+      "text": "双因素身份验证 (2FA)"
+    },
+    "heading:aa5b7dfd3b16": {
+      "_src": "General Tips",
+      "text": "一般提示"
+    },
+    "heading:5cf8117f05f1": {
+      "_src": "What is CCTools Pro?",
+      "text": "什么是 CCTools 专业版？"
+    },
+    "heading:245bf65a6648": {
+      "_src": "How to Subscribe",
+      "text": "如何订阅"
+    },
+    "heading:190ee2c52b42": {
+      "_src": "Who Built Canton?",
+      "text": "谁建造了广州？"
+    },
+    "heading:56888d29a14c": {
+      "_src": "Token Economics",
+      "text": "代币经济学"
+    },
+    "heading:9239e6659cc1": {
+      "_src": "Where to Track CC",
+      "text": "在哪里追踪 CC"
+    },
+    "heading:42b8736e6d9d": {
+      "_src": "Three Calculators",
+      "text": "三台计算器"
+    },
+    "heading:feedcee6461f": {
+      "_src": "How Calculations Work",
+      "text": "计算如何进行"
+    },
+    "heading:f7e45df1f66f": {
+      "_src": "Validators Page",
+      "text": "验证器页面"
+    },
+    "heading:6161fa2a54c3": {
+      "_src": "Super Validators",
+      "text": "超级验证者"
+    },
+    "heading:5a935787d6f0": {
+      "_src": "Governance",
+      "text": "治理"
+    },
+    "heading:46147b378cf0": {
+      "_src": "What are Campaigns?",
+      "text": "什么是营销活动？"
+    },
+    "heading:dc8a1254898e": {
+      "_src": "Joining a Campaign",
+      "text": "加入活动"
+    },
+    "heading:65238926daff": {
+      "_src": "Task Types",
+      "text": "任务类型"
+    },
+    "heading:d719adee2b49": {
+      "_src": "Types of Sponsorship",
+      "text": "赞助类型"
+    },
+    "heading:4eef5abf4307": {
+      "_src": "For Projects",
+      "text": "对于项目"
+    },
+    "heading:5f92e21081d1": {
+      "_src": "Burn vs Mint",
+      "text": "烧伤与薄荷"
+    },
+    "heading:257f987709b4": {
+      "_src": "Price Data",
+      "text": "价格数据"
+    },
+    "heading:64933225a5fc": {
+      "_src": "Network Data",
+      "text": "网络数据"
+    },
+    "heading:43b2636aac20": {
+      "_src": "Portfolio Data",
+      "text": "投资组合数据"
+    },
+    "heading:97e2bc42bb78": {
+      "_src": "General Rules",
+      "text": "一般规则"
+    },
+    "heading:61438c8d2463": {
+      "_src": "Enforcement",
+      "text": "执行"
+    },
+    "heading:0beceb39b99c": {
+      "_src": "Suggest Opportunities",
+      "text": "推荐机会"
+    },
+    "heading:3d29a42ed239": {
+      "_src": "Submit a Project",
+      "text": "提交项目"
+    },
+    "heading:6104c2439ee1": {
+      "_src": "Suggest Edits",
+      "text": "建议编辑"
+    },
+    "heading:0db377921f4c": {
+      "_src": "General",
+      "text": "一般的"
+    },
+    "heading:55c25fc644ef": {
+      "_src": "Account & XP",
+      "text": "账户和XP"
+    },
+    "heading:d4f859a96c13": {
+      "_src": "Portfolio",
+      "text": "文件夹"
+    },
+    "heading:b34551a00d39": {
+      "_src": "Common Issues",
+      "text": "常见问题"
+    },
+    "heading:15690b87294a": {
+      "_src": "Still Can't Log In?",
+      "text": "仍然无法登录？"
+    },
+    "heading:5d06e87d1555": {
+      "_src": "Data Not Showing",
+      "text": "数据未显示"
+    },
+    "heading:1428d0d1e9ef": {
+      "_src": "Contact Channels",
+      "text": "联系渠道"
+    },
+    "body:7967f49921a7": {
+      "_src": "CCTools is the leading multi-tool platform for the Canton Network ecosystem. It provides everything you need to track your portfolio, discover projects, earn rewards, monitor network stats, and stay up to date with the Canton ecosystem.\n\nWhether you're a DeFi user, a validator, or just getting started with Canton, CCTools gives you a single dashboard to manage it all.",
+      "text": "CCTools 是 Canton Network 生态系统领先的多功能工具平台。它提供了您跟踪投资组合、发现项目、赚取奖励、监控网络统计数据以及了解 Canton 生态系统最新动态所需的一切。\n\n无论您是 DeFi 用户、验证者，还是刚刚开始使用 Canton，CCTools 都可以为您提供一个仪表板来管理这一切。"
+    },
+    "body:0c5de0647f6e": {
+      "_src": "**Portfolio Tracker** — Connect your wallets and see your full Canton portfolio with real-time prices, P&L, rewards, and transfer history.\n\n**Ecosystem Directory** — Browse hundreds of projects building on Canton Network, filterable by category, role, and status. Upvote your favorites.\n\n**Compare** — Compare up to 4 projects (Pro) or validators side by side.\n\n**Earn** — Complete tasks, discover opportunities, and join campaigns to earn XP and climb the leaderboard.\n\n**Rewards Calculator** — Calculate potential rewards as an App Builder, Validator, or CC Holder.\n\n**Network Stats** — Real-time Canton Network metrics with TradingView integration.\n\n**Governance** — Track Super Validator votes and governance proposals.\n\n**Leaderboard** — See where you rank among other CCTools users with standard, weekly, and bracket views.\n\n**Learn** — Educational content about Canton Network.",
+      "text": "**投资组合追踪器** — 连接您的钱包并查看您的完整 Canton 投资组合以及实时价格、损益、奖励和转账历史记录。\n\n**生态系统目录** — 浏览在 Canton Network 上构建的数百个项目，可按类别、角色和状态进行过滤。为你最喜欢的投票点赞。\n\n**比较** — 并排比较最多 4 个项目（专业版）或验证器。\n\n**赚取** — 完成任务、发现机会并参加活动以赚取 XP 并登上排行榜。\n\n**奖励计算器** — 计算作为应用程序构建者、验证者或 CC 持有者的潜在奖励。\n\n**网络统计** — 与 TradingView 集成的实时 Canton 网络指标。\n\n**治理** — 跟踪超级验证者投票和治理提案。\n\n**排行榜** — 通过标准视图、每周视图和分组视图查看您在其他 CCTools 用户中的排名。\n\n**学习** — 有关 Canton Network 的教育内容。"
+    },
+    "body:4f6c963707f5": {
+      "_src": "CCTools is designed for:\n\n- **New users** exploring the Canton Network for the first time\n- **DeFi users** tracking portfolio performance across Canton apps\n- **Community members** earning XP and badges through engagement\n- **Project teams** looking for visibility through sponsored listings\n- **Researchers** analyzing Canton Network on-chain data",
+      "text": "CCTools 设计用于：\n\n- **新用户**首次探索Canton Network\n- **DeFi 用户**跟踪 Canton 应用程序中的投资组合表现\n- **社区成员**通过参与赚取 XP 和徽章\n- **项目团队**通过赞助列表寻找知名度\n- **研究人员**分析 Canton Network 链上数据"
+    },
+    "body:fea4bc5ff54f": {
+      "_src": "Go to **cctools.network** and click **Sign Up** in the top right corner. You can create an account using:\n\n- **Email + Password** — Standard email registration with email verification\n- **Google** — One-click signup with your Google account\n- **Twitter/X** — Connect your X account directly\n- **Discord** — Sign up with your Discord account\n\nAfter signing up, verify your email to activate your account.",
+      "text": "转到 **cctools.network** 并单击右上角的 **注册**。您可以使用以下方式创建帐户：\n\n- **电子邮件 + 密码** — 带电子邮件验证的标准电子邮件注册\n- **Google** — 使用您的 Google 帐户一键注册\n- **Twitter/X** — 直接连接您的 X 帐户\n- **Discord** — 使用您的 Discord 帐户注册\n\n注册后，验证您的电子邮件以激活您的帐户。"
+    },
+    "body:8db5bb986d30": {
+      "_src": "Once logged in, go to **Portfolio** and click **Connect Wallet**. CCTools supports:\n\n- Any Canton Network compatible wallet address\n- You can add multiple wallets to track your full portfolio\n\nSimply paste your wallet address and CCTools will automatically scan and display your holdings.",
+      "text": "登录后，转到 **Portfolio** 并单击 **Connect Wallet**。 CCTools 支持：\n\n- 任何 Canton Network 兼容的钱包地址\n- 您可以添加多个钱包来跟踪您的完整投资组合\n\n只需粘贴您的钱包地址，CCTools 就会自动扫描并显示您的持仓。"
+    },
+    "body:0721f3faa264": {
+      "_src": "Head to **Settings** to complete your profile:\n\n- Add a display name\n- Set your avatar\n- Add your Twitter/X handle (optional, helps with community features)\n- Enable notifications for the features you care about",
+      "text": "前往**设置**来完成您的个人资料：\n\n- 添加显示名称\n- 设置你的头像\n- 添加您的 Twitter/X 句柄（可选，有助于社区功能）\n- 为您关心的功能启用通知"
+    },
+    "body:b82b02633def": {
+      "_src": "The left sidebar is your main navigation hub. It contains links to all major sections:\n\n- **Overview** — Your personalized dashboard\n- **Portfolio** — Wallet tracking and P&L\n- **Ecosystem** — Project directory with hundreds of projects\n- **Earn** — Quests, campaigns, and opportunities\n- **Governance** — Super Validator votes and proposals\n- **Network Stats** — On-chain analytics and TradingView charts\n- **Leaderboard** — Community rankings (standard, weekly, bracket)\n- **$CC Token** — Token info, burn/mint charts\n- **Learn** — Educational content about Canton\n- **Validators** — Validator list and performance\n- **Compare** — Side-by-side project comparison (2 free, 4 Pro)\n- **Rewards Calculator** — App Builder, Validator, and CC Holder calculators\n\nYou can collapse the sidebar by clicking the collapse icon at the bottom.",
+      "text": "左侧边栏是您的主要导航中心。它包含所有主要部分的链接：\n\n- **概述** — 您的个性化仪表板\n- **投资组合** — 钱包跟踪和损益\n- **Ecosystem** — 包含数百个项目的项目目录\n- **赚取** — 任务、活动和机会\n- **治理** - 超级验证者投票和提案\n- **网络统计** — 链上分析和 TradingView 图表\n- **排行榜** — 社区排名（标准、每周、分组）\n- **$CC 代币** — 代币信息、销毁/铸币图表\n- **学习** — 有关广州的教育内容\n- **验证者** - 验证者列表和性能\n- **比较** — 并排项目比较（2 个免费，4 个专业）\n- **奖励计算器** — 应用程序生成器、验证器和 CC 持有者计算器\n\n您可以通过单击底部的折叠图标来折叠侧边栏。"
+    },
+    "body:cf8bf5c9a2d9": {
+      "_src": "Press `Cmd+K` (Mac) or `Ctrl+K` (Windows) to open the global search. You can search for:\n\n- Projects in the ecosystem\n- Specific pages and features\n- Help articles and documentation\n\nSearch is the fastest way to find anything on CCTools.",
+      "text": "按“Cmd+K”(Mac) 或“Ctrl+K”(Windows) 打开全局搜索。您可以搜索：\n\n- 生态系统中的项目\n- 特定页面和功能\n- 帮助文章和文档\n\n搜索是在 CCTools 上查找任何内容的最快方式。"
+    },
+    "body:145874686981": {
+      "_src": "Navigate to **Portfolio** and click the **Add Wallet** button. Paste your Canton wallet address and give it a label (e.g., \"Main Wallet\", \"DeFi Wallet\").\n\nCCTools will automatically scan your wallet and display:\n\n- Token balances\n- Current value in USD\n- 24h change\n- Historical performance",
+      "text": "导航到 **投资组合** 并单击 **添加钱包** 按钮。粘贴您的 Canton 钱包地址并为其添加标签（例如“主钱包”、“DeFi 钱包”）。\n\nCCTools 将自动扫描您的钱包并显示：\n\n- 代币余额\n- 当前美元价值\n- 24小时变化\n- 历史表现"
+    },
+    "body:36e4290c02c7": {
+      "_src": "You can add multiple wallet addresses to track your full portfolio:\n\n- **Free plan**: Up to 3 wallets\n- **Pro plan**: Up to 10 wallets\n\nThe portfolio view aggregates all wallets into a single view, so you can see your total holdings across all wallets. Each wallet can be individually labeled (up to 50 characters) and supports CNS names.",
+      "text": "您可以添加多个钱包地址来跟踪您的完整投资组合：\n\n- **免费计划**：最多 3 个钱包\n- **专业计划**：最多 10 个钱包\n\n投资组合视图将所有钱包聚合到一个视图中，因此您可以查看所有钱包的总持有量。每个钱包都可以单独标记（最多 50 个字符）并支持 CNS 名称。"
+    },
+    "body:c052fb26733d": {
+      "_src": "To remove a wallet, go to **Portfolio > Settings** (gear icon) and click the remove button next to the wallet you want to delete. This only removes tracking — it does not affect your actual wallet.",
+      "text": "要删除钱包，请转至 **投资组合 > 设置**（齿轮图标），然后单击要删除的钱包旁边的删除按钮。这只会删除跟踪 - 它不会影响您的实际钱包。"
+    },
+    "body:97d19a4c6e30": {
+      "_src": "CCTools calculates your Profit & Loss based on your transaction history. For each token:\n\n- **Cost basis** is calculated using the average acquisition price\n- **Current value** uses real-time market prices\n- **P&L** = Current Value - Cost Basis\n\nP&L is shown both in absolute USD terms and as a percentage.",
+      "text": "CCTools 根据您的交易历史记录计算您的损益。对于每个令牌：\n\n- **成本基础**使用平均收购价格计算\n- **当前值**使用实时市场价格\n- **损益** = 当前价值 - 成本基础\n\n损益以美元绝对值和百分比形式显示。"
+    },
+    "body:5cfe95b50f6f": {
+      "_src": "You can export your portfolio data in CSV format for:\n\n- Tax reporting (compatible with Koinly and other tax tools)\n- Personal record keeping\n- Spreadsheet analysis\n\nGo to **Portfolio** and click the **Export** button in the top right.\n\n**Note:** Full history and tax report export are Pro features. Free users get 7-day balance history, Pro users get 30-day history.",
+      "text": "您可以将您的投资组合数据导出为 CSV 格式：\n\n- 税务报告（与 Koinly 和其他税务工具兼容）\n- 个人记录保存\n- 电子表格分析\n\n转到 **Portfolio** 并单击右上角的 **Export** 按钮。\n\n**注意：** 完整历史记录和税务报告导出是专业版功能。免费用户可以获得 7 天的余额历史记录，专业用户可以获得 30 天的历史记录。"
+    },
+    "body:1608e92f68cb": {
+      "_src": "The Rewards section in your Portfolio shows all rewards earned from:\n\n- **Validator staking** — CC tokens earned from delegating to validators\n- **Protocol rewards** — Any rewards from DeFi protocols on Canton\n\nRewards are tracked automatically once your wallet is connected.",
+      "text": "您的投资组合中的奖励部分显示了从以下来源获得的所有奖励：\n\n- **验证者质押** — 通过委托给验证者获得 CC 代币\n- **协议奖励** — Canton 上 DeFi 协议的任何奖励\n\n连接钱包后，系统会自动跟踪奖励。"
+    },
+    "body:de1434216b92": {
+      "_src": "View your rewards history over time with the rewards chart. You can filter by:\n\n- Time period (7d, 30d, 90d, all time)\n- Reward type (staking, protocol, etc.)\n- Specific wallet",
+      "text": "使用奖励图表查看您一段时间内的奖励历史记录。您可以按以下条件过滤：\n\n- 时间段（7天、30天、90天、所有时间）\n- 奖励类型（质押、协议等）\n- 特定钱包"
+    },
+    "body:e5af42a34412": {
+      "_src": "The Ecosystem page is a curated directory of all projects building on Canton Network. Each project listing includes:\n\n- Project name, logo, and description\n- Category (DeFi, RWA, Infrastructure, Wallet, Bridge, etc.)\n- Links to website, Twitter, and docs\n- Community ratings and upvotes\n- CCTools score based on activity and engagement",
+      "text": "生态系统页面是 Canton Network 上构建的所有项目的精选目录。每个项目清单包括：\n\n- 项目名称、徽标和描述\n- 类别（DeFi、RWA、基础设施、钱包、桥接器等）\n- 网站、Twitter 和文档的链接\n- 社区评分和点赞\n- CCTools 基于活动和参与度的评分"
+    },
+    "body:9adf4a8f4ab7": {
+      "_src": "Use the filter bar at the top to narrow down projects:\n\n- **Category** — DeFi, Stablecoin, Exchange, Tokenized Assets, Payments, Wallet, Bridge, Infrastructure, Gaming, Social, Analytics, Compliance, Security, Custody, and more\n- **Status** — Live, Building, Announced\n- **Role** — Super Validator, Validator, Builder, Featured App, Foundation Member, and others\n- **Sort** — By score, newest, most upvoted, alphabetical\n\nYou can also use the search bar to find specific projects by name.",
+      "text": "使用顶部的过滤栏来缩小项目范围：\n\n- **类别** — DeFi、稳定币、交易所、代币化资产、支付、钱包、桥接器、基础设施、游戏、社交、分析、合规性、安全性、托管等\n- **状态** — 已上线、正在建设、已公布\n- **角色** — 超级验证者、验证者、构建者、特色应用程序、基金会成员等\n- **排序** — 按分数、最新、最多投票、字母顺序\n\n您还可以使用搜索栏按名称查找特定项目。"
+    },
+    "body:71056b77b6de": {
+      "_src": "If you find a project interesting, upvote it to help others discover it.\n\n- Upvoting requires **Level 4** on CCTools\n- There is a daily limit on upvotes to keep engagement organic\n- Each upvote earns you XP\n\nUpvotes contribute to the project's visibility and ranking in the directory.",
+      "text": "如果您发现某个项目有趣，请对其进行投票以帮助其他人发现它。\n\n- 投票需要 CCTools 上的 **4 级**\n- 每日点赞数有限制，以保持有机参与\n- 每次点赞均可为您赢得 XP\n\n点赞有助于提高项目在目录中的可见度和排名。"
+    },
+    "body:4e76e315e4d9": {
+      "_src": "The Compare tool lets you put projects side by side to evaluate them:\n\n1. Go to **Ecosystem > Compare** or click **Compare** in the sidebar\n2. Select 2 projects (free) or up to 4 projects (Pro)\n3. View a detailed comparison including category, role, status, social metrics, token data, and community scores\n\nThis is especially useful when researching which projects to engage with or invest in.",
+      "text": "比较工具可让您将项目并排放置以对其进行评估：\n\n1. 进入 **生态系统 > 比较** 或点击侧边栏的 **比较**\n2. 选择 2 个项目（免费）或最多 4 个项目（专业版）\n3. 查看详细比较，包括类别、角色、状态、社交指标、代币数据和社区分数\n\n这在研究要参与或投资哪些项目时特别有用。"
+    },
+    "body:ed990a701693": {
+      "_src": "You can also compare validators using the same tool:\n\n1. Switch to the **Validators** tab in Compare\n2. Select validators to compare\n3. View performance metrics, uptime, rewards, and other data side by side\n\nThis helps you make informed decisions about validator delegation.",
+      "text": "您还可以使用相同的工具比较验证器：\n\n1.切换到Compare中的**Validators**选项卡\n2. 选择要比较的验证器\n3. 并排查看性能指标、正常运行时间、奖励和其他数据\n\n这可以帮助您就验证者委托做出明智的决策。"
+    },
+    "body:1b888eece32d": {
+      "_src": "Sponsored listings give projects premium visibility in the ecosystem directory. Sponsored projects appear at the top of their category with a **Sponsored** badge.\n\nThis is a great way for new or launching projects to get visibility in front of active Canton Network users.",
+      "text": "赞助列表使项目在生态系统目录中具有较高的可见性。赞助项目出现在其类别的顶部，并带有**赞助**徽章。\n\n对于新项目或正在启动的项目来说，这是在活跃的 Canton Network 用户面前获得可见性的好方法。"
+    },
+    "body:95554ad0b1a6": {
+      "_src": "If you're a project team looking for a sponsored listing, fill out the form at **cctools.network/contact** with:\n\n- Project name and description\n- Category\n- Desired campaign duration\n- Links (website, Twitter, docs)\n\nWe'll review your application and get back to you within 48 hours.",
+      "text": "如果您是正在寻找赞助列表的项目团队，请在 **cctools.network/contact** 填写表格，其中包含：\n\n- 项目名称和描述\n- 类别\n- 期望的活动持续时间\n- 链接（网站、Twitter、文档）\n\n我们将审核您的申请并在 48 小时内回复您。"
+    },
+    "body:bdf276b9dd00": {
+      "_src": "The **Earn** page lists earning opportunities from across the Canton ecosystem. These can include:\n\n- **App Rewards** — Rewards from using Canton applications\n- **Validator Rewards** — Staking and delegation rewards\n- **Staking** — Token staking opportunities\n- **Exchange Campaigns** — Promotions from exchanges listing Canton tokens\n- **Grants** — Funding opportunities for builders\n- **Community** — Community-driven reward programs\n- **Learn & Earn** — Educational quests with rewards\n\nEach opportunity shows the provider, difficulty level (easy/medium/hard), estimated value, and status.",
+      "text": "**赚取**页面列出了整个 Canton 生态系统的赚取机会。这些可以包括：\n\n- **应用程序奖励** — 使用 Canton 应用程序的奖励\n- **验证者奖励** — 质押和委托奖励\n- **质押** — 代币质押机会\n- **交易所活动** — 列出 Canton 代币的交易所的促销活动\n- **赠款** — 为建筑商提供资助机会\n- **社区** — 社区驱动的奖励计划\n- **学习并赚取** — 有奖励的教育任务\n\n每个机会都会显示提供者、难度级别（简单/中等/困难）、估计价值和状态。"
+    },
+    "body:88e0dd87777d": {
+      "_src": "Use the tabs at the top to filter opportunities:\n\n- **All** — Everything available\n- **Active** — Currently available to participate\n- **Upcoming** — Coming soon\n- **Ending Soon** — Last chance to participate\n- **Permanent** — Always available\n\nVerified opportunities are marked with a badge. Sponsored opportunities appear at the top.",
+      "text": "使用顶部的选项卡来过滤机会：\n\n- **全部** — 一切可用\n- **活跃** — 目前可以参加\n- **即将推出** — 即将推出\n- **即将结束** — 最后参与机会\n- **永久** — 始终可用\n\n已验证的机会标有徽章。赞助机会出现在顶部。"
+    },
+    "body:6c31555e41b7": {
+      "_src": "Click the interest button on any opportunity to save it and show your engagement. Showing interest:\n\n- Requires **Level 4**\n- Helps the community see which opportunities are popular\n- Counts toward your referral tasks (3 interests needed)\n- Earns XP",
+      "text": "单击任何机会的兴趣按钮以保存它并显示您的参与度。表现出兴趣：\n\n- 需要 **4 级**\n- 帮助社区了解哪些机会受欢迎\n- 计入您的推荐任务（需要 3 个兴趣）\n- 赚取 XP"
+    },
+    "body:13ae06db1e1b": {
+      "_src": "XP (Experience Points) is the core engagement metric on CCTools. You earn XP by:\n\n- **Daily check-in** — Log in every day to earn streak XP with milestone bonuses\n- **Upvoting projects** — Earn XP for voting on ecosystem projects (daily limit applies)\n- **Viewing projects** — Earn XP for exploring the ecosystem\n- **Following @cantontools on X** — One-time XP reward\n- **Adding a wallet** — XP for connecting your portfolio\n- **Referring friends** — XP when your referral completes all tasks and reaches Level 4\n- **Completing campaigns** — XP varies by campaign\n\n**Pro users** receive an **XP multiplier** on all actions.",
+      "text": "XP（经验点）是 CCTools 的核心参与度指标。您可以通过以下方式赚取 XP：\n\n- **每日签到** — 每天登录即可通过里程碑奖金赚取连续 XP\n- **投票项目** — 通过对生态系统项目投票赚取 XP（每日限制）\n- **查看项目** — 通过探索生态系统赚取 XP\n- **在 X 上关注 @cantontools** — 一次性 XP 奖励\n- **添加钱包** — 用于连接您的投资组合的 XP\n- **推荐朋友** — 当您的推荐人完成所有任务并达到 4 级时即可获得 XP\n- **完成活动** — XP 因活动而异\n\n**专业用户** 在所有操作中都会获得 **XP 乘数**。"
+    },
+    "body:18f7335f23f2": {
+      "_src": "Some XP actions reset daily at midnight UTC:\n\n- **Daily check-in** — Earns base XP + streak bonus\n- **Upvotes** — Limited number of upvotes per day\n- **Project views** — View XP resets daily\n\n**Streak milestones** reward bonus XP and exclusive badges at key intervals (7, 14, 30, 60, 90, 100, 180, and 365 days). The longer your streak, the bigger the rewards.\n\nMissing a day resets your streak, so consistency is key!",
+      "text": "一些 XP 操作每天在 UTC 午夜重置：\n\n- **每日签到** — 赚取基本 XP + 连续奖励\n- **点赞** — 每天的点赞数量有限\n- **项目视图** — View XP 每天重置\n\n**连续里程碑** 在关键时间间隔（7、14、30、60、90、100、180 和 365 天）奖励奖励 XP 和专属徽章。您的连胜时间越长，奖励就越大。\n\n缺席一天会重置您的连续记录，因此一致性是关键！"
+    },
+    "body:86550d17e22a": {
+      "_src": "Your total XP determines your level (max Level 50). Each level has a title:\n\n- **Level 1-5** — Newcomer\n- **Level 6-10** — Explorer\n- **Level 11-15** — Analyst\n- **Level 16-20** — Strategist\n- **Level 21-25** — Operator\n- **Level 26-30** — Architect\n- **Level 31-35** — Validator\n- **Level 36-40** — Governor\n- **Level 41-45** — Syndicate\n- **Level 46-50** — Canton OG\n\n**Level 4** is the key milestone: it unlocks upvoting, referrals, and badge eligibility. XP required per level increases progressively.",
+      "text": "您的总 XP 决定了您的等​​级（最高等级 50）。每个级别都有一个标题：\n\n- **1-5级** — 新人\n- **6-10级** — 探险家\n- **11-15级** — 分析师\n- **16-20级** — 战略家\n- **21-25级** — 操作员\n- **26-30级** — 建筑师\n- **31-35级** — 验证者\n- **36-40级** — 总督\n- **41-45级** — 辛迪加\n- **46-50 级** — 坎顿 OG\n\n**4 级**是关键的里程碑：它解锁了投票、推荐和徽章资格。每个级别所需的经验值逐渐增加。"
+    },
+    "body:1fca7fffed0a": {
+      "_src": "Badges are collectible achievements that showcase your engagement. There are several categories:\n\n**Adopter Badges** (limited supply, all require Level 4 with organic XP):\n- **OG Adopter** — First 500 users (fully claimed)\n- **Early Adopter** — First 2,000 users\n- **Pioneer** — First 10,000 users\n- **Day One** — Accounts created before May 2026\n\n**Level-Up Badges** (earned automatically at milestones):\n- Level 5 — First Steps\n- Level 10 — Rising Star\n- Level 20 — Power User\n- Level 35 — Whale Status\n- Level 50 — Canton OG\n\n**Streak Badges** (earned for consecutive daily check-ins):\n- 7, 14, 30, 60, 90, 100, 180, and 365 day streaks\n\n**Activity Badges** (earned through platform engagement):\n- **X Follower** — Follow @cantontools on X\n- **Eco Explorer** — View multiple different projects\n- **Deep Diver** — Visit all major sections of the platform\n- **Comparator** — Use the compare feature multiple times\n- **Opp Hunter** — Show interest in multiple opportunities\n- **Opp Scout** — Suggest an opportunity\n- **Verified Scout** — Get multiple opportunity suggestions approved\n\n**Referral Badges** — Awarded at referral milestones as you invite more users.",
+      "text": "徽章是可收藏的成就，可以展示您的参与度。有以下几类：\n\n**采用者徽章**（供应有限，全部需要 4 级且具有有机 XP）：\n- **OG 采用者** — 前 500 位用户（已全部认领）\n- **早期采用者** — 前 2,000 名用户\n- **先锋** — 前 10,000 位用户\n- **第一天** — 2026 年 5 月之前创建的帐户\n\n**升级徽章**（在里程碑时自动获得）：\n- 5 级 - 第一步\n- 10 级 — 新星\n- 20 级 — 高级用户\n- 35 级 — 鲸鱼状态\n- 50 级 — 坎顿 OG\n\n**连续徽章**（连续每日签到即可获得）：\n- 7、14、30、60、90、100、180 和 365 天连续\n\n**活动徽章**（通过平台参与获得）：\n- **X 关注者** — 在 X 上关注 @cantontools\n- **Eco Explorer** — 查看多个不同的项目\n- **Deep Diver** — 访问平台的所有主要部分\n- **比较器** — 多次使用比较功能\n- **Opp Hunter** — 对多种机会表现出兴趣\n- **Opp Scout** — 提出机会\n- **经过验证的侦察员** — 获得多个机会建议的批准\n\n**推荐徽章** — 当您邀请更多用户时，在推荐里程碑时授予。"
+    },
+    "body:54d8eacd8bca": {
+      "_src": "You can showcase your favorite badges on your profile:\n\n- **Free users**: Up to 3 badges on display\n- **Pro users**: Up to 6 badges on display\n\nBadges are displayed with their rarity color on your profile and leaderboard entry.",
+      "text": "您可以在个人资料上展示您最喜欢的徽章：\n\n- **免费用户**：最多显示 3 个徽章\n- **专业用户**：最多显示 6 个徽章\n\n徽章以其稀有颜色显示在您的个人资料和排行榜条目上。"
+    },
+    "body:83cd43f39776": {
+      "_src": "Share your unique referral code (format: `CC-XXXXXX`) with friends. When they sign up using your code, the referral enters **pending** status.\n\nThe referred user must then complete **all 5 required tasks** to confirm the referral:\n\n1. **Follow @cantontools** on X\n2. **Maintain a 2-day daily streak**\n3. **Add a wallet** to their portfolio\n4. **Upvote 3 ecosystem projects**\n5. **Show interest in 3 Earn opportunities**\n\nEach task awards XP. Once all tasks are complete and the referred user reaches **Level 4**, the referral is confirmed.",
+      "text": "与朋友分享您的独特推荐代码（格式：“CC-XXXXXX”）。当他们使用您的代码注册时，推荐进入**待处理**状态。\n\n然后，被推荐的用户必须完成**所有 5 项必需的任务**才能确认推荐：\n\n1. **在 X 上关注 @cantontools**\n2. **保持2天的每日连续性**\n3. **将钱包**添加到他们的投资组合中\n4. **投票3个生态系统项目**\n5. **对 3 个赚钱机会表现出兴趣**\n\n每个任务都会奖励 XP。一旦所有任务完成并且被推荐的用户达到 **4 级**，则推荐被确认。"
+    },
+    "body:513bd740b425": {
+      "_src": "- **Referred user** receives bonus XP immediately when signing up with a code\n- **Referrer** receives XP when the referral is fully confirmed (all tasks done + Level 4)\n\nReferral badges are awarded as you reach referral milestones.",
+      "text": "- **推荐用户**在使用代码注册时立即获得 XP 奖励\n- **推荐人** 在完全确认推荐后收到 XP（完成所有任务 + 4 级）\n\n当您达到推荐里程碑时，就会授予推荐徽章。"
+    },
+    "body:e20c3cbf0577": {
+      "_src": "- You must be **Level 4** or higher to have an active referral code\n- The referred user must complete **all 5 tasks** (not just one)\n- No self-referrals or fake accounts\n- Referral codes cannot be reused by another user\n\nWe have anti-abuse systems in place to ensure fair referrals.",
+      "text": "- 您必须达到 **4 级** 或更高级别才能拥有有效的推荐代码\n- 被推荐的用户必须完成**所有 5 项任务**（不仅仅是一项）\n- 没有自我推荐或虚假账户\n- 推荐代码不能被其他用户重复使用\n\n我们设有反滥用系统，以确保公平推荐。"
+    },
+    "body:7c4efe0afbef": {
+      "_src": "The leaderboard ranks users by total XP earned. Your position is updated in real-time.\n\nThe leaderboard displays:\n\n- Your current rank\n- Display name and avatar\n- Level and level title\n- Total XP\n- Current streak\n- Top 5 rarest badges\n- Confirmed referral count\n\nThere are multiple leaderboard views:\n\n- **Standard** — All-time total XP\n- **Weekly** — XP earned in the last 7 days\n- **Bracket** — XP earned in the last 30 days",
+      "text": "排行榜根据获得的 XP 总数对用户进行排名。您的位置会实时更新。\n\n排行榜显示：\n\n- 您当前的等级\n- 显示姓名和头像\n- 级别和级别标题\n- 总经验值\n- 当前连胜\n- 前 5 名最稀有徽章\n- 确认的推荐计数\n\n有多种排行榜视图：\n\n- **标准** — 历史总 XP\n- **每周** — 过去 7 天内获得的 XP\n- **括号** — 过去 30 天内获得的 XP"
+    },
+    "body:1cea347c2863": {
+      "_src": "In the future, CCTools will introduce seasonal leaderboards that reset periodically. This gives everyone a fresh start and rewards consistent engagement over time.\n\nSeason rewards may include exclusive badges, early access features, and more.",
+      "text": "未来，CCTools 将推出定期重置的季节性排行榜。这为每个人提供了一个新的开始，并随着时间的推移奖励持续的参与。\n\n赛季奖励可能包括专属徽章、抢先体验功能等等。"
+    },
+    "body:8da105b617d1": {
+      "_src": "Go to **Settings** from the sidebar. Here you can:\n\n- Change your display name\n- Upload an avatar\n- View your account email\n- See your account creation date and stats",
+      "text": "从侧边栏转到**设置**。在这里您可以：\n\n- 更改您的显示名称\n- 上传头像\n- 查看您的帐户电子邮件\n- 查看您的帐户创建日期和统计信息"
+    },
+    "body:e6aad00401e6": {
+      "_src": "You can connect social accounts to your CCTools profile:\n\n- **Twitter/X** — Required for the X Follower badge and campaign tasks like follow/retweet\n- **Discord** — Used for campaign integrations\n- **Google** — Alternative login method\n\nManage your connected accounts in **Settings > Profile**. You must always have at least one login method active (you can't disconnect your only identity).",
+      "text": "您可以将社交帐户连接到您的 CCTools 个人资料：\n\n- **Twitter/X** — X 关注者徽章和关注/转发等活动任务所需\n- **Discord** — 用于活动集成\n- **Google** — 替代登录方法\n\n在 **设置 > 个人资料** 中管理您连接的帐户。您必须始终启用至少一种登录方法（您无法断开您唯一的身份）。"
+    },
+    "body:1f27d501d459": {
+      "_src": "Every CCTools user has a public profile at **cctools.network/u/your-username**. Your public profile shows:\n\n- Display name and avatar\n- Level and level title\n- Badge showcase (3 free, 6 Pro)\n- Current streak\n\nYou can share your profile link on social media to showcase your Canton ecosystem engagement.",
+      "text": "每个 CCTools 用户在 **cctools.network/u/your-username** 都有一个公共个人资料。您的公开个人资料显示：\n\n- 显示姓名和头像\n- 级别和级别标题\n- 徽章展示（3 个免费，6 个专业版）\n- 当前连胜\n\n您可以在社交媒体上分享您的个人资料链接，以展示您对 Canton 生态系统的参与度。"
+    },
+    "body:28a943ebd460": {
+      "_src": "Use a strong, unique password for your CCTools account. We recommend:\n\n- At least 12 characters\n- Mix of uppercase, lowercase, numbers, and symbols\n- Don't reuse passwords from other sites\n- Use a password manager (1Password, Bitwarden, etc.)",
+      "text": "为您的 CCTools 帐户使用强大且唯一的密码。我们推荐：\n\n- 至少 12 个字符\n- 大写、小写、数字和符号的混合\n- 不要重复使用其他网站的密码\n- 使用密码管理器（1Password、Bitwarden 等）"
+    },
+    "body:bb2683ebe0c8": {
+      "_src": "CCTools supports 2FA for extra account security:\n\n- **Email 2FA** — Receive a verification code via email on login\n- **TOTP** — Use an authenticator app (Google Authenticator, Authy, etc.)\n\nWe strongly recommend enabling 2FA in **Settings > Security**.",
+      "text": "CCTools 支持 2FA 以提高帐户安全性：\n\n- **电子邮件 2FA** — 登录时通过电子邮件接收验证码\n- **TOTP** — 使用身份验证器应用程序（Google Authenticator、Authy 等）\n\n我们强烈建议在 **设置 > 安全** 中启用 2FA。"
+    },
+    "body:3181ef42eeca": {
+      "_src": "- Never share your account credentials with anyone\n- CCTools will never ask for your password via email or DM\n- Be wary of phishing sites — always check the URL is **cctools.network**\n- Report suspicious activity via the contact form at **cctools.network/contact**",
+      "text": "- 切勿与任何人分享您的帐户凭据\n- CCTools 永远不会通过电子邮件或 DM 询问您的密码\n- 警惕网络钓鱼网站 — 始终检查 URL 是否为 **cctools.network**\n- 通过 **cctools.network/contact** 的联系表报告可疑活动"
+    },
+    "body:0df5a9e6893b": {
+      "_src": "CCTools Pro is a premium subscription that unlocks advanced features:\n\n- **10 wallets** (vs 3 on free plan)\n- **30-day balance history** (vs 7-day on free)\n- **Tax report export** — CSV format compatible with Koinly\n- **Validator performance dashboard**\n- **Network historical charts**\n- **Compare up to 4 projects** (vs 2 on free)\n- **6 badge showcase slots** (vs 3 on free)\n- **1.25x XP multiplier** on all actions\n- **Priority support**\n\nVisit the **Pro** page on CCTools to see current pricing. Subscriptions can be cancelled anytime.",
+      "text": "CCTools Pro 是一项高级订阅，可解锁高级功能：\n\n- **10 个钱包**（免费计划中有 3 个）\n- **30 天余额历史记录**（免费版则为 7 天）\n- **税务报告导出** — 与 Koinly 兼容的 CSV 格式\n- **验证器性能仪表板**\n- **网络历史图表**\n- **最多比较 4 个项目**（免费比较 2 个项目）\n- **6 个徽章展示槽位**（免费时有 3 个）\n- 所有操作的 **1.25x XP 乘数**\n- **优先支持**\n\n访问 CCTools 上的 **Pro** 页面以查看当前定价。订阅可以随时取消。"
+    },
+    "body:837e3f036090": {
+      "_src": "Go to **Settings > Subscription** and click **Upgrade to Pro**. Payment is processed securely via Stripe.\n\nYou can cancel anytime from the same page. Your Pro features remain active until the end of your billing period.",
+      "text": "转至 **设置 > 订阅**，然后单击 **升级到专业版**。付款通过 Stripe 安全处理。\n\n您可以随时从同一页面取消。您的 Pro 功能将保持有效，直到您的计费周期结束。"
+    },
+    "body:17da90ce4ed5": {
+      "_src": "Canton Network is a privacy-enabled interoperable blockchain network designed for institutional use. Unlike traditional blockchains, Canton uses **DAML smart contracts** and supports atomic transactions across multiple applications.\n\nKey differentiators:\n\n- **Privacy by design** — Transaction data is only visible to participants\n- **Interoperability** — Applications can transact atomically across the network\n- **Institutional grade** — Built by and for major financial institutions\n- **DAML** — Uses the DAML smart contract language (by Digital Asset)",
+      "text": "Canton Network 是一个支持隐私、可互操作的区块链网络，专为机构使用而设计。与传统区块链不同，Canton 使用**DAML 智能合约**并支持跨多个应用程序的原子交易。\n\n主要区别：\n\n- **隐私设计** — 交易数据仅对参与者可见\n- **互操作性** — 应用程序可以通过网络自动进行交易\n- **机构级** — 由主要金融机构构建并为主要金融机构服务\n- **DAML** — 使用 DAML 智能合约语言（由 Digital Asset 提供）"
+    },
+    "body:965e4e8aea7d": {
+      "_src": "Canton Network was created by **Digital Asset** and is governed by a consortium of major financial institutions acting as Super Validators. The network is designed to bring institutional finance on-chain while maintaining the privacy and compliance requirements that regulated entities need.",
+      "text": "Canton Network 由 **Digital Asset** 创建，并由作为超级验证者的主要金融机构组成的财团进行管理。该网络旨在将机构融资引入链上，同时保持受监管实体所需的隐私和合规要求。"
+    },
+    "body:022162671428": {
+      "_src": "The **CC token** is the native currency of Canton Network.\n\n- **Max supply**: 1 billion CC tokens\n- **Mechanism**: Burn/mint model — tokens are burned for transaction fees and minted as validator rewards\n- **Halving**: Minting rewards are reduced periodically following a halving schedule\n\nThe deflationary mechanism means that as network usage increases, more CC is burned while minting rewards decrease over time.",
+      "text": "**CC 代币**是 Canton Network 的原生货币。\n\n- **最大供应量**：10 亿个 CC 代币\n- **机制**：销毁/铸造模型——销毁代币以获取交易费用并铸造作为验证者奖励\n- **减半**：铸币奖励按照减半时间表定期减少\n\n通货紧缩机制意味着，随着网络使用量的增加，更多的 CC 会被烧毁，而铸造奖励会随着时间的推移而减少。"
+    },
+    "body:9506fa842b69": {
+      "_src": "CCTools provides real-time CC token data on the **$CC Token** page:\n\n- Current price and 24h change\n- Market cap and circulating supply\n- Historical price charts\n- Burn and mint rates\n- Halving countdown",
+      "text": "CCTools 在 **$CC Token** 页面上提供实时 CC 令牌数据：\n\n- 当前价格和24小时变化\n- 市值和流通供应量\n- 历史价格图表\n- 销毁率和铸币率\n- 减半倒计时"
+    },
+    "body:a6594e3a0538": {
+      "_src": "CCTools provides three rewards calculators to help you estimate potential earnings:\n\n- **App Builder Calculator** — Estimate rewards for building applications on Canton Network based on app coupon issuance rates\n- **Validator Calculator** — Calculate potential validator rewards based on delegation amount and validator coupon rates\n- **CC Holder Calculator** — Estimate holding rewards based on your CC token balance\n\nAccess the calculator from the sidebar under **Calculator** or from the **Rewards** page.",
+      "text": "CCTools 提供了三种奖励计算器来帮助您估算潜在收入：\n\n- **应用程序构建器** — 根据应用程序优惠券发放率估算在 Canton Network 上构建应用程序的奖励\n- **验证者计算器** — 根据委托金额和验证者优惠券利率计算潜在的验证者奖励\n- **CC 持有者计算器** — 根据您的 CC 代币余额估算持有奖励\n\n从 **计算器** 下的侧边栏或从 **奖励** 页面访问计算器。"
+    },
+    "body:2415da191e43": {
+      "_src": "The calculators use real-time network data including:\n\n- Current issuance rates per round (Super Validator, Validator, App coupons)\n- Number of halvings completed\n- Current CC price\n\nResults are estimates based on current network conditions and may vary as the network parameters change over time.",
+      "text": "计算器使用实时网络数据，包括：\n\n- 当前每轮发行率（超级验证者、验证者、应用优惠券）\n- 完成减半的数量\n- 当前CC价格\n\n结果是基于当前网络状况的估计，并且可能会随着网络参数随时间的变化而变化。"
+    },
+    "body:605cfc991db4": {
+      "_src": "The **Validators** page lists all active validators on the Canton Network. For each validator you can see:\n\n- Validator name and identity\n- Role (Super Validator or regular Validator)\n- Performance metrics and rewards data\n\n**Pro users** get access to additional validator data and export options.",
+      "text": "**验证者**页面列出了 Canton 网络上所有活跃的验证者。对于每个验证器，您可以看到：\n\n- 验证者姓名和身份\n- 角色（超级验证者或普通验证者）\n- 绩效指标和奖励数据\n\n**专业用户**可以访问其他验证器数据和导出选项。"
+    },
+    "body:23f004ad0ee7": {
+      "_src": "Super Validators are major financial institutions that validate transactions and have additional governance rights:\n\n- Voting on protocol changes and network parameters\n- Proposing network upgrades\n- Setting fee structures\n\nExamples include major banks and financial institutions that participate in the Canton Network consortium.",
+      "text": "超级验证者是验证交易并拥有额外治理权利的主要金融机构：\n\n- 对协议更改和网络参数进行投票\n- 建议网络升级\n- 设定费用结构\n\n例如参与 Canton Network 联盟的主要银行和金融机构。"
+    },
+    "body:8b60235d328b": {
+      "_src": "CCTools tracks all governance activity on the **Governance** page:\n\n- Active and past proposals\n- Voting status and results\n- Super Validator participation\n- Approval rate and execution status\n- Network parameter changes\n\nThis gives the community full transparency into how the network is governed.",
+      "text": "CCTools 跟踪 **治理** 页面上的所有治理活动：\n\n- 当前和过去的提案\n- 投票状态和结果\n- 超级验证者参与\n- 批准率和执行情况\n- 网络参数更改\n\n这使社区能够完全透明地了解网络的治理方式。"
+    },
+    "body:85e36fbe49d7": {
+      "_src": "Campaigns are sponsored quests created in partnership with Canton ecosystem projects. Each campaign has a set of tasks to complete, and finishing all tasks earns you XP, badges, and sometimes exclusive rewards (redemption codes, links, etc.).\n\nCampaigns appear on the **Earn** page and are marked with the partner project's branding.",
+      "text": "活动是与 Canton 生态系统项目合作创建的赞助任务。每个活动都有一组任务需要完成，完成所有任务即可为您赢得 XP、徽章，有时还可以获得独家奖励（兑换代码、链接等）。\n\n活动显示在**赚取**页面上，并标有合作伙伴项目的品牌。"
+    },
+    "body:995d6dbd9a09": {
+      "_src": "To participate in a campaign:\n\n1. Go to the **Earn** page and find an active campaign\n2. Click **Join** to enter the campaign\n3. Complete each task in the campaign (they can be done in any order)\n4. Once all tasks are done, your reward is automatically claimed\n\nSome campaigns have a **participant limit**, so join early to secure your spot.",
+      "text": "参加活动：\n\n1. 转到 **赚取** 页面并找到正在进行的活动\n2. 点击**加入**即可参与活动\n3.完成活动中的每项任务（可以按任意顺序完成）\n4.完成所有任务后，您的奖励将自动领取\n\n有些活动有**参与者限制**，因此请尽早加入以确保您的席位。"
+    },
+    "body:4ee7fa3eb1cd": {
+      "_src": "Campaigns can include different types of tasks:\n\n- **Follow on X** — Follow the partner project's Twitter/X account (requires X connection)\n- **Retweet** — Retweet a specific post\n- **Upvote project** — Upvote the partner project in the Ecosystem directory\n- **Show interest in Earn** — Show interest in the partner's Earn opportunity\n- **Visit URL** — Visit a specific page or website\n- **Text submission** — Submit text (e.g., your Discord ID, email, etc.)\n- **Custom tasks** — Other tasks defined by the partner\n\nEach completed task earns XP. Completing **all tasks** in a campaign may also award a special badge.",
+      "text": "活动可以包括不同类型的任务：\n\n- **关注 X** — 关注合作伙伴项目的 Twitter/X 帐户（需要 X 连接）\n- **转发** — 转发特定帖子\n- **赞成项目** — 赞成生态系统目录中的合作伙伴项目\n- **对赚取表现出兴趣** — 对合作伙伴的赚取机会表现出兴趣\n- **访问 URL** — 访问特定页面或网站\n- **文本提交** — 提交文本（例如，您的 Discord ID、电子邮件等）\n- **自定义任务** — 合作伙伴定义的其他任务\n\n每个完成的任务都会获得 XP。完成活动中的**所有任务**也可能会奖励特殊徽章。"
+    },
+    "body:f45e34dcbe67": {
+      "_src": "CCTools offers several ways for projects to gain visibility:\n\n- **Banner** — Prominent placement at the top of the platform, visible across all pages\n- **Sponsored Ecosystem Listing** — Your project appears highlighted in the Ecosystem directory with a \"Sponsored\" badge\n- **Sponsored Earn Listing** — Your opportunity appears highlighted in the Earn section\n- **Campaign with Tasks** — A fully custom campaign with tasks, badges, and rewards for users\n\nAll sponsored content is clearly labeled so users know what is organic and what is promoted.",
+      "text": "CCTools 为项目提供了多种获得可见性的方法：\n\n- **横幅** — 位于平台顶部的显着位置，在所有页面上都可见\n- **赞助生态系统列表** — 您的项目在生态系统目录中突出显示，并带有“赞助”徽章\n- **赞助赚取列表** - 您的机会在“赚取”部分中突出显示\n- **带有任务的活动** — 完全自定义的活动，为用户提供任务、徽章和奖励\n\n所有赞助内容都有明确的标签，以便用户知道什么是有机的以及什么是促销的。"
+    },
+    "body:2d54abb5ee8c": {
+      "_src": "If you're a project team looking for visibility in the Canton ecosystem, visit **cctools.network/contact** and select \"Sponsored Listing\" or \"Partnership\" as the subject.\n\nInclude:\n\n- Your project name and description\n- Which type of sponsorship interests you\n- Desired duration\n- Links (website, Twitter, docs)\n\nWe'll get back to you to discuss details and pricing.",
+      "text": "如果您是寻求在 Canton 生态系统中获得知名度的项目团队，请访问 **cctools.network/contact** 并选择“赞助商信息”或“合作伙伴关系”作为主题。\n\n包括：\n\n- 您的项目名称和描述\n- 您对哪种类型的赞助感兴趣\n- 期望的持续时间\n- 链接（网站、Twitter、文档）\n\n我们将回复您讨论详细信息和定价。"
+    },
+    "body:a22c2a1e1a1c": {
+      "_src": "The **Network Stats** page shows real-time and historical data about the Canton Network:\n\n- **CC Price** — Current price, 24h change, market cap, and volume\n- **Validators** — Total number of Super Validators and regular validators\n- **Burn/Mint Ratio** — Whether the network is currently deflationary (more burns than mints)\n- **Daily Transactions** — Transaction volume on the network\n- **Governance** — Total proposals, approval rate, executed vs rejected\n- **Issuance Rates** — Per Super Validator, Validator, and App coupon rates\n- **TradingView Chart** — Live KRAKEN:CCUSD price chart with full TradingView integration",
+      "text": "**网络统计**页面显示有关 Canton Network 的实时和历史数据：\n\n- **CC 价格** — 当前价格、24 小时变化、市值和交易量\n- **验证者** — 超级验证者和常规验证者的总数\n- **燃烧/铸币比率** — 网络当前是否处于通货紧缩状态（燃烧数量多于铸币数量）\n- **每日交易** — 网络上的交易量\n- **治理** — 提案总数、批准率、执行与拒绝\n- **发行率** — 每个超级验证者、验证者和应用优惠券利率\n- **TradingView 图表** — 实时 KRAKEN:CCUSD 价格图表，具有完整的 TradingView 集成"
+    },
+    "body:22540fd2417e": {
+      "_src": "CCTools tracks hourly burn and mint data for the CC token:\n\n- **Burns** — CC tokens burned as transaction fees\n- **Mints** — CC tokens minted as validator rewards\n- **Ratio** — When the ratio is above 1.0, more CC is being burned than minted (deflationary)\n\nThis data is shown in a dual bar chart covering the last 24-72 hours, helping you understand the token's supply dynamics in real-time.",
+      "text": "CCTools 跟踪 CC 代币每小时的销毁和铸造数据：\n\n- **燃烧** — CC 代币作为交易费用被燃烧\n- **Mints** — CC 代币作为验证者奖励而铸造\n- **比率** — 当比率高于 1.0 时，燃烧的 CC 多于铸造的 CC（通货紧缩）\n\n该数据以双条形图显示，涵盖过去 24-72 小时，帮助您实时了解代币的供应动态。"
+    },
+    "body:8f35925db464": {
+      "_src": "We aggregate CC token price data from trusted market data providers to show price, market cap, 24h volume, and circulating supply.\n\nPrice data is updated frequently to ensure accuracy.",
+      "text": "我们汇总来自可信市场数据提供商的 CC 代币价格数据，以显示价格、市值、24 小时交易量和流通供应量。\n\n价格数据经常更新以确保准确性。"
+    },
+    "body:e74d9a0aee3d": {
+      "_src": "On-chain network data is sourced directly from the Canton Network:\n\n- Validator and Super Validator counts\n- Daily transaction volume\n- Burn and mint amounts per round\n- Featured app count\n- Total network parties\n\nNetwork stats are synced regularly to ensure accuracy.",
+      "text": "链上网络数据直接来源于Canton Network：\n\n- 验证者和超级验证者计数\n- 每日交易量\n- 每轮燃烧和铸币数量\n- 精选应用程序数量\n- 网络各方总数\n\n网络统计数据定期同步以确保准确性。"
+    },
+    "body:aa0c92da1d55": {
+      "_src": "Wallet balances and rewards are fetched directly from the Canton Network. When you add a wallet, CCTools queries your holdings to display:\n\n- Token balances\n- Rewards history\n- Transfer records",
+      "text": "钱包余额和奖励直接从 Canton Network 获取。当您添加钱包时，CCTools 会查询您的持仓并显示：\n\n- 代币余额\n- 奖励历史\n- 转账记录"
+    },
+    "body:e6619019a60c": {
+      "_src": "1. **Be respectful** — No harassment, hate speech, or personal attacks\n2. **No spam** — Don't post repetitive messages, advertisements, or scam links\n3. **No impersonation** — Don't pretend to be CCTools team or other users\n4. **English only** — Main channels are English only (local channels may vary)\n5. **No price speculation** — Avoid pure price discussion and \"wen pump\" posts\n6. **No exploit sharing** — Don't share or discuss XP exploits or manipulation tactics",
+      "text": "1. **尊重** — 禁止骚扰、仇恨言论或人身攻击\n2. **禁止垃圾邮件** — 不要发布重复的消息、广告或诈骗链接\n3. **禁止冒充** — 请勿冒充 CCTools 团队或其他用户\n4. **仅英语** — 主要频道仅提供英语（当地频道可能有所不同）\n5. **禁止价格投机** — 避免纯粹的价格讨论和“温泵”帖子\n6. **禁止共享漏洞** — 请勿共享或讨论 XP 漏洞或操纵策略"
+    },
+    "body:4b0ff044b474": {
+      "_src": "Rule violations are handled progressively:\n\n1. **Warning** — First offense gets a verbal warning\n2. **Mute** — Repeated offenses result in temporary mute (1-24h)\n3. **Ban** — Severe or continued violations result in a permanent ban\n\nModerators have discretion to skip steps for severe violations (e.g., scam links = immediate ban).",
+      "text": "违规行为将逐步处理：\n\n1. **警告** — 初犯将受到口头警告\n2. **静音** — 多次违规会导致暂时静音（1-24小时）\n3. **禁令** — 严重或持续违规将导致永久禁令\n\n版主有权酌情跳过严重违规的步骤（例如，诈骗链接 = 立即禁止）。"
+    },
+    "body:89de00ca1a03": {
+      "_src": "Found an interesting earn opportunity in the Canton ecosystem? You can suggest it directly on CCTools:\n\n1. Go to **Earn** and click **Submit Opportunity**\n2. Fill in the details: title, URL, type, description, provider, estimated value\n3. Submit for review\n\nEach suggestion earns you XP, and approved suggestions earn you the **Opp Scout** badge. Get multiple suggestions approved for the **Verified Scout** badge.\n\nThere is a daily limit on suggestions to maintain quality.",
+      "text": "在 Canton 生态系统中发现了有趣的赚钱机会？您可以直接在 CCTools 上建议：\n\n1. 前往**赚取**并点击**提交机会**\n2. 填写详细信息：标题、URL、类型、描述、提供商、估计值\n3.提交审核\n\n每条建议都将为您赢得 XP，获得批准的建议将为您赢得 **Opp Scout** 徽章。获得多项针对 **Verified Scout** 徽章的建议。\n\n为了保证质量，每天的建议是有限制的。"
+    },
+    "body:2ffe3c11251f": {
+      "_src": "Know a project building on Canton that's not in our directory? Submit it:\n\n1. Go to **Ecosystem** and click **Submit Project**\n2. Fill in the multi-step form (project info, team, features, FAQ)\n3. Submit for review\n\nApproved submissions help grow the ecosystem directory for everyone.",
+      "text": "您知道在广州建设的项目不在我们的目录中吗？提交：\n\n1. 进入**生态系统**，点击**提交项目**\n2. 填写多步骤表格（项目信息、团队、功能、常见问题解答）\n3.提交审核\n\n批准的提交有助于为每个人发展生态系统目录。"
+    },
+    "body:16b51dea86f4": {
+      "_src": "If you notice outdated or incorrect information on a project listing, you can suggest edits:\n\n1. Go to the project's page in the Ecosystem\n2. Click **Suggest Edit**\n3. Update the fields that need correction\n4. Submit for review\n\nThis helps keep the directory accurate and up to date.",
+      "text": "如果您发现项目列表中的信息过时或不正确，您可以提出修改建议：\n\n1. 进入生态系统中的项目页面\n2. 单击**建议编辑**\n3.更新需要修正的字段\n4.提交审核\n\n这有助于保持目录准确且最新。"
+    },
+    "body:1a1246d6a72a": {
+      "_src": "**Is CCTools free?**\nYes! CCTools is free to use. We offer a Pro tier for advanced features, but all core features are free.\n\n**Is CCTools official?**\nCCTools is a community-built tool. We are not officially affiliated with Digital Asset or Canton Network, but we are applying for a Canton Protocol Development Fund grant.\n\n**How do I report a bug?**\nUse the contact form at **cctools.network/contact** with a description of the bug, screenshots if possible, and your browser/device info.",
+      "text": "**CCTools 是免费的吗？**\n是的！ CCTools 可免费使用。我们提供高级功能的专业版，但所有核心功能都是免费的。\n\n**CCTools 是官方的吗？**\nCCTools 是一个社区构建的工具。我们并未正式隶属于 Digital Asset 或 Canton Network，但我们正在申请 Canton 协议发展基金拨款。\n\n**如何报告错误？**\n使用 **cctools.network/contact** 上的联系表单，其中包含错误描述、屏幕截图（如果可能）以及您的浏览器/设备信息。"
+    },
+    "body:7f1c6eec9346": {
+      "_src": "**Why did my XP drop?**\nSome XP is tied to daily actions that reset. Also, if you un-upvote a project, the XP from that action is reversed.\n\n**How do I get Level 4?**\nKeep logging in daily to build your streak, upvote projects, follow @cantontools on X, and add a wallet. Level 4 typically takes a few days of active use.\n\n**Can I reset my account?**\nUse the contact form at **cctools.network/contact** if you need an account reset. Note that this will erase all XP and badges.",
+      "text": "**为什么我的 XP 下降了？**\n一些 XP 与重置的日常操作相关。此外，如果您取消对某个项目的投票，该操作所获得的 XP 也会被撤销。\n\n**如何获得 4 级？**\n每天坚持登录以建立您的连胜、为项目投票、在 X 上关注 @cantontools 并添加钱包。 4 级通常需要几天的积极使用。\n\n**我可以重置我的帐户吗？**\n如果您需要重置帐户，请使用 **cctools.network/contact** 上的联系表。请注意，这将清除所有 XP 和徽章。"
+    },
+    "body:22f401e36484": {
+      "_src": "**Is my wallet safe?**\nCCTools only requires your public wallet address for read-only tracking. We never ask for private keys or seed phrases. Your wallet is never at risk.\n\n**Why are my balances wrong?**\nToken prices are updated in near real-time but may have slight delays. If balances seem significantly wrong, try refreshing or removing and re-adding your wallet.\n\n**Can I track wallets on other chains?**\nCurrently, CCTools only supports Canton Network wallets. Multi-chain support may come in the future.",
+      "text": "**我的钱包安全吗？**\nCCTools 仅需要您的公共钱包地址进行只读跟踪。我们从不要求私钥或助记词。您的钱包永远不会面临风险。\n\n**为什么我的余额错误？**\n代币价格近乎实时更新，但可能会有轻微延迟。如果余额明显错误，请尝试刷新或删除并重新添加您的钱包。\n\n**我可以追踪其他链上的钱包吗？**\n目前，CCTools仅支持Canton Network钱包。未来可能会出现多链支持。"
+    },
+    "body:7196e24cace8": {
+      "_src": "**\"Invalid credentials\" error**\n- Double-check your email and password\n- Try the \"Forgot Password\" link to reset\n- Make sure you're using the correct login method (Email, Google, Twitter/X, or Discord)\n\n**\"Email not verified\" error**\n- Check your inbox (and spam folder) for the verification email\n- Click the verification link in the email\n- If you didn't receive it, click \"Resend verification email\" on the login page\n\n**2FA issues**\n- If you enabled 2FA and lost access to your authenticator app, reach out via the contact form\n- Email 2FA codes may land in spam\n\n**Page loads but nothing happens**\n- Clear your browser cache and cookies\n- Try a different browser\n- Disable browser extensions that might interfere",
+      "text": "**“凭据无效”错误**\n- 仔细检查您的电子邮件和密码\n- 尝试“忘记密码”链接进行重置\n- 确保您使用正确的登录方法（电子邮件、Google、Twitter/X 或 Discord）\n\n**“电子邮件未验证”错误**\n- 检查您的收件箱（和垃圾邮件文件夹）中是否有验证电子邮件\n- 单击电子邮件中的验证链接\n- 如果您没有收到，请点击登录页面上的“重新发送验证电子邮件”\n\n**2FA 问题**\n- 如果您启用了 2FA 并且无法访问您的身份验证器应用程序，请通过联系表与我们联系\n- 电子邮件 2FA 代码可能会落入垃圾邮件\n\n**页面加载但没有任何反应**\n- 清除浏览器缓存和cookie\n- 尝试不同的浏览器\n- 禁用可能干扰的浏览器扩展"
+    },
+    "body:1f40858b4c2e": {
+      "_src": "If none of the above works, reach out via the contact form at **cctools.network/contact** with:\n\n- The email you're trying to log in with\n- What error message you see\n- Your browser and device info\n- Screenshots if possible",
+      "text": "如果上述方法均无效，请通过 **cctools.network/contact** 上的联系表联系：\n\n- 您尝试登录的电子邮件地址\n- 您看到什么错误消息\n- 您的浏览器和设备信息\n- 如有可能，请提供屏幕截图"
+    },
+    "body:74988ac0079e": {
+      "_src": "**Wallet just added?**\nIt may take a few minutes for your wallet data to fully load. Wait 2-3 minutes and refresh the page.\n\n**Showing zero balance?**\n- Verify your wallet address is correct\n- Make sure the wallet has Canton Network tokens (not other chains)\n- Try removing and re-adding the wallet\n\n**Historical data missing?**\nHistorical data depends on indexer availability. Some older transactions may not be reflected.",
+      "text": "**刚刚添加钱包？**\n您的钱包数据可能需要几分钟才能完全加载。等待2-3分钟，刷新页面。\n\n**显示余额为零？**\n- 验证您的钱包地址是否正确\n- 确保钱包有 Canton Network 代币（不是其他链）\n- 尝试删除并重新添加钱包\n\n**历史数据缺失？**\n历史数据取决于索引器的可用性。一些较旧的交易可能不会被反映。"
+    },
+    "body:66c6a930d674": {
+      "_src": "**Contact Form**: The best way to reach us is through the contact form at **cctools.network/contact**. Select a subject (Sponsored Listing, Partnership, General Inquiry, etc.) and describe your issue.\n\n**Twitter/X**: @cantontools (DMs open for quick questions)\n\n**Community**: Join our Telegram for community-powered support\n\nWhen contacting support, include:\n- Your CCTools email/username\n- Description of the issue\n- Screenshots or screen recordings\n- Browser and device info",
+      "text": "**联系表**：联系我们的最佳方式是通过 **cctools.network/contact** 上的联系表。选择一个主题（赞助商信息、合作伙伴关系、一般查询等）并描述您的问题。\n\n**Twitter/X**：@cantontools（私信可快速提问）\n\n**社区**：加入我们的 Telegram 以获得社区支持\n\n联系支持人员时，请包括：\n- 您的 CCTools 电子邮件/用户名\n- 问题描述\n- 屏幕截图或屏幕录制\n- 浏览器和设备信息"
+    }
+  }
+}
