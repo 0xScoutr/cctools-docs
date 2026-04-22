@@ -2,13 +2,20 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { ArrowLeft, ArrowRight } from "lucide-react";
 import { categories } from "../../../lib/content";
-import { getLocalizedArticle, getLocalizedCategories, LOCALES, type Locale } from "../../../lib/i18n";
+import {
+  getLocalizedArticle,
+  getLocalizedCategories,
+  LOCALES,
+  type Locale,
+} from "../../../lib/i18n";
 import { getUIStrings } from "../../../lib/ui-strings";
 import {
   ArticleRenderer,
   TableOfContents,
 } from "../../../components/article-renderer";
 import type { Metadata } from "next";
+
+const SITE_URL = "https://docs.cctools.network";
 
 type Props = {
   params: Promise<{ lang: string; category: string; slug: string }>;
@@ -17,8 +24,8 @@ type Props = {
 export async function generateStaticParams() {
   return LOCALES.flatMap((lang) =>
     categories.flatMap((c) =>
-      c.articles.map((a) => ({ lang, category: c.slug, slug: a.slug }))
-    )
+      c.articles.map((a) => ({ lang, category: c.slug, slug: a.slug })),
+    ),
   );
 }
 
@@ -26,9 +33,36 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { lang, category: catSlug, slug } = await params;
   const result = getLocalizedArticle(lang as Locale, catSlug, slug);
   if (!result) return {};
+
+  const title = `${result.article.title} — ${result.category.title}`;
+  const path = `/${catSlug}/${slug}`;
+
   return {
-    title: `${result.article.title} — ${result.category.title}`,
+    title: result.article.title,
     description: result.article.summary,
+    keywords: result.article.tags,
+    alternates: {
+      canonical: `${SITE_URL}/${lang}${path}`,
+      languages: Object.fromEntries(
+        (["x-default" as const, ...LOCALES] as const).map((k) => [
+          k,
+          `${SITE_URL}/${k === "x-default" ? "en" : k}${path}`,
+        ]),
+      ),
+    },
+    openGraph: {
+      type: "article",
+      title,
+      description: result.article.summary,
+      url: `${SITE_URL}/${lang}${path}`,
+      siteName: "CC Tools Docs",
+      tags: result.article.tags,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description: result.article.summary,
+    },
   };
 }
 
@@ -57,8 +91,74 @@ export default async function ArticlePage({ params }: Props) {
       ? allCategories[catIndex + 1]
       : null;
 
+  // Structured data: TechArticle + BreadcrumbList. TechArticle is more
+  // specific than Article for docs content; Google uses it as a stronger
+  // signal that this is reference/how-to material.
+  const articleUrl = `${SITE_URL}/${locale}/${catSlug}/${slug}`;
+  const articleLd = {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    headline: article.title,
+    description: article.summary,
+    inLanguage: locale,
+    keywords: article.tags.join(", "),
+    articleSection: category.title,
+    url: articleUrl,
+    mainEntityOfPage: articleUrl,
+    image: `${articleUrl}/opengraph-image`,
+    author: {
+      "@type": "Organization",
+      name: "CC Tools",
+      url: "https://cctools.network",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "CC Tools",
+      url: "https://cctools.network",
+      logo: {
+        "@type": "ImageObject",
+        url: `${SITE_URL}/icon-512.png`,
+      },
+    },
+  };
+
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Docs",
+        item: `${SITE_URL}/${locale}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: category.title,
+        item: `${SITE_URL}/${locale}/${catSlug}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: article.title,
+        item: articleUrl,
+      },
+    ],
+  };
+
   return (
     <div className="max-w-[960px] mx-auto px-6 py-10 animate-fade-in">
+      <script
+        type="application/ld+json"
+        suppressHydrationWarning
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }}
+      />
+      <script
+        type="application/ld+json"
+        suppressHydrationWarning
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+      />
       <div className="flex gap-10">
         <article className="flex-1 min-w-0">
           {/* Breadcrumb */}

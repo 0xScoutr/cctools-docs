@@ -2,8 +2,14 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { ArrowRight, FileText } from "lucide-react";
 import { categories } from "../../lib/content";
-import { getLocalizedCategory, LOCALES, type Locale } from "../../lib/i18n";
+import {
+  getLocalizedCategory,
+  LOCALES,
+  type Locale,
+} from "../../lib/i18n";
 import type { Metadata } from "next";
+
+const SITE_URL = "https://docs.cctools.network";
 
 type Props = {
   params: Promise<{ lang: string; category: string }>;
@@ -11,7 +17,7 @@ type Props = {
 
 export async function generateStaticParams() {
   return LOCALES.flatMap((lang) =>
-    categories.map((c) => ({ lang, category: c.slug }))
+    categories.map((c) => ({ lang, category: c.slug })),
   );
 }
 
@@ -19,9 +25,42 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { lang, category: slug } = await params;
   const category = getLocalizedCategory(lang as Locale, slug);
   if (!category) return {};
+
+  const path = `/${slug}`;
+
   return {
     title: category.title,
     description: category.description,
+    alternates: {
+      canonical: `${SITE_URL}/${lang}${path}`,
+      languages: Object.fromEntries(
+        (["x-default" as const, ...LOCALES] as const).map((k) => [
+          k,
+          `${SITE_URL}/${k === "x-default" ? "en" : k}${path}`,
+        ]),
+      ),
+    },
+    openGraph: {
+      type: "website",
+      title: category.title,
+      description: category.description,
+      url: `${SITE_URL}/${lang}${path}`,
+      siteName: "CC Tools Docs",
+      images: [
+        {
+          url: `${SITE_URL}/opengraph-image`,
+          width: 1200,
+          height: 630,
+          alt: "CC Tools Docs",
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: category.title,
+      description: category.description,
+      images: [`${SITE_URL}/opengraph-image`],
+    },
   };
 }
 
@@ -32,9 +71,61 @@ export default async function CategoryPage({ params }: Props) {
   if (!category) notFound();
 
   const Icon = category.icon;
+  const categoryUrl = `${SITE_URL}/${locale}/${slug}`;
+
+  // CollectionPage schema — tells Google this index page lists N articles.
+  // Each article is referenced as a hasPart entry so it can be clustered.
+  const collectionLd = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: category.title,
+    description: category.description,
+    url: categoryUrl,
+    inLanguage: locale,
+    isPartOf: {
+      "@type": "WebSite",
+      name: "CC Tools Docs",
+      url: SITE_URL,
+    },
+    hasPart: category.articles.map((a) => ({
+      "@type": "TechArticle",
+      headline: a.title,
+      description: a.summary,
+      url: `${categoryUrl}/${a.slug}`,
+    })),
+  };
+
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Docs",
+        item: `${SITE_URL}/${locale}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: category.title,
+        item: categoryUrl,
+      },
+    ],
+  };
 
   return (
     <div className="max-w-[720px] mx-auto px-6 py-10 animate-fade-in">
+      <script
+        type="application/ld+json"
+        suppressHydrationWarning
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionLd) }}
+      />
+      <script
+        type="application/ld+json"
+        suppressHydrationWarning
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+      />
       <div className="flex items-center gap-3 mb-2">
         <div
           className="w-10 h-10 rounded-[var(--radius-md)] flex items-center justify-center"

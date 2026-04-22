@@ -9,6 +9,8 @@ import {
   Settings,
   HelpCircle,
   Users,
+  Newspaper,
+  GraduationCap,
   FileText,
   type LucideIcon,
 } from "lucide-react";
@@ -24,6 +26,8 @@ const ICONS: Record<string, LucideIcon> = {
   Settings,
   HelpCircle,
   Users,
+  Newspaper,
+  GraduationCap,
   FileText,
 };
 
