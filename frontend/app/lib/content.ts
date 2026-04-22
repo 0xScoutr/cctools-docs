@@ -9,6 +9,8 @@ import {
   Settings,
   HelpCircle,
   Users,
+  Newspaper,
+  GraduationCap,
   type LucideIcon,
 } from "lucide-react";
 
@@ -62,7 +64,7 @@ export const categories: Category[] = [
           },
           {
             heading: "Key Features",
-            body: "**Portfolio Tracker** — Connect your wallets and see your full Canton portfolio with real-time prices, P&L, rewards, and transfer history.\n\n**Ecosystem Directory** — Browse hundreds of projects building on Canton Network, filterable by category, role, and status. Upvote your favorites.\n\n**Compare** — Compare up to 4 projects (Pro) or validators side by side.\n\n**Earn** — Complete tasks, discover opportunities, and join campaigns to earn XP and climb the leaderboard.\n\n**Rewards Calculator** — Calculate potential rewards as an App Builder, Validator, or CC Holder.\n\n**Network Stats** — Real-time Canton Network metrics with TradingView integration.\n\n**Governance** — Track Super Validator votes and governance proposals.\n\n**Leaderboard** — See where you rank among other CCTools users with standard, weekly, and bracket views.\n\n**Learn** — Educational content about Canton Network.",
+            body: "**Portfolio Tracker** — Connect your wallets and see your full Canton portfolio with real-time prices, P&L, rewards, and transfer history.\n\n**Ecosystem Directory** — Browse hundreds of projects building on Canton Network, filterable by category, role, and status. Upvote your favorites.\n\n**Explore** — Unified discovery hub that surfaces projects, validators, and rewards side by side.\n\n**Compare** — Compare up to 4 projects (Pro) or validators side by side.\n\n**Earn** — Complete tasks, discover opportunities, and join campaigns to earn XP and climb the leaderboard.\n\n**Academy** — Read curated articles and hands-on guides about Canton and CCTools, written by the community. Publish your own with the post submission flow.\n\n**News** — Canton-focused news feed with LLM summaries, plus a community feed of member-submitted posts. Search, filter, and subscribe to new content notifications.\n\n**Learn Paths** — Multi-step structured learning tracks that guide you through Canton, CCTools, and related topics.\n\n**Rewards Calculator** — Calculate potential rewards as an App Builder, Validator, or CC Holder.\n\n**Network Stats** — Real-time Canton Network metrics with TradingView integration.\n\n**Governance** — Track Super Validator votes and governance proposals.\n\n**Leaderboard** — See where you rank among other CCTools users with standard, weekly, and bracket views.\n\n**Reputation** — A second progression track alongside XP/levels, measuring the quality of your submissions and community contributions.",
           },
           {
             heading: "Who is it for?",
@@ -98,7 +100,7 @@ export const categories: Category[] = [
         sections: [
           {
             heading: "Sidebar Navigation",
-            body: "The left sidebar is your main navigation hub. It contains links to all major sections:\n\n- **Overview** — Your personalized dashboard\n- **Portfolio** — Wallet tracking and P&L\n- **Ecosystem** — Project directory with hundreds of projects\n- **Earn** — Quests, campaigns, and opportunities\n- **Governance** — Super Validator votes and proposals\n- **Network Stats** — On-chain analytics and TradingView charts\n- **Leaderboard** — Community rankings (standard, weekly, bracket)\n- **$CC Token** — Token info, burn/mint charts\n- **Learn** — Educational content about Canton\n- **Validators** — Validator list and performance\n- **Compare** — Side-by-side project comparison (2 free, 4 Pro)\n- **Rewards Calculator** — App Builder, Validator, and CC Holder calculators\n\nYou can collapse the sidebar by clicking the collapse icon at the bottom.",
+            body: "The left sidebar is your main navigation hub. It contains links to all major sections:\n\n- **Overview** — Your personalized dashboard\n- **Portfolio** — Wallet tracking and P&L\n- **Ecosystem** — Project directory with hundreds of projects\n- **Explore** — Unified hub for projects, validators, and rewards in one view\n- **Earn** — Quests, campaigns, and opportunities\n- **Academy** — Community articles and guides about Canton and CCTools\n- **News** — Canton news feed and community posts\n- **Learn** — Educational content and multi-step learning paths\n- **Governance** — Super Validator votes and proposals\n- **Network Stats** — On-chain analytics and TradingView charts\n- **Leaderboard** — Community rankings (standard, weekly, bracket)\n- **$CC Token** — Token info, burn/mint charts\n- **Validators** — Validator list and performance\n- **Compare** — Side-by-side project comparison (2 free, 4 Pro)\n- **Calculator** — App Builder, Validator, and CC Holder calculators\n\nYou can collapse the sidebar by clicking the collapse icon at the bottom.",
           },
           {
             heading: "Global Search",
@@ -211,6 +213,26 @@ export const categories: Category[] = [
           {
             heading: "Comparing Validators",
             body: "You can also compare validators using the same tool:\n\n1. Switch to the **Validators** tab in Compare\n2. Select validators to compare\n3. View performance metrics, uptime, rewards, and other data side by side\n\nThis helps you make informed decisions about validator delegation.",
+          },
+        ],
+      },
+      {
+        slug: "explore-hub",
+        title: "The Explore Hub",
+        summary: "Explore is a unified discovery page that surfaces projects, validators, and rewards side by side.",
+        tags: ["explore", "discovery", "ecosystem"],
+        sections: [
+          {
+            heading: "What Explore Is",
+            body: "**Explore** is a hub page designed for discovery. Instead of jumping between Ecosystem, Validators, and Earn separately, Explore pulls the most relevant slice of each into a single scroll:\n\n- **Projects** — A live grid of featured, trending, and newly-added projects\n- **Validators** — Top-ranked validators by rewards and uptime\n- **Rewards & Opportunities** — The current best earn picks\n\nIt's the fastest way to see \"what's worth clicking on right now\" across the whole Canton ecosystem.",
+          },
+          {
+            heading: "How It Stays Fresh",
+            body: "Explore is backed by a **warm graph cache** that rebuilds every 5 minutes behind the scenes. Data never looks stale, and the page loads instantly even when there are thousands of underlying records to rank and filter.",
+          },
+          {
+            heading: "When to Use Explore vs Ecosystem",
+            body: "- Use **Explore** when you want a quick, opinionated surface — \"show me what's interesting now\"\n- Use **Ecosystem** when you want to browse the full directory with filters, search, and detailed compare tools",
           },
         ],
       },
@@ -332,6 +354,186 @@ export const categories: Category[] = [
           },
         ],
       },
+      {
+        slug: "reputation",
+        title: "Reputation System",
+        summary: "Reputation is a quality signal separate from XP — earned through approved submissions and community contributions.",
+        tags: ["reputation", "quality", "submissions"],
+        sections: [
+          {
+            heading: "Reputation vs XP",
+            body: "Reputation is a second progression track that runs alongside XP and levels. Where **XP** measures activity (logins, upvotes, views), **Reputation** measures the **quality of your contributions** to the platform.\n\nReputation is shown on your profile and next to your username in places like Academy author cards, community posts, and comments — so others can quickly see how trusted your contributions are.",
+          },
+          {
+            heading: "How You Earn Reputation",
+            body: "You gain reputation when the community and moderators validate your contributions:\n\n- **Approved project submissions** — Suggest a project to the Ecosystem and get it approved\n- **Approved ecosystem edits** — Submit accurate edits to existing project data\n- **Approved Earn opportunities** — Suggest opportunities that get added\n- **Published Academy posts** — Write articles or guides that pass editorial review\n- **Approved news submissions** — Community posts that get accepted into the news feed\n- **Helpful feedback** — Bug reports and feedback that lead to improvements\n\nEach approved contribution awards reputation points. The value scales with the type and quality of the contribution.",
+          },
+          {
+            heading: "Reputation Penalties & Decay",
+            body: "Reputation goes down as well as up:\n\n- **Rejected submissions** — Spammy or low-quality submissions lose reputation\n- **Auto-penalty** — Multiple rejections in a short window trigger an automatic reputation hit\n- **Inactivity decay** — A small amount of reputation decays during long periods of inactivity, so leaderboards stay fresh\n\nThis ensures reputation reflects current, genuine contribution — not historical activity that stopped long ago.",
+          },
+          {
+            heading: "Reputation Tiers",
+            body: "Reputation is grouped into ten tiers, each with its own name and color, shown as a colored pill next to your name:\n\n- Newcomer → Contributor → Trusted → Established → Veteran → Authority → Expert → Elite → Legendary → Mythic\n\nHigher tiers unlock community trust — for example, curators and trusted reviewers tend to come from higher reputation tiers. Future features (weighted upvotes, moderation queues, featured authorship) will use reputation as a signal.",
+          },
+        ],
+      },
+      {
+        slug: "learn-paths",
+        title: "Learn Paths",
+        summary: "Multi-step structured learning tracks that guide you through Canton, CCTools, and related topics.",
+        tags: ["learn", "education", "paths"],
+        sections: [
+          {
+            heading: "What are Learn Paths?",
+            body: "Learn Paths are **structured multi-step courses** available in the **Learn** section. Each path is a curated sequence of lessons that takes you from zero to competent on a specific topic — Canton fundamentals, building on Canton, using CCTools like a power user, understanding governance, and more.\n\nUnlike one-off articles, paths track your progress step by step, so you always know where to pick up.",
+          },
+          {
+            heading: "Following a Path",
+            body: "To start a path:\n\n1. Go to **Learn** in the sidebar\n2. Browse the list of available paths\n3. Click a path to open its overview and step list\n4. Start at step 1 or jump to any unlocked step\n\nAs you complete steps, your progress is saved to your account. You can pause and resume paths freely — CCTools remembers where you stopped.",
+          },
+          {
+            heading: "Rewards for Completion",
+            body: "Completing a path earns XP, and selected paths award dedicated badges. New content (paths, steps, or major updates) triggers a notification on your Overview so you never miss a new learning opportunity.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    slug: "academy",
+    title: "Academy",
+    description: "Read and write articles and guides about Canton and CCTools — a community-driven content hub.",
+    icon: GraduationCap,
+    color: "var(--purple)",
+    colorDim: "var(--purple-dim)",
+    articles: [
+      {
+        slug: "academy-overview",
+        title: "What is the Academy?",
+        summary: "Academy is CCTools' content hub — curated articles and step-by-step guides written by the community.",
+        tags: ["academy", "content", "overview"],
+        sections: [
+          {
+            heading: "Articles vs Guides",
+            body: "Academy posts come in two formats, each optimized for a different purpose:\n\n**Articles** — Editorial long-form reads. Structure: kicker, reading focus, intro, sections (each with optional callouts, pull-quotes, and inline images), key points, takeaways, FAQ, resources, and a final CTA.\n\n**Guides** — Hands-on step-by-step tutorials. Structure: estimated time, goal, prerequisites, what you'll build, numbered steps, troubleshooting, takeaways, resources, and a CTA.\n\nThe format is chosen when the post is written and drives both the author template and the reader layout.",
+          },
+          {
+            heading: "Who Writes the Academy?",
+            body: "Anything published in Academy is either:\n\n- Written by the **CCTools editorial team**, or\n- Written by a **community author** and approved through the review flow\n\nEach post page shows a rich **Author Card** with the writer's avatar, display name, Level, Reputation tier, total XP, and a link to their public profile. Community posts without an attached author fall back to a \"CCTools Editorial\" byline.",
+          },
+          {
+            heading: "Finding Posts",
+            body: "The **Academy** landing page lists the latest posts, filterable by format (article / guide) and by topic tag. Individual posts also surface:\n\n- **More from author** — Up to 3 other recent posts by the same writer\n- **Related posts** — Posts sharing tags with the one you're reading\n- **Related projects** — Ecosystem projects referenced in the post",
+          },
+        ],
+      },
+      {
+        slug: "reading-upvoting-posts",
+        title: "Reading & Upvoting Posts",
+        summary: "How the reader experience works, including upvotes, the daily vote cap, and the Level 4 gate.",
+        tags: ["academy", "reading", "upvote"],
+        sections: [
+          {
+            heading: "The Reading Experience",
+            body: "Each post has a full-width adaptive layout with:\n\n- A hero section with title, kicker, estimated reading time, and tags\n- The cover image (when provided)\n- The body rendered with rich formatting: bold, inline links, paragraph spacing, callouts, pull-quotes, inline images, and numbered steps for guides\n- A sticky sidebar on desktop (or a collapsible Table of Contents on mobile) for quick navigation\n- An **Author Card** at the end with a link to the author's public profile",
+          },
+          {
+            heading: "Upvoting Posts",
+            body: "If a post is genuinely useful, upvote it to boost its visibility. Academy upvotes work like the rest of the platform:\n\n- Upvoting requires **Level 4**\n- You can cast **1 academy upvote per UTC day** — across **all posts combined**, not per post\n- The counter resets at **midnight UTC**\n- You can **unvote** the same day to free up your daily slot, then vote on a different post\n- A small timer on the upvote button tells you when your next slot opens\n\nThis keeps upvotes a scarce, meaningful signal rather than a spammable click.",
+          },
+          {
+            heading: "Sharing Posts",
+            body: "Each post has a Share card in the sidebar with one-click links for X, Telegram, and copy-to-clipboard. Post URLs are shareable and public — anyone can read them, logged in or not.",
+          },
+        ],
+      },
+      {
+        slug: "writing-posts",
+        title: "Writing an Academy Post",
+        summary: "How to submit an article or guide, what fields to fill, and how the review process works.",
+        tags: ["academy", "writing", "submission"],
+        sections: [
+          {
+            heading: "Starting a Post",
+            body: "Go to **Academy → Submit Post** to open the writer. You choose whether to write an **Article** or a **Guide** at the top — the rest of the form adapts to the format you pick.\n\nYou don't have to finish in one session. Drafts are saved, so you can step away and come back.",
+          },
+          {
+            heading: "What to Fill In",
+            body: "Common fields:\n\n- **Title** and **slug** (auto-generated from the title)\n- **Cover image URL**\n- **Tags** (used for filtering and related-post matching)\n- **Reading time** (or estimated time for guides — auto-calculated as you write)\n\nArticle-specific fields: kicker, reading focus, intro, sections (with optional callouts / pull-quotes / inline images), key points, takeaways, FAQ, resources, CTA.\n\nGuide-specific fields: goal, prerequisites, what you'll build, numbered steps (each step with optional code / image / tip), troubleshooting, takeaways, resources, CTA.\n\nThe writer uses a plain-text body with inline formatting — **bold** (`**text**`), links (`[label](url)`), and blank-line paragraphs. The writer has an always-visible formatting help panel explaining which syntax is supported and what is intentionally not (raw HTML is stripped for safety).",
+          },
+          {
+            heading: "Submission & Review",
+            body: "When you submit, your post enters the **moderation queue**. The CCTools team reviews for:\n\n- Factual accuracy (especially Canton-specific claims)\n- Originality (no copy-paste content without credit)\n- Formatting sanity (images load, links work, structure follows the template)\n- Relevance to the Canton Network ecosystem\n\nOutcomes:\n\n- **Approved** — Post goes live on Academy and is credited to your profile\n- **Requested changes** — You get feedback and can edit and resubmit\n- **Rejected** — Out-of-scope or low-effort submissions. Repeated rejections affect reputation.\n\nPublished posts earn you XP and reputation, count toward your post count on your public profile, and can be shared freely.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    slug: "news",
+    title: "News & Feed",
+    description: "Canton-focused news feed with LLM summaries, plus a community feed of member-submitted posts.",
+    icon: Newspaper,
+    color: "var(--blue)",
+    colorDim: "var(--blue-dim)",
+    articles: [
+      {
+        slug: "news-overview",
+        title: "News & Community Feed",
+        summary: "Two parallel feeds: curated Canton news and community-submitted posts, refreshed every 10 minutes.",
+        tags: ["news", "feed", "community"],
+        sections: [
+          {
+            heading: "Two Feeds in One Page",
+            body: "The **News** page has two channels behind a tab switcher at the top:\n\n- **News** — Curated Canton Network coverage from the web. Items are pulled from Google News and RSS sources, then summarized by an LLM so you can get the essentials in a sentence or two without clicking through.\n- **Community** — Member-submitted posts: announcements, takes, threads, write-ups, and updates shared by other CCTools users.\n\nEach tab shows a live count of how many items exist in that channel so you always know how much there is to read.",
+          },
+          {
+            heading: "How Often It Updates",
+            body: "News ingestion runs **every 10 minutes**. The pipeline:\n\n1. Queries Google News (via Serper) for Canton-related keywords\n2. Merges items from curated RSS feeds\n3. **Deduplicates** across publishers using a normalized title key — the same story from two outlets only appears once\n4. Runs an LLM summary on each new article\n5. Publishes to the feed\n\nThe community feed updates in real time as new posts are submitted and approved.",
+          },
+          {
+            heading: "Reading an Item",
+            body: "Click any item to open its detail page, which shows the full summary, source link, publication date, and any related Canton projects mentioned. For community posts, you also see the author's Level and Reputation tier — the same author card shown on Academy posts.",
+          },
+        ],
+      },
+      {
+        slug: "news-search-filter",
+        title: "Searching & Filtering",
+        summary: "Use search and filters to narrow down the feed. Load more reveals the rest of the archive.",
+        tags: ["news", "search", "filter"],
+        sections: [
+          {
+            heading: "Search",
+            body: "The search bar at the top of the page matches against titles, summaries, and source names. Searching triggers a deeper fetch — instead of the initial cached top items, CCTools loads the full recent archive for the channel you're in so you can find older stories.",
+          },
+          {
+            heading: "Load More",
+            body: "Each feed starts with the most recent items and a **Load More** button at the bottom. Clicking it fetches the next page without reloading the page. The tab badges always show the true total in the database, not just what's currently loaded.",
+          },
+          {
+            heading: "Community Submissions",
+            body: "To submit a community post, open the Community tab and click **Submit**. Community submissions go through the same moderation queue as Academy posts and earn XP / reputation when approved.",
+          },
+        ],
+      },
+      {
+        slug: "new-content-notifications",
+        title: "New Content Notifications",
+        summary: "Get notified when new projects, opportunities, campaigns, or learn paths go live.",
+        tags: ["notifications", "news", "email"],
+        sections: [
+          {
+            heading: "What Triggers a Notification",
+            body: "CCTools scans the database for newly-added content every 30 minutes. You'll be notified (in-app, and optionally by email) when:\n\n- A new **project** is added to the Ecosystem\n- A new **Earn opportunity** goes live\n- A new **campaign** is launched\n- A new **Academy post** is published\n- A new **Learn Path** is released\n\nThis keeps you at the edge of what's happening in the ecosystem without having to check every page manually.",
+          },
+          {
+            heading: "Managing Notifications",
+            body: "You control which notification categories are active in **Settings → Notifications**. Turn individual channels on or off, and decide whether each channel also sends you an email.\n\nEmails are batched every 10 minutes, so you never get a wall of separate emails — you get one digest covering everything that triggered since the last batch.",
+          },
+        ],
+      },
     ],
   },
   {
@@ -379,6 +581,26 @@ export const categories: Category[] = [
           {
             heading: "General Tips",
             body: "- Never share your account credentials with anyone\n- CCTools will never ask for your password via email or DM\n- Be wary of phishing sites — always check the URL is **cctools.network**\n- Report suspicious activity via the contact form at **cctools.network/contact**",
+          },
+        ],
+      },
+      {
+        slug: "notifications",
+        title: "Notifications",
+        summary: "Control which updates reach you in-app and by email — new content, referrals, moderation, and more.",
+        tags: ["notifications", "email", "settings"],
+        sections: [
+          {
+            heading: "Notification Categories",
+            body: "CCTools sends notifications for several distinct events:\n\n- **New content** — New projects, Earn opportunities, campaigns, Academy posts, and Learn paths\n- **Your submissions** — Status updates when your submitted project, opportunity, or post is approved / rejected / needs changes\n- **Upvotes & engagement** — When your content receives upvotes or comments\n- **Referrals** — When a referred user completes tasks or confirms their referral\n- **Governance alerts** — When new Super Validator proposals open or close\n- **System** — Account security events (new login, password change, 2FA changes)",
+          },
+          {
+            heading: "In-App vs Email",
+            body: "Every notification appears in the **bell dropdown** in the top bar. You can additionally enable **email delivery** per category in **Settings → Notifications**.\n\nEmails are **batched every 10 minutes** — you'll never get a flood of separate emails. Each batch is a single digest covering everything that happened in that window.\n\nSecurity-sensitive notifications (login from new device, password reset) are always sent by email and cannot be disabled.",
+          },
+          {
+            heading: "Turning Things Off",
+            body: "Go to **Settings → Notifications** to toggle each category independently. You can also use the **Unsubscribe** link at the bottom of any email to quickly turn off the category that sent it.",
           },
         ],
       },

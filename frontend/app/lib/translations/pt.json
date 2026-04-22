@@ -1,7 +1,7 @@
 {
   "_meta": {
     "locale": "pt",
-    "updatedAt": "2026-04-07T03:09:36.960Z"
+    "updatedAt": "2026-04-22T11:28:11.021Z"
   },
   "strings": {
     "title:bf647454e360": {
@@ -624,10 +624,6 @@
       "_src": "CCTools is the leading multi-tool platform for the Canton Network ecosystem. It provides everything you need to track your portfolio, discover projects, earn rewards, monitor network stats, and stay up to date with the Canton ecosystem.\n\nWhether you're a DeFi user, a validator, or just getting started with Canton, CCTools gives you a single dashboard to manage it all.",
       "text": "CCTools é a plataforma multiferramenta líder para o ecossistema da Canton Network. Ele fornece tudo que você precisa para rastrear seu portfólio, descobrir projetos, ganhar recompensas, monitorar estatísticas de rede e manter-se atualizado com o ecossistema Canton.\n\nQuer você seja um usuário DeFi, um validador ou esteja apenas começando com o Canton, o CCTools oferece um único painel para gerenciar tudo."
     },
-    "body:0c5de0647f6e": {
-      "_src": "**Portfolio Tracker** — Connect your wallets and see your full Canton portfolio with real-time prices, P&L, rewards, and transfer history.\n\n**Ecosystem Directory** — Browse hundreds of projects building on Canton Network, filterable by category, role, and status. Upvote your favorites.\n\n**Compare** — Compare up to 4 projects (Pro) or validators side by side.\n\n**Earn** — Complete tasks, discover opportunities, and join campaigns to earn XP and climb the leaderboard.\n\n**Rewards Calculator** — Calculate potential rewards as an App Builder, Validator, or CC Holder.\n\n**Network Stats** — Real-time Canton Network metrics with TradingView integration.\n\n**Governance** — Track Super Validator votes and governance proposals.\n\n**Leaderboard** — See where you rank among other CCTools users with standard, weekly, and bracket views.\n\n**Learn** — Educational content about Canton Network.",
-      "text": "**Portfolio Tracker** — Conecte suas carteiras e veja todo o seu portfólio Canton com preços, lucros e perdas, recompensas e histórico de transferências em tempo real.\n\n**Diretório de ecossistemas** — Navegue por centenas de projetos desenvolvidos na Canton Network, filtráveis ​​por categoria, função e status. Vote positivamente em seus favoritos.\n\n**Comparar** — Compare até 4 projetos (Pro) ou validadores lado a lado.\n\n**Ganhe** — Conclua tarefas, descubra oportunidades e participe de campanhas para ganhar XP e subir na tabela de classificação.\n\n**Calculadora de recompensas** — Calcule recompensas potenciais como criador de aplicativos, validador ou titular de CC.\n\n**Estatísticas da rede** — Métricas da Canton Network em tempo real com integração do TradingView.\n\n**Governança** — Acompanhe os votos e propostas de governança do Super Validador.\n\n**Tabela de classificação** — Veja sua classificação entre outros usuários do CCTools com visualizações padrão, semanais e de colchetes.\n\n**Aprenda** — Conteúdo educacional sobre a Canton Network."
-    },
     "body:4f6c963707f5": {
       "_src": "CCTools is designed for:\n\n- **New users** exploring the Canton Network for the first time\n- **DeFi users** tracking portfolio performance across Canton apps\n- **Community members** earning XP and badges through engagement\n- **Project teams** looking for visibility through sponsored listings\n- **Researchers** analyzing Canton Network on-chain data",
       "text": "CCTools foi projetado para:\n\n- **Novos usuários** explorando a Canton Network pela primeira vez\n- **Usuários DeFi** acompanhando o desempenho do portfólio em aplicativos Canton\n- **Membros da comunidade** ganhando XP e medalhas por meio do envolvimento\n- **Equipes de projeto** em busca de visibilidade por meio de listagens patrocinadas\n- **Pesquisadores** analisando dados on-chain da Canton Network"
@@ -643,10 +639,6 @@
     "body:0721f3faa264": {
       "_src": "Head to **Settings** to complete your profile:\n\n- Add a display name\n- Set your avatar\n- Add your Twitter/X handle (optional, helps with community features)\n- Enable notifications for the features you care about",
       "text": "Acesse **Configurações** para completar seu perfil:\n\n- Adicione um nome de exibição\n- Defina seu avatar\n- Adicione seu identificador Twitter/X (opcional, ajuda com recursos da comunidade)\n- Ative notificações para os recursos de seu interesse"
-    },
-    "body:b82b02633def": {
-      "_src": "The left sidebar is your main navigation hub. It contains links to all major sections:\n\n- **Overview** — Your personalized dashboard\n- **Portfolio** — Wallet tracking and P&L\n- **Ecosystem** — Project directory with hundreds of projects\n- **Earn** — Quests, campaigns, and opportunities\n- **Governance** — Super Validator votes and proposals\n- **Network Stats** — On-chain analytics and TradingView charts\n- **Leaderboard** — Community rankings (standard, weekly, bracket)\n- **$CC Token** — Token info, burn/mint charts\n- **Learn** — Educational content about Canton\n- **Validators** — Validator list and performance\n- **Compare** — Side-by-side project comparison (2 free, 4 Pro)\n- **Rewards Calculator** — App Builder, Validator, and CC Holder calculators\n\nYou can collapse the sidebar by clicking the collapse icon at the bottom.",
-      "text": "A barra lateral esquerda é o seu principal centro de navegação. Ele contém links para todas as seções principais:\n\n- **Visão geral** — Seu painel personalizado\n- **Portfólio** — Rastreamento de carteira e P&L\n- **Ecossistema** — Diretório de projetos com centenas de projetos\n- **Ganhe** — Missões, campanhas e oportunidades\n- **Governança** — Votos e propostas do Super Validador\n- **Estatísticas de rede** — Análises on-chain e gráficos TradingView\n- **Tabela de classificação** — Classificações da comunidade (padrão, semanal, chave)\n- **$CC Token** — Informações do token, gráficos de queima/mint\n- **Aprenda** — Conteúdo educacional sobre Cantão\n- **Validadores** — Lista e desempenho de validadores\n- **Comparar** — Comparação de projetos lado a lado (2 gratuitos, 4 Pro)\n- **Calculadora de recompensas** — Calculadoras de App Builder, Validator e CC Holder\n\nVocê pode recolher a barra lateral clicando no ícone de recolher na parte inferior."
     },
     "body:cf8bf5c9a2d9": {
       "_src": "Press `Cmd+K` (Mac) or `Ctrl+K` (Windows) to open the global search. You can search for:\n\n- Projects in the ecosystem\n- Specific pages and features\n- Help articles and documentation\n\nSearch is the fastest way to find anything on CCTools.",
@@ -915,6 +907,350 @@
     "body:66c6a930d674": {
       "_src": "**Contact Form**: The best way to reach us is through the contact form at **cctools.network/contact**. Select a subject (Sponsored Listing, Partnership, General Inquiry, etc.) and describe your issue.\n\n**Twitter/X**: @cantontools (DMs open for quick questions)\n\n**Community**: Join our Telegram for community-powered support\n\nWhen contacting support, include:\n- Your CCTools email/username\n- Description of the issue\n- Screenshots or screen recordings\n- Browser and device info",
       "text": "**Formulário de contato**: A melhor maneira de entrar em contato conosco é através do formulário de contato em **cctools.network/contact**. Selecione um assunto (Listagem Patrocinada, Parceria, Consulta Geral, etc.) e descreva seu problema.\n\n**Twitter/X**: @cantontools (DMs abertos para perguntas rápidas)\n\n**Comunidade**: Junte-se ao nosso Telegram para obter suporte da comunidade\n\nAo entrar em contato com o suporte, inclua:\n- Seu e-mail/nome de usuário do CCTools\n- Descrição do problema\n- Capturas de tela ou gravações de tela\n- Informações do navegador e do dispositivo"
+    },
+    "title:24fe3caa308c": {
+      "_src": "The Explore Hub",
+      "text": "O centro de exploração"
+    },
+    "title:324f9c43ace7": {
+      "_src": "Reputation System",
+      "text": "Sistema de reputação"
+    },
+    "title:4b7e23113b9c": {
+      "_src": "Learn Paths",
+      "text": "Aprenda caminhos"
+    },
+    "title:f76fcdca6266": {
+      "_src": "Academy",
+      "text": "Academia"
+    },
+    "title:5e2d2d2fb4f3": {
+      "_src": "What is the Academy?",
+      "text": "O que é a Academia?"
+    },
+    "title:4a89f7d03d35": {
+      "_src": "Reading & Upvoting Posts",
+      "text": "Leitura e votação positiva de postagens"
+    },
+    "title:138ad0502bb3": {
+      "_src": "Writing an Academy Post",
+      "text": "Escrevendo uma postagem na Academia"
+    },
+    "title:d1b97ca8fa82": {
+      "_src": "News & Feed",
+      "text": "Notícias e feed"
+    },
+    "title:3673a44bda66": {
+      "_src": "News & Community Feed",
+      "text": "Notícias e feed da comunidade"
+    },
+    "title:eb71deebb200": {
+      "_src": "Searching & Filtering",
+      "text": "Pesquisa e filtragem"
+    },
+    "title:b2c84a87ad33": {
+      "_src": "New Content Notifications",
+      "text": "Notificações de novos conteúdos"
+    },
+    "title:a274f4d46702": {
+      "_src": "Notifications",
+      "text": "Notificações"
+    },
+    "desc:5a6950f672cb": {
+      "_src": "Read and write articles and guides about Canton and CCTools — a community-driven content hub.",
+      "text": "Leia e escreva artigos e guias sobre Canton e CCTools — um centro de conteúdo voltado para a comunidade."
+    },
+    "desc:31dce552469a": {
+      "_src": "Canton-focused news feed with LLM summaries, plus a community feed of member-submitted posts.",
+      "text": "Feed de notícias focado em Cantão com resumos LLM, além de um feed da comunidade com postagens enviadas por membros."
+    },
+    "summary:de8110ed6b35": {
+      "_src": "Explore is a unified discovery page that surfaces projects, validators, and rewards side by side.",
+      "text": "Explore é uma página de descoberta unificada que apresenta projetos, validadores e recompensas lado a lado."
+    },
+    "summary:e77b6cdb3f12": {
+      "_src": "Reputation is a quality signal separate from XP — earned through approved submissions and community contributions.",
+      "text": "A reputação é um sinal de qualidade separado do XP – conquistada por meio de envios aprovados e contribuições da comunidade."
+    },
+    "summary:6ae2b6a8088c": {
+      "_src": "Multi-step structured learning tracks that guide you through Canton, CCTools, and related topics.",
+      "text": "Trilhas de aprendizagem estruturadas em várias etapas que guiam você pelo Canton, CCTools e tópicos relacionados."
+    },
+    "summary:fb3a1bd9d530": {
+      "_src": "Academy is CCTools' content hub — curated articles and step-by-step guides written by the community.",
+      "text": "Academy é o centro de conteúdo do CCTools – artigos selecionados e guias passo a passo escritos pela comunidade."
+    },
+    "summary:70b8072ab8fa": {
+      "_src": "How the reader experience works, including upvotes, the daily vote cap, and the Level 4 gate.",
+      "text": "Como funciona a experiência do leitor, incluindo votos positivos, limite de votos diários e portão de nível 4."
+    },
+    "summary:978e68ea86c3": {
+      "_src": "How to submit an article or guide, what fields to fill, and how the review process works.",
+      "text": "Como enviar um artigo ou guia, quais campos preencher e como funciona o processo de revisão."
+    },
+    "summary:f4fb5b6f0e97": {
+      "_src": "Two parallel feeds: curated Canton news and community-submitted posts, refreshed every 10 minutes.",
+      "text": "Dois feeds paralelos: notícias selecionadas de Canton e postagens enviadas pela comunidade, atualizadas a cada 10 minutos."
+    },
+    "summary:143c01b09d5f": {
+      "_src": "Use search and filters to narrow down the feed. Load more reveals the rest of the archive.",
+      "text": "Use pesquisa e filtros para restringir o feed. Carregar mais revela o resto do arquivo."
+    },
+    "summary:ab81ce7cbdfb": {
+      "_src": "Get notified when new projects, opportunities, campaigns, or learn paths go live.",
+      "text": "Seja notificado quando novos projetos, oportunidades, campanhas ou caminhos de aprendizagem forem lançados."
+    },
+    "summary:3e8f3ed82342": {
+      "_src": "Control which updates reach you in-app and by email — new content, referrals, moderation, and more.",
+      "text": "Controle quais atualizações chegam até você no aplicativo e por e-mail: novos conteúdos, referências, moderação e muito mais."
+    },
+    "heading:47bc93098ab8": {
+      "_src": "What Explore Is",
+      "text": "O que é explorar"
+    },
+    "heading:3be240b2fe71": {
+      "_src": "How It Stays Fresh",
+      "text": "Como permanece fresco"
+    },
+    "heading:792334df53b2": {
+      "_src": "When to Use Explore vs Ecosystem",
+      "text": "Quando usar Explorar vs Ecossistema"
+    },
+    "heading:4a3fa3545615": {
+      "_src": "Reputation vs XP",
+      "text": "Reputação vs XP"
+    },
+    "heading:6381ce8657bd": {
+      "_src": "How You Earn Reputation",
+      "text": "Como você ganha reputação"
+    },
+    "heading:c61ece237b0a": {
+      "_src": "Reputation Penalties & Decay",
+      "text": "Penalidades e deterioração da reputação"
+    },
+    "heading:955bab28a245": {
+      "_src": "Reputation Tiers",
+      "text": "Níveis de reputação"
+    },
+    "heading:0bde2504149c": {
+      "_src": "What are Learn Paths?",
+      "text": "O que são caminhos de aprendizagem?"
+    },
+    "heading:af70929f747d": {
+      "_src": "Following a Path",
+      "text": "Seguindo um caminho"
+    },
+    "heading:8f659fb14f0b": {
+      "_src": "Rewards for Completion",
+      "text": "Recompensas por conclusão"
+    },
+    "heading:a881a5230eb0": {
+      "_src": "Articles vs Guides",
+      "text": "Artigos vs Guias"
+    },
+    "heading:14f0f1f9bca5": {
+      "_src": "Who Writes the Academy?",
+      "text": "Quem escreve a Academia?"
+    },
+    "heading:bf0afa782fc2": {
+      "_src": "Finding Posts",
+      "text": "Encontrando postagens"
+    },
+    "heading:27241949c915": {
+      "_src": "The Reading Experience",
+      "text": "A experiência de leitura"
+    },
+    "heading:893e4aba6720": {
+      "_src": "Upvoting Posts",
+      "text": "Postagens positivas"
+    },
+    "heading:4596f64de153": {
+      "_src": "Sharing Posts",
+      "text": "Compartilhando postagens"
+    },
+    "heading:ea17d5a4d61f": {
+      "_src": "Starting a Post",
+      "text": "Iniciando uma postagem"
+    },
+    "heading:9e9e0cf8da49": {
+      "_src": "What to Fill In",
+      "text": "O que preencher"
+    },
+    "heading:52bbdffd6058": {
+      "_src": "Submission & Review",
+      "text": "Envio e Revisão"
+    },
+    "heading:043dd25dad3a": {
+      "_src": "Two Feeds in One Page",
+      "text": "Dois feeds em uma página"
+    },
+    "heading:6b89791a4e33": {
+      "_src": "How Often It Updates",
+      "text": "Com que frequência é atualizado"
+    },
+    "heading:223611f242fe": {
+      "_src": "Reading an Item",
+      "text": "Lendo um item"
+    },
+    "heading:13348442cc6a": {
+      "_src": "Search",
+      "text": "Procurar"
+    },
+    "heading:7e129c6b2a46": {
+      "_src": "Load More",
+      "text": "Carregar mais"
+    },
+    "heading:28ff8770f3ea": {
+      "_src": "Community Submissions",
+      "text": "Envios da comunidade"
+    },
+    "heading:f4a7dd79ae02": {
+      "_src": "What Triggers a Notification",
+      "text": "O que desencadeia uma notificação"
+    },
+    "heading:c19d1bb8fb7c": {
+      "_src": "Managing Notifications",
+      "text": "Gerenciando notificações"
+    },
+    "heading:98654fe7b20b": {
+      "_src": "Notification Categories",
+      "text": "Categorias de notificação"
+    },
+    "heading:f2cc838f8fd1": {
+      "_src": "In-App vs Email",
+      "text": "No aplicativo x e-mail"
+    },
+    "heading:2b8c36c07ed1": {
+      "_src": "Turning Things Off",
+      "text": "Desligando as coisas"
+    },
+    "body:e1d725008f0d": {
+      "_src": "**Portfolio Tracker** — Connect your wallets and see your full Canton portfolio with real-time prices, P&L, rewards, and transfer history.\n\n**Ecosystem Directory** — Browse hundreds of projects building on Canton Network, filterable by category, role, and status. Upvote your favorites.\n\n**Explore** — Unified discovery hub that surfaces projects, validators, and rewards side by side.\n\n**Compare** — Compare up to 4 projects (Pro) or validators side by side.\n\n**Earn** — Complete tasks, discover opportunities, and join campaigns to earn XP and climb the leaderboard.\n\n**Academy** — Read curated articles and hands-on guides about Canton and CCTools, written by the community. Publish your own with the post submission flow.\n\n**News** — Canton-focused news feed with LLM summaries, plus a community feed of member-submitted posts. Search, filter, and subscribe to new content notifications.\n\n**Learn Paths** — Multi-step structured learning tracks that guide you through Canton, CCTools, and related topics.\n\n**Rewards Calculator** — Calculate potential rewards as an App Builder, Validator, or CC Holder.\n\n**Network Stats** — Real-time Canton Network metrics with TradingView integration.\n\n**Governance** — Track Super Validator votes and governance proposals.\n\n**Leaderboard** — See where you rank among other CCTools users with standard, weekly, and bracket views.\n\n**Reputation** — A second progression track alongside XP/levels, measuring the quality of your submissions and community contributions.",
+      "text": "**Portfolio Tracker** — Conecte suas carteiras e veja todo o seu portfólio Canton com preços, lucros e perdas, recompensas e histórico de transferências em tempo real.\n\n**Diretório de ecossistemas** — Navegue por centenas de projetos desenvolvidos na Canton Network, filtráveis ​​por categoria, função e status. Vote positivamente em seus favoritos.\n\n**Explorar** — Hub de descoberta unificado que apresenta projetos, validadores e recompensas lado a lado.\n\n**Comparar** — Compare até 4 projetos (Pro) ou validadores lado a lado.\n\n**Ganhe** — Conclua tarefas, descubra oportunidades e participe de campanhas para ganhar XP e subir na tabela de classificação.\n\n**Academia** — Leia artigos selecionados e guias práticos sobre Canton e CCTools, escritos pela comunidade. Publique o seu próprio com o fluxo de pós-envio.\n\n**Notícias** — Feed de notícias focado em Cantão com resumos do LLM, além de um feed da comunidade com postagens enviadas por membros. Pesquise, filtre e assine notificações de novos conteúdos.\n\n**Caminhos de aprendizagem** — Trilhos de aprendizagem estruturados em várias etapas que guiam você pelo Canton, CCTools e tópicos relacionados.\n\n**Calculadora de recompensas** — Calcule recompensas potenciais como criador de aplicativos, validador ou titular de CC.\n\n**Estatísticas da rede** — Métricas da Canton Network em tempo real com integração do TradingView.\n\n**Governança** — Acompanhe os votos e propostas de governança do Super Validador.\n\n**Tabela de classificação** — Veja sua classificação entre outros usuários do CCTools com visualizações padrão, semanais e de colchetes.\n\n**Reputação** — Um segundo caminho de progressão junto com XP/níveis, que mede a qualidade de seus envios e contribuições da comunidade."
+    },
+    "body:258a4374968c": {
+      "_src": "The left sidebar is your main navigation hub. It contains links to all major sections:\n\n- **Overview** — Your personalized dashboard\n- **Portfolio** — Wallet tracking and P&L\n- **Ecosystem** — Project directory with hundreds of projects\n- **Explore** — Unified hub for projects, validators, and rewards in one view\n- **Earn** — Quests, campaigns, and opportunities\n- **Academy** — Community articles and guides about Canton and CCTools\n- **News** — Canton news feed and community posts\n- **Learn** — Educational content and multi-step learning paths\n- **Governance** — Super Validator votes and proposals\n- **Network Stats** — On-chain analytics and TradingView charts\n- **Leaderboard** — Community rankings (standard, weekly, bracket)\n- **$CC Token** — Token info, burn/mint charts\n- **Validators** — Validator list and performance\n- **Compare** — Side-by-side project comparison (2 free, 4 Pro)\n- **Calculator** — App Builder, Validator, and CC Holder calculators\n\nYou can collapse the sidebar by clicking the collapse icon at the bottom.",
+      "text": "A barra lateral esquerda é o seu principal centro de navegação. Ele contém links para todas as seções principais:\n\n- **Visão geral** — Seu painel personalizado\n- **Portfólio** — Rastreamento de carteira e P&L\n- **Ecossistema** — Diretório de projetos com centenas de projetos\n- **Explorar** — Hub unificado para projetos, validadores e recompensas em uma única visualização\n- **Ganhe** — Missões, campanhas e oportunidades\n- **Academy** — Artigos e guias da comunidade sobre Canton e CCTools\n- **Notícias** — Feed de notícias de Canton e postagens na comunidade\n- **Aprenda** — Conteúdo educacional e caminhos de aprendizagem em várias etapas\n- **Governança** — Votos e propostas do Super Validador\n- **Estatísticas de rede** — Análises on-chain e gráficos TradingView\n- **Tabela de classificação** — Classificações da comunidade (padrão, semanal, chave)\n- **$CC Token** — Informações do token, gráficos de queima/mint\n- **Validadores** — Lista e desempenho de validadores\n- **Comparar** — Comparação de projetos lado a lado (2 gratuitos, 4 Pro)\n- **Calculadora** — Calculadoras App Builder, Validator e CC Holder\n\nVocê pode recolher a barra lateral clicando no ícone de recolher na parte inferior."
+    },
+    "body:b323c037feed": {
+      "_src": "**Explore** is a hub page designed for discovery. Instead of jumping between Ecosystem, Validators, and Earn separately, Explore pulls the most relevant slice of each into a single scroll:\n\n- **Projects** — A live grid of featured, trending, and newly-added projects\n- **Validators** — Top-ranked validators by rewards and uptime\n- **Rewards & Opportunities** — The current best earn picks\n\nIt's the fastest way to see \"what's worth clicking on right now\" across the whole Canton ecosystem.",
+      "text": "**Explorar** é uma página central projetada para descoberta. Em vez de alternar entre ecossistema, validadores e ganhos separadamente, o Explore reúne a fatia mais relevante de cada um em um único pergaminho:\n\n- **Projetos** — Uma grade ao vivo de projetos em destaque, tendências e recém-adicionados\n- **Validadores** — Validadores mais bem classificados por recompensas e tempo de atividade\n- **Recompensas e oportunidades** — As melhores escolhas atuais de ganhos\n\nÉ a maneira mais rápida de ver \"no que vale a pena clicar agora\" em todo o ecossistema de Canton."
+    },
+    "body:a6fd96dc9386": {
+      "_src": "Explore is backed by a **warm graph cache** that rebuilds every 5 minutes behind the scenes. Data never looks stale, and the page loads instantly even when there are thousands of underlying records to rank and filter.",
+      "text": "O Explore é apoiado por um **cache gráfico quente** que é reconstruído a cada 5 minutos nos bastidores. Os dados nunca parecem desatualizados e a página carrega instantaneamente, mesmo quando há milhares de registros subjacentes para classificar e filtrar."
+    },
+    "body:a7bd35ad7101": {
+      "_src": "- Use **Explore** when you want a quick, opinionated surface — \"show me what's interesting now\"\n- Use **Ecosystem** when you want to browse the full directory with filters, search, and detailed compare tools",
+      "text": "- Use **Explorar** quando quiser uma superfície rápida e opinativa — \"mostre-me o que é interessante agora\"\n- Use **Ecossistema** quando quiser navegar pelo diretório completo com filtros, pesquisa e ferramentas de comparação detalhadas"
+    },
+    "body:e9e36533d068": {
+      "_src": "Reputation is a second progression track that runs alongside XP and levels. Where **XP** measures activity (logins, upvotes, views), **Reputation** measures the **quality of your contributions** to the platform.\n\nReputation is shown on your profile and next to your username in places like Academy author cards, community posts, and comments — so others can quickly see how trusted your contributions are.",
+      "text": "A reputação é uma segunda trilha de progressão que acompanha o XP e os níveis. Enquanto o **XP** mede a atividade (logins, votos positivos, visualizações), a **Reputação** mede a **qualidade de suas contribuições** para a plataforma.\n\nA reputação é mostrada no seu perfil e ao lado do seu nome de usuário em locais como cartões de autor da Academia, postagens na comunidade e comentários, para que outras pessoas possam ver rapidamente o quão confiáveis ​​são suas contribuições."
+    },
+    "body:f99b3c51141f": {
+      "_src": "You gain reputation when the community and moderators validate your contributions:\n\n- **Approved project submissions** — Suggest a project to the Ecosystem and get it approved\n- **Approved ecosystem edits** — Submit accurate edits to existing project data\n- **Approved Earn opportunities** — Suggest opportunities that get added\n- **Published Academy posts** — Write articles or guides that pass editorial review\n- **Approved news submissions** — Community posts that get accepted into the news feed\n- **Helpful feedback** — Bug reports and feedback that lead to improvements\n\nEach approved contribution awards reputation points. The value scales with the type and quality of the contribution.",
+      "text": "Você ganha reputação quando a comunidade e os moderadores validam suas contribuições:\n\n- **Envios de projetos aprovados** — Sugira um projeto ao Ecossistema e obtenha sua aprovação\n- **Edições aprovadas no ecossistema** — Envie edições precisas nos dados do projeto existente\n- **Oportunidades de ganho aprovadas** — Sugira oportunidades que serão adicionadas\n- **Postagens publicadas na Academia** — Escreva artigos ou guias que passem na revisão editorial\n- **Envios de notícias aprovados** — Postagens da comunidade que são aceitas no feed de notícias\n- **Feedback útil** — Relatórios de bugs e feedback que levam a melhorias\n\nCada contribuição aprovada concede pontos de reputação. O valor varia de acordo com o tipo e a qualidade da contribuição."
+    },
+    "body:d5610b59d8dc": {
+      "_src": "Reputation goes down as well as up:\n\n- **Rejected submissions** — Spammy or low-quality submissions lose reputation\n- **Auto-penalty** — Multiple rejections in a short window trigger an automatic reputation hit\n- **Inactivity decay** — A small amount of reputation decays during long periods of inactivity, so leaderboards stay fresh\n\nThis ensures reputation reflects current, genuine contribution — not historical activity that stopped long ago.",
+      "text": "A reputação tanto diminui quanto aumenta:\n\n- **Envios rejeitados** — Envios com spam ou de baixa qualidade perdem reputação\n- **Penalidade automática** — Múltiplas rejeições em um curto espaço de tempo acionam um impacto automático na reputação\n- **Decadência de inatividade** — Uma pequena quantidade de reputação diminui durante longos períodos de inatividade, para que as tabelas de classificação permaneçam atualizadas\n\nIsso garante que a reputação reflita a contribuição atual e genuína — e não uma atividade histórica que parou há muito tempo."
+    },
+    "body:7e8e8e6607cd": {
+      "_src": "Reputation is grouped into ten tiers, each with its own name and color, shown as a colored pill next to your name:\n\n- Newcomer → Contributor → Trusted → Established → Veteran → Authority → Expert → Elite → Legendary → Mythic\n\nHigher tiers unlock community trust — for example, curators and trusted reviewers tend to come from higher reputation tiers. Future features (weighted upvotes, moderation queues, featured authorship) will use reputation as a signal.",
+      "text": "A reputação é agrupada em dez níveis, cada um com seu próprio nome e cor, mostrados como uma pílula colorida ao lado do seu nome:\n\n- Iniciante → Colaborador → Confiável → Estabelecido → Veterano → Autoridade → Especialista → Elite → Lendário → Mítico\n\nNíveis mais altos desbloqueiam a confiança da comunidade – por exemplo, curadores e revisores de confiança tendem a vir de níveis de reputação mais elevados. Recursos futuros (votos positivos ponderados, filas de moderação, autoria em destaque) usarão a reputação como um sinal."
+    },
+    "body:681187b2a002": {
+      "_src": "Learn Paths are **structured multi-step courses** available in the **Learn** section. Each path is a curated sequence of lessons that takes you from zero to competent on a specific topic — Canton fundamentals, building on Canton, using CCTools like a power user, understanding governance, and more.\n\nUnlike one-off articles, paths track your progress step by step, so you always know where to pick up.",
+      "text": "Os Caminhos de aprendizagem são **cursos estruturados de várias etapas** disponíveis na seção **Aprender**. Cada caminho é uma sequência selecionada de lições que leva você do zero à competência em um tópico específico - fundamentos do Canton, desenvolvimento do Canton, uso do CCTools como um usuário avançado, compreensão da governança e muito mais.\n\nAo contrário dos artigos únicos, os caminhos acompanham seu progresso passo a passo, para que você sempre saiba onde continuar."
+    },
+    "body:846e148f9489": {
+      "_src": "To start a path:\n\n1. Go to **Learn** in the sidebar\n2. Browse the list of available paths\n3. Click a path to open its overview and step list\n4. Start at step 1 or jump to any unlocked step\n\nAs you complete steps, your progress is saved to your account. You can pause and resume paths freely — CCTools remembers where you stopped.",
+      "text": "Para iniciar um caminho:\n\n1. Acesse **Aprender** na barra lateral\n2. Navegue pela lista de caminhos disponíveis\n3. Clique em um caminho para abrir sua visão geral e lista de etapas\n4. Comece na etapa 1 ou pule para qualquer etapa desbloqueada\n\nConforme você conclui as etapas, seu progresso é salvo em sua conta. Você pode pausar e retomar caminhos livremente – o CCTools lembra onde você parou."
+    },
+    "body:82e38b0e1671": {
+      "_src": "Completing a path earns XP, and selected paths award dedicated badges. New content (paths, steps, or major updates) triggers a notification on your Overview so you never miss a new learning opportunity.",
+      "text": "Completar um caminho ganha XP, e os caminhos selecionados concedem emblemas dedicados. Novo conteúdo (caminhos, etapas ou atualizações importantes) aciona uma notificação na sua Visão Geral para que você nunca perca uma nova oportunidade de aprendizado."
+    },
+    "body:e2c024649e66": {
+      "_src": "Academy posts come in two formats, each optimized for a different purpose:\n\n**Articles** — Editorial long-form reads. Structure: kicker, reading focus, intro, sections (each with optional callouts, pull-quotes, and inline images), key points, takeaways, FAQ, resources, and a final CTA.\n\n**Guides** — Hands-on step-by-step tutorials. Structure: estimated time, goal, prerequisites, what you'll build, numbered steps, troubleshooting, takeaways, resources, and a CTA.\n\nThe format is chosen when the post is written and drives both the author template and the reader layout.",
+      "text": "As postagens da Academia vêm em dois formatos, cada um otimizado para uma finalidade diferente:\n\n**Artigos** — Leituras editoriais longas. Estrutura: kicker, foco de leitura, introdução, seções (cada uma com textos explicativos opcionais, citações e imagens embutidas), pontos-chave, conclusões, perguntas frequentes, recursos e um CTA final.\n\n**Guias** — Tutoriais práticos passo a passo. Estrutura: tempo estimado, meta, pré-requisitos, o que você construirá, etapas numeradas, solução de problemas, conclusões, recursos e um CTA.\n\nO formato é escolhido quando a postagem é escrita e orienta tanto o modelo do autor quanto o layout do leitor."
+    },
+    "body:543788ab5deb": {
+      "_src": "Anything published in Academy is either:\n\n- Written by the **CCTools editorial team**, or\n- Written by a **community author** and approved through the review flow\n\nEach post page shows a rich **Author Card** with the writer's avatar, display name, Level, Reputation tier, total XP, and a link to their public profile. Community posts without an attached author fall back to a \"CCTools Editorial\" byline.",
+      "text": "Qualquer coisa publicada na Academia é:\n\n- Escrito pela **equipe editorial do CCTools**, ou\n- Escrito por um **autor da comunidade** e aprovado através do fluxo de revisão\n\nCada página de postagem mostra um **Cartão de Autor** rico com o avatar do escritor, nome de exibição, nível, nível de reputação, XP total e um link para seu perfil público. Postagens da comunidade sem um autor anexado voltam para a assinatura \"CCTools Editorial\"."
+    },
+    "body:b07135ce7921": {
+      "_src": "The **Academy** landing page lists the latest posts, filterable by format (article / guide) and by topic tag. Individual posts also surface:\n\n- **More from author** — Up to 3 other recent posts by the same writer\n- **Related posts** — Posts sharing tags with the one you're reading\n- **Related projects** — Ecosystem projects referenced in the post",
+      "text": "A página inicial da **Academia** lista as postagens mais recentes, filtráveis ​​por formato (artigo/guia) e por tag de tópico. Postagens individuais também aparecem:\n\n- **Mais do autor** — Até 3 outras postagens recentes do mesmo escritor\n- **Postagens relacionadas** — Postagens que compartilham tags com quem você está lendo\n- **Projetos relacionados** — Projetos de ecossistemas mencionados na postagem"
+    },
+    "body:f4268c0be8c2": {
+      "_src": "Each post has a full-width adaptive layout with:\n\n- A hero section with title, kicker, estimated reading time, and tags\n- The cover image (when provided)\n- The body rendered with rich formatting: bold, inline links, paragraph spacing, callouts, pull-quotes, inline images, and numbered steps for guides\n- A sticky sidebar on desktop (or a collapsible Table of Contents on mobile) for quick navigation\n- An **Author Card** at the end with a link to the author's public profile",
+      "text": "Cada postagem tem um layout adaptativo de largura total com:\n\n- Uma seção de herói com título, kicker, tempo estimado de leitura e tags\n- A imagem da capa (quando fornecida)\n- O corpo renderizado com formatação avançada: negrito, links embutidos, espaçamento entre parágrafos, textos explicativos, citações, imagens embutidas e etapas numeradas para guias\n- Uma barra lateral fixa no desktop (ou um índice recolhível no celular) para navegação rápida\n- Um **Cartão do Autor** no final com um link para o perfil público do autor"
+    },
+    "body:ed766a73137c": {
+      "_src": "If a post is genuinely useful, upvote it to boost its visibility. Academy upvotes work like the rest of the platform:\n\n- Upvoting requires **Level 4**\n- You can cast **1 academy upvote per UTC day** — across **all posts combined**, not per post\n- The counter resets at **midnight UTC**\n- You can **unvote** the same day to free up your daily slot, then vote on a different post\n- A small timer on the upvote button tells you when your next slot opens\n\nThis keeps upvotes a scarce, meaningful signal rather than a spammable click.",
+      "text": "Se uma postagem for genuinamente útil, vote positivamente para aumentar sua visibilidade. Os votos positivos da Academia funcionam como o resto da plataforma:\n\n- A votação positiva requer **Nível 4**\n- Você pode lançar **1 voto positivo da academia por dia UTC** — em **todas as postagens combinadas**, não por postagem\n- O contador é reiniciado à **meia-noite UTC**\n- Você pode cancelar a votação** no mesmo dia para liberar seu espaço diário e depois votar em uma postagem diferente\n- Um pequeno cronômetro no botão de voto positivo informa quando seu próximo slot é aberto\n\nIsso mantém os votos positivos como um sinal escasso e significativo, em vez de um clique que pode ser spam."
+    },
+    "body:917d8a1f30a4": {
+      "_src": "Each post has a Share card in the sidebar with one-click links for X, Telegram, and copy-to-clipboard. Post URLs are shareable and public — anyone can read them, logged in or not.",
+      "text": "Cada postagem tem um cartão de compartilhamento na barra lateral com links de um clique para X, Telegram e cópia para área de transferência. Os URLs das postagens são compartilháveis ​​e públicos – qualquer pessoa pode lê-los, esteja logado ou não."
+    },
+    "body:ae06bd434d6e": {
+      "_src": "Go to **Academy → Submit Post** to open the writer. You choose whether to write an **Article** or a **Guide** at the top — the rest of the form adapts to the format you pick.\n\nYou don't have to finish in one session. Drafts are saved, so you can step away and come back.",
+      "text": "Vá para **Academia → Enviar postagem** para abrir o escritor. Você escolhe se deseja escrever um **Artigo** ou um **Guia** na parte superior — o resto do formulário se adapta ao formato que você escolher.\n\nVocê não precisa terminar em uma sessão. Os rascunhos são salvos para que você possa sair e voltar."
+    },
+    "body:2c29a27e83a3": {
+      "_src": "Common fields:\n\n- **Title** and **slug** (auto-generated from the title)\n- **Cover image URL**\n- **Tags** (used for filtering and related-post matching)\n- **Reading time** (or estimated time for guides — auto-calculated as you write)\n\nArticle-specific fields: kicker, reading focus, intro, sections (with optional callouts / pull-quotes / inline images), key points, takeaways, FAQ, resources, CTA.\n\nGuide-specific fields: goal, prerequisites, what you'll build, numbered steps (each step with optional code / image / tip), troubleshooting, takeaways, resources, CTA.\n\nThe writer uses a plain-text body with inline formatting — **bold** (`**text**`), links (`[label](url)`), and blank-line paragraphs. The writer has an always-visible formatting help panel explaining which syntax is supported and what is intentionally not (raw HTML is stripped for safety).",
+      "text": "Campos comuns:\n\n- **Título** e **slug** (gerados automaticamente a partir do título)\n- **URL da imagem da capa**\n- **Tags** (usadas para filtragem e correspondência de postagens relacionadas)\n- **Tempo de leitura** (ou tempo estimado para guias — calculado automaticamente conforme você escreve)\n\nCampos específicos do artigo: kicker, foco de leitura, introdução, seções (com textos explicativos / citações / imagens embutidas opcionais), pontos-chave, conclusões, perguntas frequentes, recursos, CTA.\n\nCampos específicos do guia: objetivo, pré-requisitos, o que você construirá, etapas numeradas (cada etapa com código/imagem/dica opcional), solução de problemas, conclusões, recursos, CTA.\n\nO redator usa um corpo de texto simples com formatação embutida - **negrito** (`**text**`), links (`[label](url)`) e parágrafos de linhas em branco. O escritor tem um painel de ajuda de formatação sempre visível explicando qual sintaxe é suportada e o que não é intencionalmente (o HTML bruto é removido por segurança)."
+    },
+    "body:e4cb1b3dbafd": {
+      "_src": "When you submit, your post enters the **moderation queue**. The CCTools team reviews for:\n\n- Factual accuracy (especially Canton-specific claims)\n- Originality (no copy-paste content without credit)\n- Formatting sanity (images load, links work, structure follows the template)\n- Relevance to the Canton Network ecosystem\n\nOutcomes:\n\n- **Approved** — Post goes live on Academy and is credited to your profile\n- **Requested changes** — You get feedback and can edit and resubmit\n- **Rejected** — Out-of-scope or low-effort submissions. Repeated rejections affect reputation.\n\nPublished posts earn you XP and reputation, count toward your post count on your public profile, and can be shared freely.",
+      "text": "Quando você envia, sua postagem entra na **fila de moderação**. A equipe CCTools analisa:\n\n- Precisão factual (especialmente reivindicações específicas de Cantão)\n- Originalidade (sem conteúdo de copiar e colar sem crédito)\n- Sanidade de formatação (carregamento de imagens, links funcionam, estrutura segue o modelo)\n- Relevância para o ecossistema da Canton Network\n\nResultados:\n\n- **Aprovado** — A postagem vai ao ar na Academia e é creditada em seu perfil\n- **Alterações solicitadas** — Você recebe feedback e pode editar e reenviar\n- **Rejeitado** — Envios fora do escopo ou de baixo esforço. Rejeições repetidas afetam a reputação.\n\nPostagens publicadas rendem XP e reputação, contam para a contagem de postagens em seu perfil público e podem ser compartilhadas livremente."
+    },
+    "body:f3284e920dac": {
+      "_src": "The **News** page has two channels behind a tab switcher at the top:\n\n- **News** — Curated Canton Network coverage from the web. Items are pulled from Google News and RSS sources, then summarized by an LLM so you can get the essentials in a sentence or two without clicking through.\n- **Community** — Member-submitted posts: announcements, takes, threads, write-ups, and updates shared by other CCTools users.\n\nEach tab shows a live count of how many items exist in that channel so you always know how much there is to read.",
+      "text": "A página **Notícias** tem dois canais atrás de um alternador de guias na parte superior:\n\n- **Notícias** — Cobertura selecionada da Canton Network na web. Os itens são extraídos de fontes do Google News e RSS e, em seguida, resumidos por um LLM para que você possa obter o essencial em uma ou duas frases sem clicar.\n- **Comunidade** — Postagens enviadas por membros: anúncios, tomadas, tópicos, artigos e atualizações compartilhadas por outros usuários do CCTools.\n\nCada guia mostra uma contagem ao vivo de quantos itens existem naquele canal para que você sempre saiba quanto há para ler."
+    },
+    "body:a554517d6eed": {
+      "_src": "News ingestion runs **every 10 minutes**. The pipeline:\n\n1. Queries Google News (via Serper) for Canton-related keywords\n2. Merges items from curated RSS feeds\n3. **Deduplicates** across publishers using a normalized title key — the same story from two outlets only appears once\n4. Runs an LLM summary on each new article\n5. Publishes to the feed\n\nThe community feed updates in real time as new posts are submitted and approved.",
+      "text": "A ingestão de notícias ocorre **a cada 10 minutos**. O gasoduto:\n\n1. Consulta o Google News (via Serper) para palavras-chave relacionadas a Cantão\n2. Mescla itens de feeds RSS selecionados\n3. **Desduplicações** entre editores usando uma chave de título normalizada — a mesma história de dois veículos aparece apenas uma vez\n4. Executa um resumo LLM sobre cada novo artigo\n5. Publica no feed\n\nO feed da comunidade é atualizado em tempo real à medida que novas postagens são enviadas e aprovadas."
+    },
+    "body:75fac523ed5f": {
+      "_src": "Click any item to open its detail page, which shows the full summary, source link, publication date, and any related Canton projects mentioned. For community posts, you also see the author's Level and Reputation tier — the same author card shown on Academy posts.",
+      "text": "Clique em qualquer item para abrir sua página de detalhes, que mostra o resumo completo, link da fonte, data de publicação e quaisquer projetos relacionados em Cantão mencionados. Para postagens na comunidade, você também vê o nível e o nível de reputação do autor — o mesmo cartão de autor mostrado nas postagens da Academia."
+    },
+    "body:1da987220c59": {
+      "_src": "The search bar at the top of the page matches against titles, summaries, and source names. Searching triggers a deeper fetch — instead of the initial cached top items, CCTools loads the full recent archive for the channel you're in so you can find older stories.",
+      "text": "A barra de pesquisa na parte superior da página corresponde a títulos, resumos e nomes de fontes. A pesquisa aciona uma busca mais profunda - em vez dos principais itens iniciais armazenados em cache, o CCTools carrega o arquivo recente completo do canal em que você está, para que você possa encontrar histórias mais antigas."
+    },
+    "body:195a6341f6e5": {
+      "_src": "Each feed starts with the most recent items and a **Load More** button at the bottom. Clicking it fetches the next page without reloading the page. The tab badges always show the true total in the database, not just what's currently loaded.",
+      "text": "Cada feed começa com os itens mais recentes e um botão **Carregar mais** na parte inferior. Clicar nele busca a próxima página sem recarregar a página. Os emblemas das guias sempre mostram o total verdadeiro no banco de dados, não apenas o que está carregado no momento."
+    },
+    "body:266f214ffcd7": {
+      "_src": "To submit a community post, open the Community tab and click **Submit**. Community submissions go through the same moderation queue as Academy posts and earn XP / reputation when approved.",
+      "text": "Para enviar uma postagem da comunidade, abra a guia Comunidade e clique em **Enviar**. Os envios da comunidade passam pela mesma fila de moderação das postagens da Academia e ganham XP/reputação quando aprovados."
+    },
+    "body:ec007bc6507a": {
+      "_src": "CCTools scans the database for newly-added content every 30 minutes. You'll be notified (in-app, and optionally by email) when:\n\n- A new **project** is added to the Ecosystem\n- A new **Earn opportunity** goes live\n- A new **campaign** is launched\n- A new **Academy post** is published\n- A new **Learn Path** is released\n\nThis keeps you at the edge of what's happening in the ecosystem without having to check every page manually.",
+      "text": "CCTools verifica o banco de dados em busca de conteúdo recém-adicionado a cada 30 minutos. Você será notificado (no aplicativo e opcionalmente por e-mail) quando:\n\n- Um novo **projeto** é adicionado ao Ecossistema\n- Uma nova **oportunidade de ganho** será lançada\n- Uma nova **campanha** é lançada\n- Uma nova **postagem da Academia** é publicada\n- Um novo **Learn Path** é lançado\n\nIsso mantém você atualizado sobre o que está acontecendo no ecossistema, sem precisar verificar cada página manualmente."
+    },
+    "body:a7786078ee7c": {
+      "_src": "You control which notification categories are active in **Settings → Notifications**. Turn individual channels on or off, and decide whether each channel also sends you an email.\n\nEmails are batched every 10 minutes, so you never get a wall of separate emails — you get one digest covering everything that triggered since the last batch.",
+      "text": "Você controla quais categorias de notificação estão ativas em **Configurações → Notificações**. Ative ou desative canais individuais e decida se cada canal também envia um e-mail para você.\n\nOs e-mails são agrupados em lote a cada 10 minutos, então você nunca recebe uma parede de e-mails separados – você recebe um resumo cobrindo tudo o que foi acionado desde o último lote."
+    },
+    "body:b6b83a6644ed": {
+      "_src": "CCTools sends notifications for several distinct events:\n\n- **New content** — New projects, Earn opportunities, campaigns, Academy posts, and Learn paths\n- **Your submissions** — Status updates when your submitted project, opportunity, or post is approved / rejected / needs changes\n- **Upvotes & engagement** — When your content receives upvotes or comments\n- **Referrals** — When a referred user completes tasks or confirms their referral\n- **Governance alerts** — When new Super Validator proposals open or close\n- **System** — Account security events (new login, password change, 2FA changes)",
+      "text": "CCTools envia notificações para diversos eventos distintos:\n\n- **Novo conteúdo** — Novos projetos, oportunidades de ganho, campanhas, publicações na Academia e caminhos de aprendizagem\n- **Seus envios** — Atualizações de status quando seu projeto, oportunidade ou postagem enviada for aprovada/rejeitada/precisar de alterações\n- **Votos positivos e engajamento** — Quando seu conteúdo recebe votos positivos ou comentários\n- **Referências** — Quando um usuário indicado conclui tarefas ou confirma sua indicação\n- **Alertas de governança** — Quando novas propostas do Super Validador abrem ou fecham\n- **Sistema** — Eventos de segurança da conta (novo login, alteração de senha, alterações 2FA)"
+    },
+    "body:fb8e55ef7922": {
+      "_src": "Every notification appears in the **bell dropdown** in the top bar. You can additionally enable **email delivery** per category in **Settings → Notifications**.\n\nEmails are **batched every 10 minutes** — you'll never get a flood of separate emails. Each batch is a single digest covering everything that happened in that window.\n\nSecurity-sensitive notifications (login from new device, password reset) are always sent by email and cannot be disabled.",
+      "text": "Cada notificação aparece no **menu suspenso do sino** na barra superior. Você também pode ativar a **entrega de e-mail** por categoria em **Configurações → Notificações**.\n\nOs e-mails são **em lotes a cada 10 minutos** — você nunca receberá uma enxurrada de e-mails separados. Cada lote é um resumo único que cobre tudo o que aconteceu naquela janela.\n\nNotificações sensíveis à segurança (login a partir de um novo dispositivo, redefinição de senha) são sempre enviadas por e-mail e não podem ser desativadas."
+    },
+    "body:6f8441b5eb01": {
+      "_src": "Go to **Settings → Notifications** to toggle each category independently. You can also use the **Unsubscribe** link at the bottom of any email to quickly turn off the category that sent it.",
+      "text": "Vá para **Configurações → Notificações** para alternar cada categoria de forma independente. Você também pode usar o link **Cancelar inscrição** na parte inferior de qualquer e-mail para desativar rapidamente a categoria que o enviou."
     }
   }
 }
