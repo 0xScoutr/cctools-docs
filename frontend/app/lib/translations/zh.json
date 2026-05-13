@@ -1,7 +1,7 @@
 {
   "_meta": {
     "locale": "zh",
-    "updatedAt": "2026-04-22T11:51:41.707Z"
+    "updatedAt": "2026-05-13T19:05:06.009Z"
   },
   "strings": {
     "title:bf647454e360": {
@@ -912,10 +912,6 @@
       "_src": "The Explore Hub",
       "text": "探索中心"
     },
-    "title:324f9c43ace7": {
-      "_src": "Reputation System",
-      "text": "信誉系统"
-    },
     "title:4b7e23113b9c": {
       "_src": "Learn Paths",
       "text": "学习路径"
@@ -968,10 +964,6 @@
       "_src": "Explore is a unified discovery page that surfaces projects, validators, and rewards side by side.",
       "text": "Explore 是一个统一的发现页面，并排显示项目、验证器和奖励。"
     },
-    "summary:e77b6cdb3f12": {
-      "_src": "Reputation is a quality signal separate from XP — earned through approved submissions and community contributions.",
-      "text": "声誉是一种独立于 XP 的质量信号——通过批准的提交和社区贡献获得。"
-    },
     "summary:6ae2b6a8088c": {
       "_src": "Multi-step structured learning tracks that guide you through Canton, CCTools, and related topics.",
       "text": "多步骤结构化学习轨道可指导您完成 Canton、CCTools 和相关主题。"
@@ -1015,22 +1007,6 @@
     "heading:792334df53b2": {
       "_src": "When to Use Explore vs Ecosystem",
       "text": "何时使用探索与生态系统"
-    },
-    "heading:4a3fa3545615": {
-      "_src": "Reputation vs XP",
-      "text": "声誉与 XP"
-    },
-    "heading:6381ce8657bd": {
-      "_src": "How You Earn Reputation",
-      "text": "如何赢得声誉"
-    },
-    "heading:c61ece237b0a": {
-      "_src": "Reputation Penalties & Decay",
-      "text": "声誉惩罚和衰退"
-    },
-    "heading:955bab28a245": {
-      "_src": "Reputation Tiers",
-      "text": "声誉等级"
     },
     "heading:0bde2504149c": {
       "_src": "What are Learn Paths?",
@@ -1124,10 +1100,6 @@
       "_src": "Turning Things Off",
       "text": "关掉东西"
     },
-    "body:e1d725008f0d": {
-      "_src": "**Portfolio Tracker** — Connect your wallets and see your full Canton portfolio with real-time prices, P&L, rewards, and transfer history.\n\n**Ecosystem Directory** — Browse hundreds of projects building on Canton Network, filterable by category, role, and status. Upvote your favorites.\n\n**Explore** — Unified discovery hub that surfaces projects, validators, and rewards side by side.\n\n**Compare** — Compare up to 4 projects (Pro) or validators side by side.\n\n**Earn** — Complete tasks, discover opportunities, and join campaigns to earn XP and climb the leaderboard.\n\n**Academy** — Read curated articles and hands-on guides about Canton and CCTools, written by the community. Publish your own with the post submission flow.\n\n**News** — Canton-focused news feed with LLM summaries, plus a community feed of member-submitted posts. Search, filter, and subscribe to new content notifications.\n\n**Learn Paths** — Multi-step structured learning tracks that guide you through Canton, CCTools, and related topics.\n\n**Rewards Calculator** — Calculate potential rewards as an App Builder, Validator, or CC Holder.\n\n**Network Stats** — Real-time Canton Network metrics with TradingView integration.\n\n**Governance** — Track Super Validator votes and governance proposals.\n\n**Leaderboard** — See where you rank among other CCTools users with standard, weekly, and bracket views.\n\n**Reputation** — A second progression track alongside XP/levels, measuring the quality of your submissions and community contributions.",
-      "text": "**投资组合追踪器** — 连接您的钱包并查看您的完整 Canton 投资组合以及实时价格、损益、奖励和转账历史记录。\n\n**生态系统目录** — 浏览在 Canton Network 上构建的数百个项目，可按类别、角色和状态进行过滤。为你最喜欢的投票点赞。\n\n**探索** - 统一的发现中心，并排显示项目、验证器和奖励。\n\n**比较** — 并排比较最多 4 个项目（专业版）或验证器。\n\n**赚取** — 完成任务、发现机会并参加活动以赚取 XP 并登上排行榜。\n\n**学院** — 阅读社区撰写的关于 Canton 和 CCTools 的精选文章和实践指南。通过帖子提交流程发布您自己的内容。\n\n**新闻** — 以广州为中心的新闻源，包含法学硕士摘要，以及成员提交帖子的社区源。搜索、过滤和订阅新内容通知。\n\n**学习路径** — 多步骤结构化学习轨道，指导您完成 Canton、CCTools 和相关主题。\n\n**奖励计算器** — 计算作为应用程序构建者、验证者或 CC 持有者的潜在奖励。\n\n**网络统计** — 与 TradingView 集成的实时 Canton 网络指标。\n\n**治理** — 跟踪超级验证者投票和治理提案。\n\n**排行榜** — 通过标准视图、每周视图和分组视图查看您在其他 CCTools 用户中的排名。\n\n**声誉** — 与 XP/级别并列的第二个进展轨道，衡量您提交的内容和社区贡献的质量。"
-    },
     "body:258a4374968c": {
       "_src": "The left sidebar is your main navigation hub. It contains links to all major sections:\n\n- **Overview** — Your personalized dashboard\n- **Portfolio** — Wallet tracking and P&L\n- **Ecosystem** — Project directory with hundreds of projects\n- **Explore** — Unified hub for projects, validators, and rewards in one view\n- **Earn** — Quests, campaigns, and opportunities\n- **Academy** — Community articles and guides about Canton and CCTools\n- **News** — Canton news feed and community posts\n- **Learn** — Educational content and multi-step learning paths\n- **Governance** — Super Validator votes and proposals\n- **Network Stats** — On-chain analytics and TradingView charts\n- **Leaderboard** — Community rankings (standard, weekly, bracket)\n- **$CC Token** — Token info, burn/mint charts\n- **Validators** — Validator list and performance\n- **Compare** — Side-by-side project comparison (2 free, 4 Pro)\n- **Calculator** — App Builder, Validator, and CC Holder calculators\n\nYou can collapse the sidebar by clicking the collapse icon at the bottom.",
       "text": "左侧边栏是您的主要导航中心。它包含所有主要部分的链接：\n\n- **概述** — 您的个性化仪表板\n- **投资组合** — 钱包跟踪和损益\n- **Ecosystem** — 包含数百个项目的项目目录\n- **探索** — 在一个视图中提供项目、验证者和奖励的统一中心\n- **赚取** — 任务、活动和机会\n- **学院** — 有关 Canton 和 CCTools 的社区文章和指南\n- **新闻** — 坎顿新闻提要和社区帖子\n- **学习** — 教育内容和多步骤学习路径\n- **治理** - 超级验证者投票和提案\n- **网络统计** — 链上分析和 TradingView 图表\n- **排行榜** — 社区排名（标准、每周、分组）\n- **$CC 代币** — 代币信息、销毁/铸造图表\n- **验证者** - 验证者列表和性能\n- **比较** — 并排项目比较（2 个免费，4 个专业）\n- **计算器** — App Builder、验证器和 CC Holder 计算器\n\n您可以通过单击底部的折叠图标来折叠侧边栏。"
@@ -1144,22 +1116,6 @@
       "_src": "- Use **Explore** when you want a quick, opinionated surface — \"show me what's interesting now\"\n- Use **Ecosystem** when you want to browse the full directory with filters, search, and detailed compare tools",
       "text": "- 当您想要快速、固执己见的表面时，请使用**探索** - “告诉我现在有什么有趣的”\n- 当您想使用过滤器、搜索和详细比较工具浏览完整目录时，请使用 **Ecosystem**"
     },
-    "body:e9e36533d068": {
-      "_src": "Reputation is a second progression track that runs alongside XP and levels. Where **XP** measures activity (logins, upvotes, views), **Reputation** measures the **quality of your contributions** to the platform.\n\nReputation is shown on your profile and next to your username in places like Academy author cards, community posts, and comments — so others can quickly see how trusted your contributions are.",
-      "text": "声望是与 XP 和等级并列的第二个进展轨道。 **XP** 衡量活动（登录、点赞、浏览），而 **声誉** 衡量您对平台的**贡献质量**。\n\n声誉显示在您的个人资料上以及您的用户名旁边的学院作者卡、社区帖子和评论等位置，以便其他人可以快速了解您的贡献的可信度。"
-    },
-    "body:f99b3c51141f": {
-      "_src": "You gain reputation when the community and moderators validate your contributions:\n\n- **Approved project submissions** — Suggest a project to the Ecosystem and get it approved\n- **Approved ecosystem edits** — Submit accurate edits to existing project data\n- **Approved Earn opportunities** — Suggest opportunities that get added\n- **Published Academy posts** — Write articles or guides that pass editorial review\n- **Approved news submissions** — Community posts that get accepted into the news feed\n- **Helpful feedback** — Bug reports and feedback that lead to improvements\n\nEach approved contribution awards reputation points. The value scales with the type and quality of the contribution.",
-      "text": "当社区和版主验证您的贡献时，您将获得声誉：\n\n- **批准的项目提交** — 向生态系统建议一个项目并获得批准\n- **批准的生态系统编辑** — 提交对现有项目数据的准确编辑\n- **批准的赚取机会** — 建议添加的机会\n- **发表的学院帖子** — 撰写通过编辑审查的文章或指南\n- **批准的新闻提交** — 被新闻提要接受的社区帖子\n- **有用的反馈** - 可带来改进的错误报告和反馈\n\n每项获得批准的贡献都会奖励声誉积分。价值随着贡献的类型和质量而变化。"
-    },
-    "body:d5610b59d8dc": {
-      "_src": "Reputation goes down as well as up:\n\n- **Rejected submissions** — Spammy or low-quality submissions lose reputation\n- **Auto-penalty** — Multiple rejections in a short window trigger an automatic reputation hit\n- **Inactivity decay** — A small amount of reputation decays during long periods of inactivity, so leaderboards stay fresh\n\nThis ensures reputation reflects current, genuine contribution — not historical activity that stopped long ago.",
-      "text": "声誉有下降也有上升：\n\n- **拒绝提交** - 垃圾邮件或低质量的提交会失去声誉\n- **自动惩罚** — 短时间内多次拒绝会触发自动声誉打击\n- **不活动衰减** — 在长时间不活动期间，少量声誉会衰减，因此排行榜保持新鲜\n\n这确保声誉反映了当前的、真正的贡献，而不是很久以前停止的历史活动。"
-    },
-    "body:7e8e8e6607cd": {
-      "_src": "Reputation is grouped into ten tiers, each with its own name and color, shown as a colored pill next to your name:\n\n- Newcomer → Contributor → Trusted → Established → Veteran → Authority → Expert → Elite → Legendary → Mythic\n\nHigher tiers unlock community trust — for example, curators and trusted reviewers tend to come from higher reputation tiers. Future features (weighted upvotes, moderation queues, featured authorship) will use reputation as a signal.",
-      "text": "声誉分为十个等级，每个等级都有自己的名称和颜色，在您的名字旁边显示为彩色药丸：\n\n- 新人→贡献者→受信任→成熟→老手→权威→专家→精英→传奇→神话\n\n更高的层级可以释放社区信任——例如，策展人和值得信赖的审稿人往往来自更高的声誉层级。未来的功能（加权投票、审核队列、特色作者）将使用声誉作为信号。"
-    },
     "body:681187b2a002": {
       "_src": "Learn Paths are **structured multi-step courses** available in the **Learn** section. Each path is a curated sequence of lessons that takes you from zero to competent on a specific topic — Canton fundamentals, building on Canton, using CCTools like a power user, understanding governance, and more.\n\nUnlike one-off articles, paths track your progress step by step, so you always know where to pick up.",
       "text": "学习路径是**学习**部分中提供的**结构化多步骤课程**。每条路径都是一系列精心策划的课程，可让您从零到精通特定主题——Canton 基础知识、以 Canton 为基础、像高级用户一样使用 CCTools、了解治理等等。\n\n与一次性文章不同，路径会逐步跟踪您的进度，因此您始终知道从哪里开始。"
@@ -1175,10 +1131,6 @@
     "body:e2c024649e66": {
       "_src": "Academy posts come in two formats, each optimized for a different purpose:\n\n**Articles** — Editorial long-form reads. Structure: kicker, reading focus, intro, sections (each with optional callouts, pull-quotes, and inline images), key points, takeaways, FAQ, resources, and a final CTA.\n\n**Guides** — Hands-on step-by-step tutorials. Structure: estimated time, goal, prerequisites, what you'll build, numbered steps, troubleshooting, takeaways, resources, and a CTA.\n\nThe format is chosen when the post is written and drives both the author template and the reader layout.",
       "text": "学院帖子有两种格式，每种格式都针对不同的目的进行了优化：\n\n**文章** — 社论长篇读物。结构：引言、阅读焦点、简介、部分（每个部分都有可选的标注、引文和内嵌图像）、要点、要点、常见问题解答、资源和最终 CTA。\n\n**指南** — 动手操作的分步教程。结构：预计时间、目标、先决条件、您将构建的内容、编号步骤、故障排除、要点、资源和 CTA。\n\n格式是在撰写帖子时选择的，并驱动作者模板和读者布局。"
-    },
-    "body:543788ab5deb": {
-      "_src": "Anything published in Academy is either:\n\n- Written by the **CCTools editorial team**, or\n- Written by a **community author** and approved through the review flow\n\nEach post page shows a rich **Author Card** with the writer's avatar, display name, Level, Reputation tier, total XP, and a link to their public profile. Community posts without an attached author fall back to a \"CCTools Editorial\" byline.",
-      "text": "在学院发布的任何内容都是：\n\n- 由 **CCTools 编辑团队**撰写，或\n- 由**社区作者**撰写并通过审核流程批准\n\n每个帖子页面都会显示丰富的**作者卡**，其中包含作者的头像、显示名称、级别、声誉等级、总 XP 以及指向其公开个人资料的链接。没有附加作者的社区帖子会回退到“CCTools 社论”署名。"
     },
     "body:b07135ce7921": {
       "_src": "The **Academy** landing page lists the latest posts, filterable by format (article / guide) and by topic tag. Individual posts also surface:\n\n- **More from author** — Up to 3 other recent posts by the same writer\n- **Related posts** — Posts sharing tags with the one you're reading\n- **Related projects** — Ecosystem projects referenced in the post",
@@ -1204,10 +1156,6 @@
       "_src": "Common fields:\n\n- **Title** and **slug** (auto-generated from the title)\n- **Cover image URL**\n- **Tags** (used for filtering and related-post matching)\n- **Reading time** (or estimated time for guides — auto-calculated as you write)\n\nArticle-specific fields: kicker, reading focus, intro, sections (with optional callouts / pull-quotes / inline images), key points, takeaways, FAQ, resources, CTA.\n\nGuide-specific fields: goal, prerequisites, what you'll build, numbered steps (each step with optional code / image / tip), troubleshooting, takeaways, resources, CTA.\n\nThe writer uses a plain-text body with inline formatting — **bold** (`**text**`), links (`[label](url)`), and blank-line paragraphs. The writer has an always-visible formatting help panel explaining which syntax is supported and what is intentionally not (raw HTML is stripped for safety).",
       "text": "常见字段：\n\n- **标题**和**slug**（从标题自动生成）\n- **封面图片网址**\n- **标签**（用于过滤和相关帖子匹配）\n- **阅读时间**（或指南的估计时间 - 在您编写时自动计算）\n\n文章特定字段：引子、阅读焦点、简介、章节（带有可选的标注/引文/内嵌图像）、要点、要点、常见问题解答、资源、CTA。\n\n指南特定字段：目标、先决条件、您将构建的内容、编号步骤（每个步骤都带有可选代码/图像/提示）、故障排除、要点、资源、CTA。\n\n作者使用具有内联格式的纯文本正文 - **粗体**（`**文本**`）、链接（`[label](url)`）和空行段落。作者有一个始终可见的格式帮助面板，解释支持哪些语法以及故意不支持哪些语法（为了安全起见，原始 HTML 被删除）。"
     },
-    "body:e4cb1b3dbafd": {
-      "_src": "When you submit, your post enters the **moderation queue**. The CCTools team reviews for:\n\n- Factual accuracy (especially Canton-specific claims)\n- Originality (no copy-paste content without credit)\n- Formatting sanity (images load, links work, structure follows the template)\n- Relevance to the Canton Network ecosystem\n\nOutcomes:\n\n- **Approved** — Post goes live on Academy and is credited to your profile\n- **Requested changes** — You get feedback and can edit and resubmit\n- **Rejected** — Out-of-scope or low-effort submissions. Repeated rejections affect reputation.\n\nPublished posts earn you XP and reputation, count toward your post count on your public profile, and can be shared freely.",
-      "text": "提交后，您的帖子将进入**审核队列**。 CCTools 团队评论：\n\n- 事实准确性（尤其是针对广州的说法）\n- 原创性（未经授权不得复制粘贴内容）\n- 格式合理（图像加载、链接有效、结构遵循模板）\n- 与Canton Network生态系统的相关性\n\n结果：\n\n- **已批准** — 帖子在学院上线并计入您的个人资料\n- **请求的更改** — 您会收到反馈并可以编辑并重新提交\n- **拒绝** — 超出范围或省力的提交。多次拒绝会影响声誉。\n\n发布的帖子将为您赢得 XP 和声誉，计入您的公开个人资料中的帖子计数，并且可以自由共享。"
-    },
     "body:f3284e920dac": {
       "_src": "The **News** page has two channels behind a tab switcher at the top:\n\n- **News** — Curated Canton Network coverage from the web. Items are pulled from Google News and RSS sources, then summarized by an LLM so you can get the essentials in a sentence or two without clicking through.\n- **Community** — Member-submitted posts: announcements, takes, threads, write-ups, and updates shared by other CCTools users.\n\nEach tab shows a live count of how many items exist in that channel so you always know how much there is to read.",
       "text": "**新闻**页面在顶部的选项卡切换器后面有两个频道：\n\n- **新闻** — 来自网络的精选 Canton Network 报道。项目是从 Google 新闻和 RSS 资源中提取的，然后由法学硕士进行总结，这样您就可以用一两句话获得要点，而无需点击。\n- **社区** — 成员提交的帖子：其他 CCTools 用户共享的公告、发言、话题、评论和更新。\n\n每个选项卡都会显示该频道中存在的项目数量的实时计数，因此您始终知道有多少内容可供阅读。"
@@ -1216,10 +1164,6 @@
       "_src": "News ingestion runs **every 10 minutes**. The pipeline:\n\n1. Queries Google News (via Serper) for Canton-related keywords\n2. Merges items from curated RSS feeds\n3. **Deduplicates** across publishers using a normalized title key — the same story from two outlets only appears once\n4. Runs an LLM summary on each new article\n5. Publishes to the feed\n\nThe community feed updates in real time as new posts are submitted and approved.",
       "text": "新闻摄取**每 10 分钟**运行一次。管道：\n\n1. 查询Google News（通过Serper）与Canton相关的关键词\n2. 合并精选 RSS 源中的项目\n3. 使用标准化标题密钥在出版商之间进行重复数据删除——来自两个媒体的相同故事仅出现一次\n4. 对每篇新文章进行法学硕士摘要\n5. 发布到 feed\n\n随着新帖子的提交和批准，社区源会实时更新。"
     },
-    "body:75fac523ed5f": {
-      "_src": "Click any item to open its detail page, which shows the full summary, source link, publication date, and any related Canton projects mentioned. For community posts, you also see the author's Level and Reputation tier — the same author card shown on Academy posts.",
-      "text": "单击任何项​​目可打开其详细信息页面，其中显示完整摘要、来源链接、发布日期以及提到的任何相关坎顿项目。对于社区帖子，您还可以看到作者的级别和声誉等级 - 与学院帖子上显示的相同作者卡。"
-    },
     "body:1da987220c59": {
       "_src": "The search bar at the top of the page matches against titles, summaries, and source names. Searching triggers a deeper fetch — instead of the initial cached top items, CCTools loads the full recent archive for the channel you're in so you can find older stories.",
       "text": "页面顶部的搜索栏与标题、摘要和来源名称进行匹配。搜索会触发更深入的获取 - CCTools 会加载您所在频道的完整最新存档，以便您可以找到较旧的故事，而不是最初缓存的热门项目。"
@@ -1227,10 +1171,6 @@
     "body:195a6341f6e5": {
       "_src": "Each feed starts with the most recent items and a **Load More** button at the bottom. Clicking it fetches the next page without reloading the page. The tab badges always show the true total in the database, not just what's currently loaded.",
       "text": "每个提要都以最新的项目开始，并在底部有一个 **加载更多** 按钮。单击它即可获取下一页，而无需重新加载页面。选项卡徽章始终显示数据库中的真实总数，而不仅仅是当前加载的内容。"
-    },
-    "body:266f214ffcd7": {
-      "_src": "To submit a community post, open the Community tab and click **Submit**. Community submissions go through the same moderation queue as Academy posts and earn XP / reputation when approved.",
-      "text": "要提交社区帖子，请打开“社区”选项卡并单击“**提交**”。社区提交的内容与学院帖子一样经过相同的审核队列，并在获得批准后获得 XP/声誉。"
     },
     "body:ec007bc6507a": {
       "_src": "CCTools scans the database for newly-added content every 30 minutes. You'll be notified (in-app, and optionally by email) when:\n\n- A new **project** is added to the Ecosystem\n- A new **Earn opportunity** goes live\n- A new **campaign** is launched\n- A new **Academy post** is published\n- A new **Learn Path** is released\n\nThis keeps you at the edge of what's happening in the ecosystem without having to check every page manually.",
@@ -1251,6 +1191,26 @@
     "body:6f8441b5eb01": {
       "_src": "Go to **Settings → Notifications** to toggle each category independently. You can also use the **Unsubscribe** link at the bottom of any email to quickly turn off the category that sent it.",
       "text": "转到 **设置 → 通知** 独立切换每个类别。您还可以使用任何电子邮件底部的**取消订阅**链接来快速关闭发送该电子邮件的类别。"
+    },
+    "body:cbf6a5e10141": {
+      "_src": "**Portfolio Tracker** — Connect your wallets and see your full Canton portfolio with real-time prices, P&L, rewards, and transfer history.\n\n**Ecosystem Directory** — Browse hundreds of projects building on Canton Network, filterable by category, role, and status. Upvote your favorites.\n\n**Explore** — Unified discovery hub that surfaces projects, validators, and rewards side by side.\n\n**Compare** — Compare up to 4 projects (Pro) or validators side by side.\n\n**Earn** — Complete tasks, discover opportunities, and join campaigns to earn XP and climb the leaderboard.\n\n**Academy** — Read curated articles and hands-on guides about Canton and CCTools, written by the community. Publish your own with the post submission flow.\n\n**News** — Canton-focused news feed with LLM summaries, plus a community feed of member-submitted posts. Search, filter, and subscribe to new content notifications.\n\n**Learn Paths** — Multi-step structured learning tracks that guide you through Canton, CCTools, and related topics.\n\n**Rewards Calculator** — Calculate potential rewards as an App Builder, Validator, or CC Holder.\n\n**Network Stats** — Real-time Canton Network metrics with TradingView integration.\n\n**Governance** — Track Super Validator votes and governance proposals.\n\n**Leaderboard** — See where you rank among other CCTools users with standard, weekly, and bracket views.",
+      "text": "**投资组合追踪器** — 连接您的钱包并查看您的完整 Canton 投资组合以及实时价格、损益、奖励和转账历史记录。\n\n**生态系统目录** — 浏览在 Canton Network 上构建的数百个项目，可按类别、角色和状态进行过滤。为你最喜欢的投票点赞。\n\n**探索** - 统一的发现中心，并排显示项目、验证器和奖励。\n\n**比较** — 并排比较最多 4 个项目（专业版）或验证器。\n\n**赚取** — 完成任务、发现机会并参加活动以赚取 XP 并登上排行榜。\n\n**学院** — 阅读社区撰写的关于 Canton 和 CCTools 的精选文章和实践指南。通过帖子提交流程发布您自己的内容。\n\n**新闻** — 以广州为中心的新闻源，包含法学硕士摘要，以及成员提交帖子的社区源。搜索、过滤和订阅新内容通知。\n\n**学习路径** — 多步骤结构化学习轨道，指导您完成 Canton、CCTools 和相关主题。\n\n**奖励计算器** — 计算作为应用程序构建者、验证者或 CC 持有者的潜在奖励。\n\n**网络统计** — 与 TradingView 集成的实时 Canton 网络指标。\n\n**治理** — 跟踪超级验证者投票和治理提案。\n\n**排行榜** — 通过标准视图、每周视图和分组视图查看您在其他 CCTools 用户中的排名。"
+    },
+    "body:016d537f7aa8": {
+      "_src": "Anything published in Academy is either:\n\n- Written by the **CCTools editorial team**, or\n- Written by a **community author** and approved through the review flow\n\nEach post page shows a rich **Author Card** with the writer's avatar, display name, Level, total XP, and a link to their public profile. Community posts without an attached author fall back to a \"CCTools Editorial\" byline.",
+      "text": "在学院发布的任何内容都是：\n\n- 由 **CCTools 编辑团队**撰写，或\n- 由**社区作者**撰写并通过审核流程批准\n\n每个帖子页面都会显示丰富的**作者卡**，其中包含作者的头像、显示名称、级别、总 XP 以及其公开个人资料的链接。没有附加作者的社区帖子会回退到“CCTools 社论”署名。"
+    },
+    "body:e6edc5dec246": {
+      "_src": "When you submit, your post enters the **moderation queue**. The CCTools team reviews for:\n\n- Factual accuracy (especially Canton-specific claims)\n- Originality (no copy-paste content without credit)\n- Formatting sanity (images load, links work, structure follows the template)\n- Relevance to the Canton Network ecosystem\n\nOutcomes:\n\n- **Approved** — Post goes live on Academy and is credited to your profile\n- **Requested changes** — You get feedback and can edit and resubmit\n- **Rejected** — Out-of-scope or low-effort submissions.\n\nPublished posts earn you XP, count toward your post count on your public profile, and can be shared freely.",
+      "text": "提交后，您的帖子将进入**审核队列**。 CCTools 团队评论：\n\n- 事实准确性（尤其是针对广州的说法）\n- 原创性（未经授权不得复制粘贴内容）\n- 格式合理（图像加载、链接有效、结构遵循模板）\n- 与Canton Network生态系统的相关性\n\n结果：\n\n- **已批准** — 帖子在学院上线并计入您的个人资料\n- **请求的更改** — 您会收到反馈并可以编辑并重新提交\n- **拒绝** — 超出范围或省力的提交。\n\n发布的帖子可为您赢得 XP，计入您的公开个人资料中的帖子计数，并且可以自由共享。"
+    },
+    "body:44ff662b5414": {
+      "_src": "Click any item to open its detail page, which shows the full summary, source link, publication date, and any related Canton projects mentioned. For community posts, you also see the author's Level — the same author card shown on Academy posts.",
+      "text": "单击任何项​​目可打开其详细信息页面，其中显示完整摘要、来源链接、发布日期以及提到的任何相关坎顿项目。对于社区帖子，您还可以看到作者的级别 - 与学院帖子上显示的相同作者卡。"
+    },
+    "body:1fe527a12026": {
+      "_src": "To submit a community post, open the Community tab and click **Submit**. Community submissions go through the same moderation queue as Academy posts and earn XP when approved.",
+      "text": "要提交社区帖子，请打开“社区”选项卡并单击“**提交**”。社区提交的内容与学院帖子一样经过相同的审核队列，并在获得批准后获得 XP。"
     }
   }
 }

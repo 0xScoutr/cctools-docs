@@ -63,7 +63,7 @@ export const metadata: Metadata = {
     "Canton Academy",
     "Canton news",
     "Canton learn paths",
-    "Canton reputation",
+    "Canton XP",
   ],
   icons: {
     icon: [

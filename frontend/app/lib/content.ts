@@ -64,7 +64,7 @@ export const categories: Category[] = [
           },
           {
             heading: "Key Features",
-            body: "**Portfolio Tracker** — Connect your wallets and see your full Canton portfolio with real-time prices, P&L, rewards, and transfer history.\n\n**Ecosystem Directory** — Browse hundreds of projects building on Canton Network, filterable by category, role, and status. Upvote your favorites.\n\n**Explore** — Unified discovery hub that surfaces projects, validators, and rewards side by side.\n\n**Compare** — Compare up to 4 projects (Pro) or validators side by side.\n\n**Earn** — Complete tasks, discover opportunities, and join campaigns to earn XP and climb the leaderboard.\n\n**Academy** — Read curated articles and hands-on guides about Canton and CCTools, written by the community. Publish your own with the post submission flow.\n\n**News** — Canton-focused news feed with LLM summaries, plus a community feed of member-submitted posts. Search, filter, and subscribe to new content notifications.\n\n**Learn Paths** — Multi-step structured learning tracks that guide you through Canton, CCTools, and related topics.\n\n**Rewards Calculator** — Calculate potential rewards as an App Builder, Validator, or CC Holder.\n\n**Network Stats** — Real-time Canton Network metrics with TradingView integration.\n\n**Governance** — Track Super Validator votes and governance proposals.\n\n**Leaderboard** — See where you rank among other CCTools users with standard, weekly, and bracket views.\n\n**Reputation** — A second progression track alongside XP/levels, measuring the quality of your submissions and community contributions.",
+            body: "**Portfolio Tracker** — Connect your wallets and see your full Canton portfolio with real-time prices, P&L, rewards, and transfer history.\n\n**Ecosystem Directory** — Browse hundreds of projects building on Canton Network, filterable by category, role, and status. Upvote your favorites.\n\n**Explore** — Unified discovery hub that surfaces projects, validators, and rewards side by side.\n\n**Compare** — Compare up to 4 projects (Pro) or validators side by side.\n\n**Earn** — Complete tasks, discover opportunities, and join campaigns to earn XP and climb the leaderboard.\n\n**Academy** — Read curated articles and hands-on guides about Canton and CCTools, written by the community. Publish your own with the post submission flow.\n\n**News** — Canton-focused news feed with LLM summaries, plus a community feed of member-submitted posts. Search, filter, and subscribe to new content notifications.\n\n**Learn Paths** — Multi-step structured learning tracks that guide you through Canton, CCTools, and related topics.\n\n**Rewards Calculator** — Calculate potential rewards as an App Builder, Validator, or CC Holder.\n\n**Network Stats** — Real-time Canton Network metrics with TradingView integration.\n\n**Governance** — Track Super Validator votes and governance proposals.\n\n**Leaderboard** — See where you rank among other CCTools users with standard, weekly, and bracket views.",
           },
           {
             heading: "Who is it for?",
@@ -355,30 +355,6 @@ export const categories: Category[] = [
         ],
       },
       {
-        slug: "reputation",
-        title: "Reputation System",
-        summary: "Reputation is a quality signal separate from XP — earned through approved submissions and community contributions.",
-        tags: ["reputation", "quality", "submissions"],
-        sections: [
-          {
-            heading: "Reputation vs XP",
-            body: "Reputation is a second progression track that runs alongside XP and levels. Where **XP** measures activity (logins, upvotes, views), **Reputation** measures the **quality of your contributions** to the platform.\n\nReputation is shown on your profile and next to your username in places like Academy author cards, community posts, and comments — so others can quickly see how trusted your contributions are.",
-          },
-          {
-            heading: "How You Earn Reputation",
-            body: "You gain reputation when the community and moderators validate your contributions:\n\n- **Approved project submissions** — Suggest a project to the Ecosystem and get it approved\n- **Approved ecosystem edits** — Submit accurate edits to existing project data\n- **Approved Earn opportunities** — Suggest opportunities that get added\n- **Published Academy posts** — Write articles or guides that pass editorial review\n- **Approved news submissions** — Community posts that get accepted into the news feed\n- **Helpful feedback** — Bug reports and feedback that lead to improvements\n\nEach approved contribution awards reputation points. The value scales with the type and quality of the contribution.",
-          },
-          {
-            heading: "Reputation Penalties & Decay",
-            body: "Reputation goes down as well as up:\n\n- **Rejected submissions** — Spammy or low-quality submissions lose reputation\n- **Auto-penalty** — Multiple rejections in a short window trigger an automatic reputation hit\n- **Inactivity decay** — A small amount of reputation decays during long periods of inactivity, so leaderboards stay fresh\n\nThis ensures reputation reflects current, genuine contribution — not historical activity that stopped long ago.",
-          },
-          {
-            heading: "Reputation Tiers",
-            body: "Reputation is grouped into ten tiers, each with its own name and color, shown as a colored pill next to your name:\n\n- Newcomer → Contributor → Trusted → Established → Veteran → Authority → Expert → Elite → Legendary → Mythic\n\nHigher tiers unlock community trust — for example, curators and trusted reviewers tend to come from higher reputation tiers. Future features (weighted upvotes, moderation queues, featured authorship) will use reputation as a signal.",
-          },
-        ],
-      },
-      {
         slug: "learn-paths",
         title: "Learn Paths",
         summary: "Multi-step structured learning tracks that guide you through Canton, CCTools, and related topics.",
@@ -420,7 +396,7 @@ export const categories: Category[] = [
           },
           {
             heading: "Who Writes the Academy?",
-            body: "Anything published in Academy is either:\n\n- Written by the **CCTools editorial team**, or\n- Written by a **community author** and approved through the review flow\n\nEach post page shows a rich **Author Card** with the writer's avatar, display name, Level, Reputation tier, total XP, and a link to their public profile. Community posts without an attached author fall back to a \"CCTools Editorial\" byline.",
+            body: "Anything published in Academy is either:\n\n- Written by the **CCTools editorial team**, or\n- Written by a **community author** and approved through the review flow\n\nEach post page shows a rich **Author Card** with the writer's avatar, display name, Level, total XP, and a link to their public profile. Community posts without an attached author fall back to a \"CCTools Editorial\" byline.",
           },
           {
             heading: "Finding Posts",
@@ -464,7 +440,7 @@ export const categories: Category[] = [
           },
           {
             heading: "Submission & Review",
-            body: "When you submit, your post enters the **moderation queue**. The CCTools team reviews for:\n\n- Factual accuracy (especially Canton-specific claims)\n- Originality (no copy-paste content without credit)\n- Formatting sanity (images load, links work, structure follows the template)\n- Relevance to the Canton Network ecosystem\n\nOutcomes:\n\n- **Approved** — Post goes live on Academy and is credited to your profile\n- **Requested changes** — You get feedback and can edit and resubmit\n- **Rejected** — Out-of-scope or low-effort submissions. Repeated rejections affect reputation.\n\nPublished posts earn you XP and reputation, count toward your post count on your public profile, and can be shared freely.",
+            body: "When you submit, your post enters the **moderation queue**. The CCTools team reviews for:\n\n- Factual accuracy (especially Canton-specific claims)\n- Originality (no copy-paste content without credit)\n- Formatting sanity (images load, links work, structure follows the template)\n- Relevance to the Canton Network ecosystem\n\nOutcomes:\n\n- **Approved** — Post goes live on Academy and is credited to your profile\n- **Requested changes** — You get feedback and can edit and resubmit\n- **Rejected** — Out-of-scope or low-effort submissions.\n\nPublished posts earn you XP, count toward your post count on your public profile, and can be shared freely.",
           },
         ],
       },
@@ -494,7 +470,7 @@ export const categories: Category[] = [
           },
           {
             heading: "Reading an Item",
-            body: "Click any item to open its detail page, which shows the full summary, source link, publication date, and any related Canton projects mentioned. For community posts, you also see the author's Level and Reputation tier — the same author card shown on Academy posts.",
+            body: "Click any item to open its detail page, which shows the full summary, source link, publication date, and any related Canton projects mentioned. For community posts, you also see the author's Level — the same author card shown on Academy posts.",
           },
         ],
       },
@@ -514,7 +490,7 @@ export const categories: Category[] = [
           },
           {
             heading: "Community Submissions",
-            body: "To submit a community post, open the Community tab and click **Submit**. Community submissions go through the same moderation queue as Academy posts and earn XP / reputation when approved.",
+            body: "To submit a community post, open the Community tab and click **Submit**. Community submissions go through the same moderation queue as Academy posts and earn XP when approved.",
           },
         ],
       },
