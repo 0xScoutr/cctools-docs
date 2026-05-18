@@ -3,7 +3,11 @@ import { ArrowLeft } from "lucide-react";
 
 export default function NotFound() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-[60vh] px-6 text-center animate-fade-in">
+    // Full viewport height so the content is vertically centered no
+    // matter what surrounding layout chrome is rendered. The previous
+    // `min-h-[60vh]` only filled 60% of the viewport, leaving the 404
+    // visibly anchored to the top.
+    <div className="min-h-screen flex flex-col items-center justify-center px-6 text-center animate-fade-in">
       <div className="text-[4rem] font-heading font-bold text-t4 mb-2">
         404
       </div>
