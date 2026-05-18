@@ -24,75 +24,98 @@ export const metadata: Metadata = {
 };
 
 /**
- * /api — public API reference page.
+ * /api: public API reference rendered by Scalar (loaded from jsDelivr).
  *
- * Renders the OpenAPI 3.0 spec served from api.cctools.network/api/v1/openapi.json
- * via Scalar (loaded from jsDelivr CDN — no npm dep, no lockfile change).
- * Scalar bundles its own theme + try-it-out pane so we don't ship the
- * larger Stoplight Elements bundle.
+ * Scalar owns the entire viewport: sidebar (operations grouped by tag),
+ * try-it-out pane, schema preview. Our chrome stays out of the way so
+ * the visitor isn't reading two intros stacked. A minimal breadcrumb
+ * keeps brand presence without duplicating the spec's own description.
  *
- * The page is intentionally outside the /[lang]/ tree because API docs
- * aren't localized — the spec content is English. If translations are
- * needed later, wrap the relevant intro copy in a localized variant.
+ * Out-of-localized tree because the spec content is English-only. Bump
+ * the customCss section when you tweak brand colors.
  */
+const CUSTOM_CSS = `
+  /* Scalar brand overlay — match cctools dark + lime accents. The kepler
+     theme variables are scoped via .scalar-app and friends. */
+  :root {
+    --scalar-color-1: #f3f4f6;
+    --scalar-color-2: #b8bcc8;
+    --scalar-color-3: #6f7488;
+    --scalar-color-accent: #e6ff6a;
+    --scalar-background-1: #0c0e14;
+    --scalar-background-2: #11131c;
+    --scalar-background-3: #161927;
+    --scalar-background-accent: rgba(230, 255, 106, 0.08);
+    --scalar-border-color: #232739;
+    --scalar-button-1: #e6ff6a;
+    --scalar-button-1-color: #0c0e14;
+    --scalar-button-1-hover: #d4f050;
+    --scalar-link-color: #e6ff6a;
+    --scalar-link-color-hover: #d4f050;
+  }
+  .scalar-app, .scalar-api-reference {
+    font-family: "Inter", system-ui, sans-serif;
+  }
+  .scalar-app h1, .scalar-app h2, .scalar-app h3 {
+    font-family: "Manrope", system-ui, sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  .scalar-app code, .scalar-app pre {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+  }
+`.trim();
+
 export default function ApiDocsPage() {
   return (
-    <div className="min-h-screen bg-bg">
-      <header className="w-full max-w-5xl mx-auto px-4 sm:px-6 py-10">
-        <div className="font-data text-[10px] text-lime uppercase tracking-[0.2em] font-semibold mb-2">
-          API Reference
+    <>
+      {/* Slim breadcrumb so the docs visitor knows where they are.
+          Keeps brand presence without duplicating Scalar's own intro. */}
+      <nav
+        aria-label="Breadcrumb"
+        className="border-b border-border bg-bg"
+        style={{ position: "sticky", top: 0, zIndex: 30 }}
+      >
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-3 flex items-center gap-3 font-data text-[10px] uppercase tracking-[0.2em] text-t3">
+          <a href="/" className="hover:text-lime text-t2">
+            CCTools Docs
+          </a>
+          <span className="text-t4">/</span>
+          <span className="text-lime">API Reference</span>
+          <span className="ml-auto flex items-center gap-3">
+            <a
+              href={OPENAPI_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-lime"
+            >
+              OpenAPI JSON
+            </a>
+            <a
+              href="https://status.cctools.network"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-lime"
+            >
+              Status
+            </a>
+            <a
+              href="https://cctools.network/profile/api"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-lime"
+            >
+              Get a key
+            </a>
+          </span>
         </div>
-        <h1 className="font-heading font-extrabold text-[var(--text-3xl)] text-t1 mb-3 leading-tight">
-          CCTools Public API
-        </h1>
-        <p className="text-[var(--text-base)] text-t2 max-w-2xl leading-relaxed">
-          Read-only HTTP access to the ecosystem, users, earn opportunities
-          and leaderboard. All requests authenticate via the{" "}
-          <code className="font-mono text-[var(--text-sm)] px-1.5 py-0.5 rounded bg-bg-surface border border-border">
-            X-Api-Key
-          </code>{" "}
-          header. Apply for access at{" "}
-          <a
-            href="https://cctools.network/profile/api"
-            className="text-lime hover:underline"
-          >
-            cctools.network/profile/api
-          </a>
-          .
-        </p>
-        <div className="mt-4 flex items-center gap-3 flex-wrap font-data text-[10px] uppercase tracking-wider text-t3">
-          <a
-            href={OPENAPI_URL}
-            className="hover:text-lime"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            OpenAPI 3.0 spec ↗
-          </a>
-          <span>·</span>
-          <a
-            href="https://status.cctools.network"
-            className="hover:text-lime"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Status ↗
-          </a>
-          <span>·</span>
-          <a
-            href="https://www.npmjs.com/package/@cctools/sdk-js"
-            className="hover:text-lime"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            @cctools/sdk-js ↗
-          </a>
-        </div>
-      </header>
+      </nav>
 
-      {/* Scalar API Reference — drop-in CDN embed.
-          docs: https://github.com/scalar/scalar */}
-      <section className="w-full" aria-label="Interactive API reference">
+      <style dangerouslySetInnerHTML={{ __html: CUSTOM_CSS }} />
+
+      {/* Scalar mounts here. It renders its own header / sidebar / content
+          inside this div, so we don't add our own intro above it. */}
+      <section aria-label="Interactive API reference">
         <div
           id="api-reference"
           data-url={OPENAPI_URL}
@@ -100,10 +123,14 @@ export default function ApiDocsPage() {
             theme: "kepler",
             darkMode: true,
             hideClientButton: false,
+            hideDownloadButton: false,
             layout: "modern",
+            defaultOpenAllTags: false,
+            withDefaultFonts: false,
             metaData: {
               title: "CCTools API",
-              description: "Public API for the Canton Network community toolkit.",
+              description:
+                "Public API for the Canton Network community toolkit.",
             },
           })}
         />
@@ -112,6 +139,6 @@ export default function ApiDocsPage() {
           strategy="afterInteractive"
         />
       </section>
-    </div>
+    </>
   );
 }
